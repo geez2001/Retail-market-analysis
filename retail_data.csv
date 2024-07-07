@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Name,City,State,Zipcode,Country,Age,Gender,Income,Customer_Segment,Date,Year,Month,Total_Purchases,Amount,Total_Amount,Product_Category,Product_Brand,Product_Type,Feedback,Shipping_Method,Payment_Method,Order_Status,Ratings
+6592641,10001,"Miss Kristen Ingram",Portsmouth,England,88498,UK,19,Male,Medium,Regular,3/15/2023,2023,March,3,122.49,367.46,Grocery,Coca-Cola,"Soft Drink",Bad,Express,Cash,Delivered,1
+9185879,10010,"Ryan Smith",Portsmouth,England,72512,UK,32,Female,Low,Regular,9/24/2023,2023,September,8,178.66,1429.32,Clothing,Zara,Shirt,Excellent,Same-Day,"Debit Card",Delivered,4
+7913730,10015,"Ryan Weber",Portsmouth,England,19023,UK,19,Female,Medium,Regular,7/9/2023,2023,July,3,185.25,555.76,Clothing,Adidas,Jacket,Good,Express,"Debit Card",Delivered,4
+3422673,10017,"Paula Perkins",Portsmouth,England,32148,UK,21,Female,Medium,Regular,8/3/2023,2023,August,10,160.61,1606.07,Books,HarperCollins,Fiction,Average,Express,Cash,Pending,2
+6785041,10019,"John King",Portsmouth,England,58006,UK,21,Male,Medium,Regular,3/27/2023,2023,March,3,223.85,671.55,Electronics,Samsung,Smartphone,Good,Standard,"Debit Card",Pending,4
+7057073,10028,"Theresa Nielsen",Portsmouth,England,82461,UK,19,Male,Medium,Regular,2/7/2024,2024,February,4,243.94,975.74,Books,"Penguin Books",Fiction,Excellent,Same-Day,"Debit Card",Delivered,5
+3548392,10032,"Deborah Alvarado",Portsmouth,England,64880,UK,24,Male,Medium,Regular,1/31/2024,2024,January,8,439.95,3519.61,"Home Decor","Bed Bath & Beyond",Bathroom,Excellent,Same-Day,"Debit Card",Delivered,4
+2335714,10034,"Zachary Allen",Portsmouth,England,22509,UK,55,Female,High,Regular,8/16/2023,2023,August,6,197.79,1186.76,Grocery,Nestle,Chocolate,Average,Standard,Cash,Delivered,2
+5056596,10037,"Robert Wilson",Portsmouth,England,20966,UK,19,Male,Medium,Regular,10/3/2023,2023,October,2,98.31,196.62,Grocery,Pepsi,"Soft Drink",Bad,Same-Day,Cash,Delivered,1
+2749337,10040,"John Reyes",Portsmouth,England,31753,UK,24,Male,Medium,Regular,8/12/2023,2023,August,6,39.78,238.67,Books,"Random House",Fiction,Good,Express,"Credit Card",Processing,4
+5696774,10053,"Kayla Wood",Portsmouth,England,97842,UK,21,Male,High,Regular,9/14/2023,2023,September,10,423.48,4234.84,Clothing,Zara,Dress,Average,Same-Day,"Credit Card",Pending,2
+8547784,10061,,Portsmouth,England,16360,UK,24,Male,Medium,Regular,4/12/2023,2023,April,7,161.38,1129.64,Grocery,Nestle,Chocolate,Good,Same-Day,PayPal,Delivered,3
+7564609,10062,"Alice Gonzalez",Portsmouth,England,21492,UK,19,Female,Medium,Regular,1/8/2024,2024,January,1,419.67,419.67,Grocery,Coca-Cola,Water,Good,Express,"Credit Card",Processing,4
+7245377,10086,"Cole Gibbs",Portsmouth,England,14763,UK,19,Male,Medium,Regular,11/20/2023,2023,November,2,465.23,930.46,Grocery,Coca-Cola,"Soft Drink",Good,Express,"Credit Card",Processing,4
+6974710,10089,"Vincent Mcmillan",Portsmouth,England,7957,UK,21,Male,Medium,Regular,5/9/2023,2023,May,3,224.03,672.08,"Home Decor",IKEA,Lighting,Excellent,Standard,"Debit Card",Delivered,5
+4891356,10091,"Matthew Miller",Portsmouth,England,28857,UK,21,Female,Medium,Regular,12/18/2023,2023,December,7,309.13,2163.94,Grocery,Coca-Cola,Water,Average,Express,"Credit Card",Pending,2
+6432207,10099,"Robert Jordan",Portsmouth,England,19974,UK,24,Female,Medium,Regular,10/5/2023,2023,October,5,93.26,466.29,Grocery,Coca-Cola,Water,Excellent,Express,"Credit Card",Processing,4
+4681215,10132,"Diane Jackson",Portsmouth,England,50906,UK,19,Male,Medium,Regular,9/17/2023,2023,September,10,417.06,4170.59,Clothing,Zara,Shirt,Excellent,Same-Day,"Debit Card",Delivered,5
+3269363,10137,"Todd Moore",Portsmouth,England,88612,UK,21,Female,High,Regular,11/30/2023,2023,November,4,89.18,356.72,"Home Decor","Home Depot",Tools,Good,Express,Cash,Shipped,3
+9050195,10184,"Susan Wilson",Portsmouth,England,31844,UK,19,Male,Medium,Regular,12/26/2023,2023,December,5,192.6,962.99,Electronics,Sony,Smartphone,Bad,Express,Cash,Delivered,1
+8984831,10237,"Michael Walker",Portsmouth,England,46942,UK,64,Male,Medium,Regular,3/22/2023,2023,March,4,404.82,1619.29,Books,"Random House",Literature,Average,Express,Cash,Processing,2
+5875405,10242,"Melissa Carlson",Portsmouth,England,18052,UK,21,Female,High,Regular,12/28/2023,2023,December,6,469.3,2815.79,Books,HarperCollins,Non-Fiction,Good,Standard,PayPal,Shipped,3
+5080968,10246,"Kristen Myers",Portsmouth,England,57286,UK,21,Female,Medium,Regular,5/28/2023,2023,May,7,445.14,3115.99,"Home Decor",IKEA,Furniture,Excellent,Same-Day,PayPal,Shipped,5
+6723335,10248,"Mark Mccarthy",Portsmouth,England,1140,UK,24,Male,Medium,Regular,4/17/2023,2023,April,9,283.18,2548.61,Clothing,Zara,Shirt,Good,Standard,"Debit Card",Shipped,4
+6054098,10262,"Kara Rodriguez",Portsmouth,England,79331,UK,21,Male,Medium,Regular,7/11/2023,2023,July,2,111.61,223.22,Grocery,Pepsi,Water,Good,Same-Day,"Credit Card",Processing,3
+5314000,10264,"Jason Martinez",Portsmouth,England,64086,UK,24,Female,Medium,Regular,6/4/2023,2023,June,2,259.49,518.99,Books,HarperCollins,Thriller,Average,Same-Day,"Credit Card",Delivered,2
+6153027,10283,"Mary Anthony",Portsmouth,England,58261,UK,19,Male,Medium,Regular,9/17/2023,2023,September,9,39.33,353.98,Electronics,Sony,Television,Bad,Same-Day,Cash,Delivered,1
+4241728,10292,"Stephanie Gross",Portsmouth,England,12840,UK,24,Male,Medium,Regular,8/16/2023,2023,August,10,336.38,3363.83,Grocery,Coca-Cola,"Soft Drink",Bad,Same-Day,PayPal,Pending,1
+3608140,10302,"Amber Williams",Portsmouth,England,4106,UK,19,Male,Medium,Regular,3/13/2023,2023,March,7,277.93,1945.52,Books,"Random House",Literature,Good,Same-Day,PayPal,Delivered,4
+6547307,10329,"Janet Scott",Portsmouth,England,35822,UK,24,Female,Medium,Regular,3/11/2023,2023,March,5,390.19,1950.94,Clothing,Adidas,Shoes,Bad,Standard,"Debit Card",Delivered,1
+7105688,10342,"Anthony Banks",Portsmouth,England,17386,UK,24,Male,Medium,Regular,1/8/2024,2024,January,2,455.59,911.17,Clothing,Zara,Shirt,Excellent,Standard,"Credit Card",Pending,5
+4104450,10344,"Lisa Arnold",Portsmouth,England,15846,UK,21,Female,Medium,Regular,1/30/2024,2024,January,2,87.74,175.48,Books,"Penguin Books",Non-Fiction,Average,Standard,Cash,Shipped,2
+7473998,10358,"Larry Herring",Portsmouth,England,29580,UK,21,Male,High,Regular,12/20/2023,2023,December,2,387.85,775.69,"Home Decor",IKEA,Lighting,Good,Standard,"Credit Card",Processing,4
+1706057,10363,"Christine Larson",Portsmouth,England,49125,UK,24,Female,Medium,Regular,2/13/2024,2024,February,2,87.39,174.78,Clothing,Nike,T-shirt,Bad,Same-Day,Cash,Pending,1
+6146482,10366,"Tracey Wilkinson",Portsmouth,England,49914,UK,21,Female,Medium,Regular,3/4/2023,2023,March,9,83.76,753.83,Electronics,Apple,Smartphone,Bad,Same-Day,"Credit Card",Shipped,1
+5643104,10369,"Jimmy Dean",Portsmouth,England,74640,UK,19,Male,Medium,Regular,12/4/2023,2023,December,7,444.77,3113.37,"Home Decor",IKEA,Lighting,Good,Same-Day,"Credit Card",Delivered,3
+3000449,10392,"Andrea Huang",Portsmouth,England,16538,UK,24,Male,Medium,Regular,10/14/2023,2023,October,8,74.47,595.75,Books,"Penguin Books",Children's,Excellent,Standard,Cash,Shipped,5
+3590047,10393,"Kenneth Glover",Portsmouth,England,17559,UK,21,Male,High,Regular,3/20/2023,2023,March,6,156.98,941.89,Clothing,Adidas,Shoes,Bad,Standard,"Credit Card",Shipped,1
+1888309,10394,"Tyler Fritz",Portsmouth,England,2937,UK,21,Male,High,Regular,9/12/2023,2023,September,3,340.71,1022.13,Electronics,Apple,Tablet,Good,Express,Cash,Delivered,4
+2439661,10399,"Darius Lane",Portsmouth,England,65008,UK,19,Male,Medium,Regular,11/17/2023,2023,November,1,188.43,188.43,Electronics,Sony,Television,Average,Standard,PayPal,Pending,2
+1701304,10403,"Olivia Patel",Portsmouth,England,93769,UK,21,Male,Medium,Regular,5/5/2023,2023,May,7,266.85,1867.95,Books,HarperCollins,Fiction,Excellent,Same-Day,PayPal,Pending,5
+1677495,10416,"John Morris",Portsmouth,England,54789,UK,24,Female,Medium,Regular,12/31/2023,2023,December,9,461.63,4154.69,Grocery,Nestle,Snacks,Excellent,Same-Day,Cash,Pending,4
+7925667,10434,"Stephanie Lee",Portsmouth,England,21296,UK,21,Male,Medium,Regular,4/16/2023,2023,April,1,42.83,42.83,Electronics,Sony,Headphones,Average,Standard,"Debit Card",Processing,2
+4112881,10448,"Steven Howell",Portsmouth,England,53618,UK,67,Female,Medium,Regular,10/31/2023,2023,October,3,136.86,410.57,Books,"Random House",Non-Fiction,Good,Standard,Cash,Delivered,3
+9021164,10452,"Andrew Boyer",Portsmouth,England,2928,UK,24,Male,Medium,Regular,7/11/2023,2023,July,3,460.4,1381.19,"Home Decor","Bed Bath & Beyond",Kitchen,Excellent,Same-Day,Cash,Processing,5
+6999055,10462,"Trevor Watson",Portsmouth,England,82175,UK,24,Male,Medium,Regular,9/19/2023,2023,September,2,169.61,339.21,Electronics,Apple,Smartphone,Average,Same-Day,Cash,Processing,2
+5704997,10466,"Christine Mendoza",Portsmouth,England,65536,UK,19,Female,Medium,Regular,2/3/2024,2024,February,6,63.47,380.82,Clothing,Zara,Dress,Excellent,Express,"Debit Card",Delivered,5
+9709957,10470,"Donald Blankenship",Portsmouth,England,84876,UK,21,Female,Medium,Regular,2/16/2024,2024,February,4,329.1,1316.39,Grocery,Nestle,Snacks,Average,Standard,PayPal,Processing,2
+3404409,10479,"John Barnes",Portsmouth,England,8970,UK,19,Female,Medium,Regular,6/11/2023,2023,June,9,76.39,687.51,Clothing,Adidas,Shoes,Bad,Standard,PayPal,Shipped,1
+6969495,10502,"Christy Fitzgerald",Portsmouth,England,39914,UK,19,Male,Medium,Regular,2/12/2024,2024,February,10,454.61,4546.09,Electronics,Apple,Tablet,Bad,Standard,"Credit Card",Delivered,1
+9196712,10526,"Rhonda Mitchell",Portsmouth,England,53799,UK,19,Male,Medium,Regular,11/7/2023,2023,November,4,205.2,820.79,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Standard,"Credit Card",Processing,1
+5528741,10542,"Daniel Delacruz",Portsmouth,England,49353,UK,24,Male,Medium,Regular,2/19/2024,2024,February,3,376.24,1128.71,"Home Decor","Bed Bath & Beyond",Kitchen,Excellent,Same-Day,PayPal,Shipped,5
+3115879,10545,"Timothy Barber",Portsmouth,England,47984,UK,24,Female,Medium,Regular,12/15/2023,2023,December,6,47.92,287.52,Books,"Random House",Fiction,Good,Express,Cash,Delivered,3
+2592376,10555,"John Parsons",Portsmouth,England,7421,UK,21,Female,Medium,Regular,8/3/2023,2023,August,6,105.38,632.27,Grocery,Nestle,Chocolate,Good,Standard,"Credit Card",Pending,4
+5727479,10557,"Susan Friedman",Portsmouth,England,2337,UK,24,Female,Medium,Regular,2/26/2024,2024,February,3,451.64,1354.91,Books,HarperCollins,Non-Fiction,Average,Same-Day,PayPal,Shipped,2
+1163163,10561,"Tina Fernandez",Portsmouth,England,97048,UK,24,Female,Medium,Regular,8/1/2023,2023,August,2,147.59,295.18,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Standard,"Debit Card",Shipped,2
+9530973,10565,"Megan Henry",Portsmouth,England,34360,UK,24,Male,Medium,Regular,1/19/2024,2024,January,7,224.02,1568.17,Clothing,Nike,T-shirt,Bad,Same-Day,"Debit Card",Shipped,1
+9474997,10570,"Jessica Frey",Portsmouth,England,6421,UK,19,Female,Medium,Regular,9/10/2023,2023,September,1,124.08,124.08,Clothing,Nike,T-shirt,Average,Express,Cash,Delivered,2
+2093346,10571,"Mark Nguyen",Portsmouth,England,59556,UK,21,Male,Medium,Regular,2/13/2024,2024,February,3,486.36,1459.07,Electronics,Samsung,Smartphone,Bad,Same-Day,"Debit Card",Delivered,1
+4023182,10572,"Keith Diaz",Portsmouth,England,75827,UK,24,Female,Medium,Regular,8/12/2023,2023,August,6,497.76,2986.57,Books,HarperCollins,Non-Fiction,Bad,Express,"Debit Card",Processing,1
+7618030,10580,"Samantha Smith MD",Portsmouth,England,40910,UK,19,Male,Medium,Regular,11/24/2023,2023,November,3,32.89,98.67,Clothing,Adidas,T-shirt,Good,Express,"Debit Card",Delivered,4
+8395359,10590,"Tina Howard",Portsmouth,England,72652,UK,43,Male,High,Regular,6/20/2023,2023,June,4,137.79,551.17,Clothing,Adidas,T-shirt,Excellent,Express,"Debit Card",Pending,4
+2139971,10604,"Rodney Campbell",Portsmouth,England,53407,UK,43,Female,Medium,Regular,3/14/2023,2023,March,1,197.23,197.23,Clothing,Zara,Shirt,Bad,Standard,PayPal,Shipped,1
+9459966,10627,"Jason Miller",Portsmouth,England,44381,UK,24,Female,Medium,Regular,11/15/2023,2023,November,5,10.19,50.96,Books,HarperCollins,Fiction,Bad,Express,Cash,Processing,1
+5536386,10632,"Michael Ortega",Portsmouth,England,50341,UK,24,Female,Medium,Regular,6/1/2023,2023,June,7,244.79,1713.52,Clothing,Zara,Dress,Average,Same-Day,"Debit Card",Shipped,2
+1486293,10638,"Todd Reese",Portsmouth,England,28830,UK,19,Female,Medium,Regular,8/23/2023,2023,August,7,429.77,3008.4,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Same-Day,"Credit Card",Pending,2
+8685881,10659,"Brian Silva",Portsmouth,England,94374,UK,24,Male,Medium,Regular,8/10/2023,2023,August,9,369.63,3326.65,Electronics,Sony,Headphones,Excellent,Standard,"Debit Card",Delivered,4
+2243408,10660,"Jordan Walters",Portsmouth,England,83451,UK,21,Female,Medium,Regular,5/9/2023,2023,May,3,239.15,717.45,Grocery,Coca-Cola,"Soft Drink",Excellent,Express,PayPal,Delivered,4
+8074873,10662,"Kevin Miller",Portsmouth,England,39962,UK,24,Male,Medium,Regular,12/7/2023,2023,December,10,204.68,2046.77,Electronics,Sony,Headphones,Bad,Standard,"Debit Card",Processing,1
+6697912,10664,"Christopher Garcia",Portsmouth,England,82345,UK,24,Male,Medium,Regular,7/8/2023,2023,July,8,455.12,3640.98,"Home Decor",IKEA,Furniture,Good,Standard,"Debit Card",Shipped,4
+3633799,10681,"Michaela Obrien",Portsmouth,England,61103,UK,24,Female,Medium,Regular,9/4/2023,2023,September,7,456.48,3195.33,Books,"Penguin Books",Children's,Excellent,Express,PayPal,Delivered,4
+6971325,10685,"Anne Francis",Portsmouth,England,21416,UK,21,Male,Medium,Regular,11/8/2023,2023,November,4,170.66,682.65,Grocery,Coca-Cola,"Soft Drink",Bad,Express,PayPal,Processing,1
+6931511,10687,"Matthew Bryant",Portsmouth,England,47206,UK,19,Female,Medium,Regular,12/14/2023,2023,December,7,473.7,3315.93,Grocery,Pepsi,Juice,Bad,Same-Day,PayPal,Delivered,1
+1386572,10693,"Angela Murphy",Portsmouth,England,37264,UK,21,Male,Medium,Regular,2/29/2024,2024,February,10,320.49,3204.87,"Home Decor","Bed Bath & Beyond",Bathroom,Excellent,Standard,PayPal,Shipped,4
+9801444,10695,"Daniel Rivas",Portsmouth,England,24616,UK,19,Female,Medium,Regular,1/3/2024,2024,January,5,264.85,1324.27,Electronics,Apple,Laptop,Excellent,Standard,"Credit Card",Processing,5
+8371213,10712,"Alex Smith",Portsmouth,England,71190,UK,21,Female,High,Regular,8/25/2023,2023,August,8,426.05,3408.41,Clothing,Zara,Shirt,Excellent,Express,"Credit Card",Processing,5
+3521600,10727,"Angela Johnson",Portsmouth,England,94059,UK,24,Male,Medium,Regular,8/14/2023,2023,August,2,316.54,633.08,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Standard,PayPal,Delivered,2
+3521970,10738,"Logan Greer",Portsmouth,England,27274,UK,24,Female,Medium,Regular,10/12/2023,2023,October,4,61.85,247.39,Books,HarperCollins,Non-Fiction,Good,Standard,"Credit Card",Processing,3
+7426166,10764,"William Jones",Portsmouth,England,60762,UK,21,Female,Medium,Regular,9/1/2023,2023,September,7,360.8,2525.6,Books,"Random House",Fiction,Average,Express,"Credit Card",Processing,2
+2263758,10767,"Cindy Jones",Portsmouth,England,36316,UK,21,Female,Medium,Regular,12/11/2023,2023,December,9,483.93,4355.33,Clothing,Adidas,Jacket,Average,Express,PayPal,Processing,2
+7494049,10778,"Jessica Green",Portsmouth,England,24616,UK,21,Male,Medium,Regular,11/19/2023,2023,November,1,415.79,415.79,Electronics,Samsung,Television,Bad,Same-Day,Cash,Shipped,1
+6778298,10800,"Ashley Burton",Portsmouth,England,8533,UK,21,Male,Medium,Regular,1/29/2024,2024,January,1,328.49,328.49,Clothing,Zara,Dress,Bad,Standard,Cash,Processing,1
+5258219,10801,"Kristie Perez",Portsmouth,England,55615,UK,21,Female,Medium,Regular,6/13/2023,2023,June,8,363.78,2910.24,Clothing,Adidas,Shoes,Bad,Standard,Cash,Pending,1
+9704233,10818,"Jacob Jenkins",Portsmouth,England,79606,UK,21,Male,High,Regular,12/19/2023,2023,December,6,318.8,1912.8,Clothing,Adidas,Jacket,Average,Express,Cash,Shipped,2
+4486805,10828,"Alicia Nelson",Portsmouth,England,60410,UK,19,Female,Medium,Regular,7/31/2023,2023,July,6,62.84,377.04,Books,"Penguin Books",Children's,Average,Same-Day,PayPal,Processing,2
+6361687,10836,"Andrew Clements",Portsmouth,England,33008,UK,21,Male,Medium,Regular,2/7/2024,2024,February,6,442.32,2653.9,"Home Decor","Home Depot",Decorations,Excellent,Standard,"Debit Card",Pending,5
+2725645,10876,"Jacob Thomas",Portsmouth,England,18439,UK,24,Male,Medium,Regular,7/31/2023,2023,July,1,432.64,432.64,Grocery,Nestle,Chocolate,Bad,Same-Day,Cash,Shipped,1
+3195721,10888,"Wesley Fisher",Portsmouth,England,21482,UK,24,Male,Medium,Regular,7/5/2023,2023,July,4,312.91,1251.65,Clothing,Zara,Dress,Excellent,Express,PayPal,Pending,4
+2990599,10890,"Timothy Schneider",Portsmouth,England,15008,UK,21,Male,Medium,Regular,7/7/2023,2023,July,6,364.56,2187.33,"Home Decor",IKEA,Furniture,Excellent,Standard,"Credit Card",Pending,4
+9644299,10901,"Jill Hunter",Portsmouth,England,74648,UK,21,Male,Medium,Regular,9/11/2023,2023,September,5,357.74,1788.68,Books,HarperCollins,Fiction,Excellent,Standard,"Credit Card",Shipped,4
+2339274,10902,"Jessica Moore",Portsmouth,England,55910,UK,19,Male,Medium,Regular,1/8/2024,2024,January,1,71.83,71.83,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Express,PayPal,Delivered,2
+2157979,10908,"Matthew Elliott",Portsmouth,England,1295,UK,19,Male,Medium,Regular,5/23/2023,2023,May,8,107.05,856.43,Books,"Penguin Books",Non-Fiction,Excellent,Same-Day,PayPal,Pending,4
+1895687,10909,"Thomas Garcia",Portsmouth,England,20678,UK,24,Male,Medium,Regular,6/18/2023,2023,June,7,177.35,1241.43,Grocery,Coca-Cola,"Soft Drink",Excellent,Standard,PayPal,Delivered,4
+1274252,10915,"Sarah Rogers",Portsmouth,England,23688,UK,21,Female,Medium,Regular,7/18/2023,2023,July,2,318.32,636.63,Grocery,Pepsi,"Soft Drink",Excellent,Express,Cash,Delivered,5
+3557321,10920,"Robert Gomez",Portsmouth,England,40454,UK,24,Female,Medium,Regular,6/18/2023,2023,June,4,440.85,1763.38,Electronics,Samsung,Smartphone,Excellent,Same-Day,PayPal,Delivered,5
+5809523,10931,"Luis Bradshaw",Portsmouth,England,8375,UK,19,Male,Medium,Regular,11/4/2023,2023,November,7,81.93,573.5,Books,"Penguin Books",Children's,Average,Same-Day,Cash,Delivered,2
+4123973,10933,"Anthony Hurst",Portsmouth,England,64668,UK,24,Female,Medium,Regular,11/2/2023,2023,November,6,85.21,511.28,Grocery,Coca-Cola,Juice,Average,Standard,Cash,Processing,2
+4625861,10939,"Stephanie Davis",Portsmouth,England,2933,UK,24,Female,Medium,Regular,6/1/2023,2023,June,10,413.11,4131.12,Grocery,Coca-Cola,"Soft Drink",Good,Standard,"Credit Card",Delivered,3
+5900439,10947,"Robert Moreno",Portsmouth,England,21521,UK,24,Female,Medium,Regular,9/18/2023,2023,September,9,417.21,3754.93,Grocery,Nestle,Coffee,Bad,Standard,"Credit Card",Pending,1
+9597673,10961,"Yesenia Riggs",Portsmouth,England,47896,UK,24,Male,Medium,Regular,4/28/2023,2023,April,6,114.25,685.53,Grocery,Nestle,Coffee,Excellent,Express,"Debit Card",Processing,5
+9435254,10967,"Suzanne Cunningham",Portsmouth,England,85547,UK,24,Male,Medium,Regular,10/16/2023,2023,October,6,290.68,1744.06,Electronics,Apple,Smartphone,Excellent,Same-Day,"Credit Card",Processing,5
+6468295,10970,"Daniel Newton",Portsmouth,England,48520,UK,24,Female,Medium,Regular,2/21/2024,2024,February,1,134.81,134.81,Clothing,Nike,Shoes,Bad,Same-Day,PayPal,Pending,1
+2011397,10987,"Jason Davidson",Portsmouth,England,99805,UK,21,Male,Medium,Regular,7/1/2023,2023,July,10,145.89,1458.9,Electronics,Sony,Television,Excellent,Standard,"Credit Card",Pending,4
+2297608,11002,"Judith Parsons",Portsmouth,England,58457,UK,21,Male,High,Regular,5/17/2023,2023,May,4,194.33,777.33,Grocery,Pepsi,Water,Average,Same-Day,Cash,Processing,2
+2100603,11021,"John Hoffman",Portsmouth,England,42955,UK,19,Male,Medium,Regular,6/24/2023,2023,June,10,343.52,3435.18,Electronics,Apple,Tablet,Bad,Express,PayPal,Delivered,1
+9129532,11029,"John Phillips",Portsmouth,England,59190,UK,19,Female,Medium,Regular,5/9/2023,2023,May,1,226.81,226.81,Books,"Random House",Fiction,Good,Standard,"Credit Card",Pending,4
+4870551,11033,"Jake Stark",Portsmouth,England,59631,UK,19,Male,Medium,Regular,5/7/2023,2023,May,7,488.87,3422.09,Grocery,Coca-Cola,Water,Good,Express,"Credit Card",Delivered,4
+7696363,11041,"Stephanie Lee",Portsmouth,England,94402,UK,19,Female,Medium,Regular,2/1/2024,2024,February,9,488.16,4393.42,Books,"Random House",Literature,Average,Express,Cash,Pending,2
+3736143,11045,"Thomas Hunter",Portsmouth,England,80747,UK,24,Female,Medium,Regular,11/10/2023,2023,November,3,373.76,1121.27,Books,"Random House",Literature,Excellent,Express,"Debit Card",Processing,4
+3385663,11047,"Joe Richardson",Portsmouth,England,47361,UK,19,Male,Medium,Regular,5/14/2023,2023,May,5,161.92,809.61,Books,"Penguin Books",Fiction,Excellent,Standard,Cash,Pending,4
+4268223,11060,"Andre Ross",Portsmouth,England,47854,UK,21,Female,Medium,Regular,8/4/2023,2023,August,5,45.5,227.48,Books,"Random House",Non-Fiction,Average,Same-Day,"Debit Card",Processing,2
+9286927,11084,"Christopher Diaz",Portsmouth,England,68852,UK,33,Female,High,Regular,11/5/2023,2023,November,4,222.54,890.14,Books,"Penguin Books",Non-Fiction,Good,Standard,"Debit Card",Shipped,3
+8134662,11094,"Dylan Larson",Portsmouth,England,21255,UK,19,Female,Medium,Regular,8/11/2023,2023,August,9,349.4,3144.6,Grocery,Coca-Cola,Water,Bad,Same-Day,"Credit Card",Pending,1
+5610402,11100,"Rachel Howard",Portsmouth,England,17226,UK,19,Female,Medium,Regular,4/29/2023,2023,April,3,134.6,403.8,Books,"Random House",Literature,Good,Express,Cash,Delivered,3
+9831189,11112,"Lisa Rios",Portsmouth,England,91776,UK,19,Female,Medium,Regular,10/5/2023,2023,October,1,123.8,123.8,Clothing,Zara,Shirt,Average,Same-Day,"Debit Card",Shipped,2
+7829348,11116,"Calvin Obrien",Portsmouth,England,52750,UK,21,Male,High,Regular,9/3/2023,2023,September,1,450.88,450.88,Electronics,Samsung,Television,Average,Standard,"Credit Card",Delivered,2
+5280033,11132,"Denise Daniel",Portsmouth,England,28865,UK,21,Male,Medium,Regular,6/22/2023,2023,June,2,155.69,311.37,Grocery,Nestle,Snacks,Bad,Express,"Debit Card",Shipped,1
+8579093,11135,"Brenda Webster",Portsmouth,England,35821,UK,37,Male,Low,Regular,2/29/2024,2024,February,4,95.46,381.82,Electronics,Sony,Television,Good,Standard,PayPal,Shipped,3
+4637711,11186,"Colleen Chaney",Portsmouth,England,79979,UK,21,Male,Medium,Regular,7/9/2023,2023,July,7,184.5,1291.52,Clothing,Adidas,Jacket,Good,Standard,Cash,Delivered,3
+6062052,11187,"Elizabeth Potts",Portsmouth,England,93841,UK,19,Female,Medium,Regular,7/30/2023,2023,July,1,229.57,229.57,Grocery,Pepsi,Juice,Good,Same-Day,Cash,Delivered,3
+5143761,11189,"Megan Holland",Portsmouth,England,93990,UK,24,Male,Medium,Regular,9/26/2023,2023,September,9,330.89,2978.02,Clothing,Adidas,T-shirt,Average,Express,PayPal,Processing,2
+2150445,11192,"Allison Austin",Portsmouth,England,34282,UK,24,Male,Medium,Regular,4/17/2023,2023,April,8,275.09,2200.7,Clothing,Adidas,Shoes,Excellent,Same-Day,Cash,Processing,5
+6148478,11196,"Margaret Scott",Portsmouth,England,93816,UK,52,Female,Medium,Regular,9/13/2023,2023,September,9,368.36,3315.27,"Home Decor","Home Depot",Tools,Good,Express,"Debit Card",Processing,4
+3920212,11202,"Nathan Dominguez",Portsmouth,England,64621,UK,21,Female,High,Regular,12/12/2023,2023,December,3,419.33,1257.98,Grocery,Pepsi,"Soft Drink",Good,Standard,"Debit Card",Pending,4
+5941195,11213,"Jeffrey Brown",Portsmouth,England,78867,UK,21,Male,Medium,Regular,4/20/2023,2023,April,2,381.14,762.29,Electronics,Samsung,Tablet,Good,Express,"Credit Card",Shipped,4
+8001382,11229,"Kevin Barton",Portsmouth,England,95156,UK,66,Male,Medium,Regular,9/24/2023,2023,September,2,177.64,355.27,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Same-Day,PayPal,Processing,2
+3707083,11230,"Jennifer Huang",Portsmouth,England,43454,UK,19,Male,Medium,Regular,8/11/2023,2023,August,3,492.63,1477.88,Grocery,Nestle,Coffee,Bad,Express,PayPal,Delivered,1
+9017675,11235,"Dylan Cooper",Portsmouth,England,77452,UK,19,Male,Medium,Regular,5/22/2023,2023,May,6,101.39,608.31,Clothing,Adidas,Shoes,Excellent,Same-Day,"Debit Card",Processing,5
+9011458,11269,"David Anderson",Portsmouth,England,1069,UK,21,Female,Medium,Regular,5/24/2023,2023,May,2,138.33,276.65,Clothing,Adidas,Shoes,Average,Standard,"Debit Card",Pending,2
+5341014,11283,"Paul Barnes",Portsmouth,England,35963,UK,21,Male,Medium,Regular,1/29/2024,2024,January,4,123.71,494.86,Clothing,Adidas,Jacket,Average,Express,"Debit Card",Shipped,2
+3382808,11285,"Matthew Anderson",Portsmouth,England,14707,UK,24,Male,Medium,Regular,4/16/2023,2023,April,3,346.61,1039.83,Electronics,Sony,Headphones,Excellent,Express,"Debit Card",Delivered,4
+3111772,11288,"Olivia Shea",Portsmouth,England,35923,UK,65,Female,Medium,Regular,3/14/2023,2023,March,1,117.04,117.04,Grocery,Pepsi,"Soft Drink",Good,Standard,PayPal,Shipped,3
+6754231,11297,"Matthew Taylor",Portsmouth,England,89038,UK,24,Male,Medium,Regular,12/5/2023,2023,December,8,177.4,1419.22,Clothing,Nike,T-shirt,Excellent,Express,PayPal,Delivered,4
+3003362,11307,"Joseph Bell",Portsmouth,England,78126,UK,24,Female,Medium,Regular,7/14/2023,2023,July,6,71.13,426.78,Electronics,Sony,Headphones,Excellent,Same-Day,Cash,Shipped,5
+3805032,11312,"Pamela Ramirez",Portsmouth,England,30448,UK,21,Female,Medium,Regular,7/24/2023,2023,July,2,101.35,202.7,Books,"Random House",Fiction,Bad,Same-Day,Cash,Pending,1
+1137884,11336,"Mr. Nicholas Strong",Portsmouth,England,45996,UK,19,Female,Medium,Regular,2/25/2024,2024,February,6,306.61,1839.63,Grocery,Coca-Cola,Juice,Bad,Express,Cash,Delivered,1
+6503390,11341,"Terry Miller",Portsmouth,England,20066,UK,21,Male,Medium,Regular,10/31/2023,2023,October,8,399.75,3197.99,Books,"Random House",Fiction,Bad,Express,"Credit Card",Processing,1
+4299910,11354,"John House",Portsmouth,England,3603,UK,28,Female,Medium,Regular,9/21/2023,2023,September,7,57.51,402.54,Electronics,Samsung,Smartphone,Average,Express,"Debit Card",Processing,2
+6684584,11361,"Amber Harris",Portsmouth,England,11620,UK,24,Male,Medium,Regular,1/1/2024,2024,January,4,487.39,1949.57,"Home Decor",IKEA,Lighting,Average,Same-Day,"Debit Card",Processing,2
+4823368,11365,"Robert Garza",Portsmouth,England,6144,UK,24,Male,Medium,Regular,4/25/2023,2023,April,3,402.89,1208.66,Books,"Penguin Books",Children's,Average,Express,"Debit Card",Processing,2
+6948534,11375,"Tracy Christensen",Portsmouth,England,4354,UK,19,Female,Medium,Regular,12/21/2023,2023,December,9,483.79,4354.13,Grocery,Pepsi,Water,Average,Standard,PayPal,Delivered,2
+9661702,11381,"Jillian Perez",Portsmouth,England,84473,UK,40,Male,Medium,Regular,6/2/2023,2023,June,2,127.16,254.31,Electronics,Sony,Smartphone,Bad,Same-Day,"Credit Card",Processing,1
+9250722,11388,"Michael Fernandez",Portsmouth,England,35704,UK,24,Female,Medium,Regular,5/24/2023,2023,May,9,236.05,2124.45,Grocery,Coca-Cola,"Soft Drink",Bad,Same-Day,PayPal,Processing,1
+4176344,11393,"Jerry Chaney",Portsmouth,England,52378,UK,46,Male,High,Regular,7/8/2023,2023,July,9,457.29,4115.63,Clothing,Nike,Shorts,Excellent,Same-Day,PayPal,Shipped,4
+6761027,11397,"Tracy Baxter",Portsmouth,England,49782,UK,29,Female,Low,Regular,8/31/2023,2023,August,2,405.45,810.9,"Home Decor","Home Depot",Furniture,Good,Standard,PayPal,Processing,4
+7540457,11399,"Miguel Rice",Portsmouth,England,65594,UK,21,Male,High,Regular,10/4/2023,2023,October,9,136.21,1225.93,Grocery,Nestle,Coffee,Average,Same-Day,"Credit Card",Pending,2
+7994869,11401,"James Lee",Portsmouth,England,13726,UK,24,Male,Medium,Regular,1/31/2024,2024,January,1,353.07,353.07,Clothing,Adidas,Jacket,Bad,Express,Cash,Pending,1
+1101332,11406,"Robert Lewis",Portsmouth,England,6550,UK,24,Male,Medium,Regular,10/4/2023,2023,October,6,148.22,889.33,Clothing,Nike,T-shirt,Average,Express,"Credit Card",Delivered,2
+1052244,11410,"Rebecca Nixon",Portsmouth,England,30605,UK,24,Female,Medium,Regular,10/1/2023,2023,October,3,210.54,631.63,Clothing,Adidas,Shoes,Good,Standard,Cash,Shipped,4
+3295759,11419,"April Foster",Portsmouth,England,32971,UK,21,Male,High,Regular,7/6/2023,2023,July,6,397.12,2382.71,Clothing,Adidas,Jacket,Good,Same-Day,"Debit Card",Delivered,4
+9293155,11426,"Ashley Shaw",Portsmouth,England,99021,UK,21,Female,High,Regular,3/31/2023,2023,March,3,72.16,216.49,Clothing,Zara,Shirt,Bad,Same-Day,"Credit Card",Pending,1
+6767529,11442,"Sandra Hernandez",Portsmouth,England,34349,UK,24,Female,Medium,Regular,5/28/2023,2023,May,6,181.14,1086.83,"Home Decor","Home Depot",Decorations,Good,Same-Day,Cash,Delivered,3
+1026796,11447,"Breanna Thomas",Portsmouth,England,57713,UK,21,Female,Medium,Regular,12/23/2023,2023,December,9,321.02,2889.16,Electronics,Sony,Headphones,Good,Standard,PayPal,Processing,4
+5937344,11452,"Joseph Lee",Portsmouth,England,93817,UK,24,Female,Medium,Regular,7/11/2023,2023,July,6,73.3,439.81,Electronics,Apple,Smartphone,Excellent,Standard,Cash,Pending,5
+6946722,11461,"Mathew Leblanc",Portsmouth,England,29382,UK,24,Male,Medium,Regular,11/21/2023,2023,November,9,151.05,1359.42,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Express,"Debit Card",Pending,3
+7502774,11494,"Paul Villegas",Portsmouth,England,29333,UK,24,Female,Medium,Regular,7/24/2023,2023,July,8,135.56,1084.49,Clothing,Adidas,Jacket,Bad,Same-Day,PayPal,Shipped,1
+1603651,11497,"Neil Kramer",Portsmouth,England,6045,UK,19,Male,Medium,Regular,11/23/2023,2023,November,1,117.61,117.61,Grocery,Pepsi,Juice,Average,Express,Cash,Delivered,2
+2139689,11504,"Kathleen Morales",Portsmouth,England,74378,UK,24,Female,Medium,Regular,11/4/2023,2023,November,9,365.51,3289.63,Books,HarperCollins,Fiction,Excellent,Same-Day,PayPal,Processing,5
+2429811,11510,"Nathan Miller",Portsmouth,England,11396,UK,23,Male,High,Regular,6/28/2023,2023,June,5,381.24,1906.2,Books,"Random House",Non-Fiction,Bad,Standard,PayPal,Delivered,1
+1804318,11519,"Jessica Owens",Portsmouth,England,70152,UK,24,Female,Medium,Regular,10/3/2023,2023,October,10,278.46,2784.6,Clothing,Nike,Shoes,Good,Express,"Credit Card",Shipped,4
+5603047,11543,"Kara Horne",Portsmouth,England,81094,UK,21,Female,Medium,Regular,1/18/2024,2024,January,3,129.23,387.68,Clothing,Zara,Shirt,Excellent,Express,PayPal,Shipped,4
+2832728,11546,"Christopher Gallagher",Portsmouth,England,10111,UK,21,Female,High,Regular,2/22/2024,2024,February,10,185.05,1850.5,Electronics,Samsung,Television,Good,Standard,"Credit Card",Pending,4
+5362464,11551,"Chad Smith",Portsmouth,England,5264,UK,24,Male,Medium,Regular,8/17/2023,2023,August,1,246.12,246.12,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Same-Day,"Debit Card",Pending,3
+4756238,11555,"Mary Padilla",Portsmouth,England,24744,UK,21,Female,High,Regular,4/8/2023,2023,April,8,116.32,930.59,Clothing,Zara,Jeans,Average,Standard,"Debit Card",Shipped,2
+6938021,11558,"Dana Young",Portsmouth,England,13696,UK,21,Female,Medium,Regular,2/5/2024,2024,February,8,423.61,3388.85,Grocery,Pepsi,"Soft Drink",Bad,Express,"Debit Card",Pending,1
+9767041,11570,"Brandon Brown",Portsmouth,England,21852,UK,21,Female,Medium,Regular,7/18/2023,2023,July,4,439.42,1757.67,Electronics,Sony,Headphones,Bad,Same-Day,"Debit Card",Shipped,1
+4237878,11577,"Mrs. Kimberly Austin MD",Portsmouth,England,71403,UK,63,Female,High,Regular,7/15/2023,2023,July,3,41.45,124.34,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Standard,Cash,Shipped,4
+3941447,11602,"Darryl Patton",Portsmouth,England,91918,UK,24,Female,Medium,Regular,12/25/2023,2023,December,3,334.43,1003.29,Clothing,Zara,Dress,Average,Standard,PayPal,Shipped,2
+5907996,11622,"Andrew Harrison",Portsmouth,England,28689,UK,21,Male,Medium,Regular,5/1/2023,2023,May,6,78.73,472.39,"Home Decor","Bed Bath & Beyond",Bedding,Bad,Express,"Debit Card",Pending,1
+5935803,11626,"Michelle Sparks",Portsmouth,England,81080,UK,21,Male,Medium,Regular,3/26/2023,2023,March,1,233.5,233.5,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Same-Day,"Credit Card",Shipped,3
+3128081,11639,"Jason Patterson",Portsmouth,England,29408,UK,24,Female,Medium,Regular,11/14/2023,2023,November,5,45.47,227.37,Electronics,Samsung,Television,Good,Same-Day,"Debit Card",Shipped,4
+6262385,11642,"Marie Donovan",Portsmouth,England,86330,UK,21,Male,High,Regular,12/6/2023,2023,December,2,388.8,777.61,Electronics,Apple,Laptop,Bad,Same-Day,"Credit Card",Shipped,1
+4638828,11681,"Jessica Stephens",Portsmouth,England,68186,UK,28,Female,Medium,Regular,9/26/2023,2023,September,4,76.98,307.9,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Express,Cash,Delivered,1
+5236309,11706,"Jordan Stone",Portsmouth,England,82151,UK,21,Female,High,Regular,12/5/2023,2023,December,1,280.48,280.48,Electronics,Samsung,Smartphone,Excellent,Same-Day,PayPal,Shipped,4
+2760633,11713,"Amanda Schultz",Portsmouth,England,64069,UK,24,Male,Medium,Regular,7/16/2023,2023,July,2,127.83,255.65,Books,HarperCollins,Thriller,Excellent,Same-Day,Cash,Delivered,4
+8266571,11715,"Alexander Dean",Portsmouth,England,70591,UK,21,Male,Medium,Regular,5/9/2023,2023,May,9,215.48,1939.29,Books,"Random House",Non-Fiction,Bad,Same-Day,Cash,Shipped,1
+8006212,11731,"Eric White",Portsmouth,England,69155,UK,21,Male,Medium,Regular,8/24/2023,2023,August,3,336.02,1008.07,Books,HarperCollins,Thriller,Bad,Same-Day,"Debit Card",Pending,1
+5660200,11736,"Rachael Molina",Portsmouth,England,56175,UK,21,Male,Medium,Regular,12/4/2023,2023,December,4,369.71,1478.83,Clothing,Adidas,T-shirt,Bad,Standard,PayPal,Shipped,1
+5238665,11755,"Jorge Rodgers",Portsmouth,England,70725,UK,24,Male,Medium,Regular,12/13/2023,2023,December,9,399.11,3592,Clothing,Zara,Jeans,Bad,Standard,"Credit Card",Delivered,1
+7547618,11759,"Stephen Martin",Portsmouth,England,71737,UK,21,Male,High,Regular,5/24/2023,2023,May,7,452.64,3168.48,Books,HarperCollins,Non-Fiction,Average,Same-Day,"Debit Card",Shipped,2
+3350340,11760,"Amanda Robertson",Portsmouth,England,61622,UK,19,Female,Medium,Regular,5/24/2023,2023,May,10,234.45,2344.53,Books,"Penguin Books",Non-Fiction,Bad,Express,PayPal,Processing,1
+4688341,11773,"Angel Robinson",Portsmouth,England,20921,UK,21,Female,Medium,Regular,12/8/2023,2023,December,1,498.95,498.95,Grocery,Coca-Cola,Water,Bad,Express,"Credit Card",Processing,1
+4017129,11788,"Stephen Bell",Portsmouth,England,55194,UK,24,Male,Medium,Regular,10/17/2023,2023,October,10,142.31,1423.12,Clothing,Zara,Shirt,Average,Express,PayPal,Pending,2
+6201345,11789,"Ronald Wallace",Portsmouth,England,89814,UK,69,Male,High,Regular,6/19/2023,2023,June,9,59.19,532.67,Clothing,Adidas,T-shirt,Excellent,Same-Day,"Debit Card",Shipped,5
+1700791,11792,"Mr. Nathan Williams",Portsmouth,England,14824,UK,21,Male,Medium,Regular,4/18/2023,2023,April,4,433.63,1734.53,Clothing,Zara,Dress,Excellent,Standard,"Debit Card",Processing,5
+9378545,11796,"Lori Jones",Portsmouth,England,79121,UK,24,Female,Medium,Regular,9/16/2023,2023,September,9,326.1,2934.94,Grocery,Pepsi,Juice,Bad,Same-Day,"Debit Card",Pending,1
+2148044,11806,"Paige Braun",Portsmouth,England,83513,UK,21,Male,Medium,Regular,4/30/2023,2023,April,5,208.44,1042.18,Grocery,Pepsi,Juice,Good,Standard,"Credit Card",Processing,3
+6039422,11814,"Paul Weaver",Portsmouth,England,3238,UK,21,Male,Medium,Regular,10/9/2023,2023,October,2,43.89,87.77,Electronics,Sony,Smartphone,Good,Same-Day,"Credit Card",Processing,3
+6420841,11819,"Kyle Snyder",Portsmouth,England,12136,UK,19,Female,Medium,Regular,11/22/2023,2023,November,8,293.29,2346.3,Books,"Random House",Non-Fiction,Excellent,Same-Day,PayPal,Pending,5
+8290363,11828,"Virginia King",Portsmouth,England,71795,UK,21,Male,High,Regular,12/5/2023,2023,December,4,292.19,1168.76,Clothing,Zara,Jeans,Good,Same-Day,Cash,Processing,4
+7852616,11843,"Krista Wolfe",Portsmouth,England,86547,UK,19,Male,Medium,Regular,11/10/2023,2023,November,8,301.92,2415.36,Grocery,Nestle,Snacks,Average,Same-Day,"Credit Card",Processing,2
+9333460,11856,"Stacy Jones",Portsmouth,England,87683,UK,19,Female,Medium,Regular,1/25/2024,2024,January,6,301.22,1807.33,Electronics,Apple,Smartphone,Excellent,Standard,PayPal,Shipped,4
+7172040,11887,"Chad Bailey",Portsmouth,England,61687,UK,19,Male,Medium,Regular,1/11/2024,2024,January,9,457.81,4120.26,Grocery,Nestle,Snacks,Bad,Standard,Cash,Delivered,1
+8879252,11898,"Lynn Garcia",Portsmouth,England,64400,UK,19,Female,Medium,Regular,1/13/2024,2024,January,1,46.85,46.85,Books,"Random House",Fiction,Average,Standard,"Credit Card",Delivered,2
+4989094,11947,"Ryan Wiley",Portsmouth,England,58837,UK,68,Male,High,Regular,3/10/2023,2023,March,8,356.81,2854.47,Books,"Penguin Books",Fiction,Excellent,Same-Day,PayPal,Pending,5
+3951210,11968,"Willie Ford",Portsmouth,England,14127,UK,24,Male,Medium,Regular,3/6/2023,2023,March,9,178.19,1603.72,Clothing,Nike,Shoes,Bad,Express,PayPal,Pending,1
+6527721,11969,"Christina Duncan",Portsmouth,England,90596,UK,24,Female,Medium,Regular,2/27/2024,2024,February,8,357.79,2862.36,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Express,Cash,Shipped,1
+6411383,11991,"Matthew Curtis",Portsmouth,England,59052,UK,24,Female,Medium,Regular,6/26/2023,2023,June,4,459.26,1837.03,Electronics,Samsung,Smartphone,Excellent,Same-Day,"Credit Card",Delivered,4
+1619503,11996,"John White",Portsmouth,England,86773,UK,19,Male,Medium,Regular,4/11/2023,2023,April,10,236.58,2365.85,Clothing,Nike,Shoes,Good,Same-Day,Cash,Delivered,4
+4438592,12000,"Michael Garcia",Portsmouth,England,36273,UK,19,Female,Medium,Regular,8/23/2023,2023,August,9,78.87,709.87,Clothing,Zara,Dress,Average,Standard,"Credit Card",Processing,2
+2480245,12001,"Jake Glover",Portsmouth,England,74159,UK,21,Female,Medium,Regular,4/21/2023,2023,April,1,165.8,165.8,Grocery,Nestle,Coffee,Average,Same-Day,"Credit Card",Pending,2
+8468596,12002,"Shelley Nguyen",Portsmouth,England,28912,UK,21,Male,Medium,Regular,1/24/2024,2024,January,7,13.09,91.66,Books,"Penguin Books",Fiction,Excellent,Same-Day,Cash,Delivered,5
+2619172,12009,"Briana Mack",Portsmouth,England,42747,UK,19,Female,Medium,Regular,7/13/2023,2023,July,5,121.96,609.81,Grocery,Nestle,Chocolate,Good,Same-Day,"Debit Card",Delivered,3
+6626426,12027,"Melanie Nguyen",Portsmouth,England,42835,UK,21,Female,Medium,Regular,12/1/2023,2023,December,6,66.77,400.59,Electronics,Apple,Laptop,Average,Same-Day,PayPal,Delivered,2
+7434663,12034,"Ashley Holloway",Portsmouth,England,2803,UK,19,Female,Medium,Regular,5/15/2023,2023,May,9,89.38,804.46,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Same-Day,Cash,Processing,1
+1404255,12050,"Erika Williams",Portsmouth,England,15393,UK,24,Female,Medium,Regular,7/28/2023,2023,,1,197.28,197.28,Books,"Random House",Fiction,Excellent,Same-Day,"Debit Card",Shipped,5
+5853064,12053,"Tracy Harris",Portsmouth,England,76626,UK,24,Male,Medium,Regular,12/15/2023,2023,December,1,424.81,424.81,Grocery,Pepsi,Water,Excellent,Express,PayPal,Pending,4
+2947499,12069,"Trevor Cox",Portsmouth,England,43731,UK,24,Male,Medium,Regular,8/16/2023,2023,August,1,462.7,462.7,Grocery,Coca-Cola,Juice,Bad,Same-Day,Cash,Shipped,1
+4507256,12080,"Brittney Garcia",Portsmouth,England,4945,UK,24,Male,Medium,Regular,10/31/2023,2023,October,10,118.86,1188.64,Grocery,Nestle,Chocolate,Good,Same-Day,PayPal,Shipped,3
+8028905,12082,"Bradley Vasquez",Portsmouth,England,16869,UK,19,Male,Medium,Regular,2/24/2024,2024,February,6,216.83,1300.96,Electronics,Apple,Smartphone,Bad,Express,Cash,Delivered,1
+3797561,12085,"Glenn Rivera",Portsmouth,England,75954,UK,24,Male,Medium,Regular,8/10/2023,2023,August,7,420.59,2944.15,Electronics,Samsung,Tablet,Excellent,Express,"Credit Card",Shipped,4
+4801509,12091,"Stephanie Reynolds",Portsmouth,England,24839,UK,21,Male,Medium,Regular,4/29/2023,2023,April,4,320.42,1281.68,"Home Decor","Bed Bath & Beyond",Bedding,Good,Same-Day,Cash,Delivered,4
+3851214,12111,"Jessica Graves",Portsmouth,England,57713,UK,21,Male,Medium,Regular,8/9/2023,2023,August,3,53.01,159.02,Books,"Penguin Books",Fiction,Excellent,Express,Cash,Pending,4
+3673589,12116,"Kristen Patterson",Portsmouth,England,22892,UK,21,Female,Medium,Regular,4/14/2023,2023,April,3,142.06,426.18,Books,HarperCollins,Fiction,Good,Express,Cash,Shipped,4
+1237402,12127,"Richard Marquez",Portsmouth,England,24395,UK,24,Male,Medium,Regular,,2023,April,4,374.13,1496.52,Clothing,Zara,Shirt,Bad,Same-Day,PayPal,Pending,1
+7925676,12128,"Amy Dunn",Portsmouth,England,85316,UK,21,Male,Medium,Regular,10/11/2023,2023,October,2,225.72,451.44,Books,"Random House",Fiction,Good,Same-Day,Cash,Processing,3
+9956674,12129,"Candice Schmidt",Portsmouth,England,83065,UK,24,Male,Medium,Regular,6/24/2023,2023,June,2,480.09,960.18,Electronics,Apple,Laptop,Bad,Same-Day,Cash,Delivered,1
+6205145,12131,"Anthony Nelson",Portsmouth,England,88825,UK,21,Female,Medium,Regular,8/31/2023,2023,August,10,119.7,1197.04,Grocery,Nestle,Coffee,Bad,Standard,"Credit Card",Pending,1
+7711814,12154,"Crystal Miller",Portsmouth,England,20906,UK,24,Female,Medium,Regular,1/22/2024,2024,January,6,233.08,1398.5,Electronics,Samsung,Television,Bad,Express,"Debit Card",Delivered,1
+4527008,12175,"Alexa Ross",Portsmouth,England,2041,UK,19,Male,Medium,Regular,2/18/2024,2024,February,8,235.49,1883.89,"Home Decor","Bed Bath & Beyond",Bedding,Good,Express,"Debit Card",Pending,3
+8370531,12177,"Rhonda Miller",Portsmouth,England,58942,UK,24,Female,Medium,Regular,12/11/2023,2023,December,5,396.54,1982.69,Books,"Random House",Non-Fiction,Average,Express,"Debit Card",Shipped,2
+6637878,12211,"Tracey Archer",Portsmouth,England,88426,UK,19,Female,Medium,Regular,4/29/2023,2023,April,4,491.21,1964.84,"Home Decor",IKEA,Furniture,Good,Standard,"Debit Card",Delivered,3
+6094546,12223,"Michael Howe",Portsmouth,England,60278,UK,46,Male,High,Regular,6/10/2023,2023,June,6,167.52,1005.14,Clothing,Adidas,Jacket,Excellent,Express,"Debit Card",Processing,4
+2112696,12236,"Madison Green MD",Portsmouth,England,18796,UK,19,Female,Medium,Regular,5/16/2023,2023,May,4,214.49,857.96,Electronics,Sony,Television,Good,Express,"Credit Card",Delivered,4
+2905979,12240,"Tina Martin",Portsmouth,England,72784,UK,21,Female,Medium,Regular,8/28/2023,2023,August,1,318.23,318.23,Clothing,Zara,Jeans,Bad,Same-Day,"Debit Card",Delivered,1
+6246448,12249,"Lisa Sloan",Portsmouth,England,57054,UK,24,Male,Medium,Regular,1/30/2024,2024,January,7,247.39,1731.74,Electronics,Sony,Headphones,Average,Express,"Credit Card",Processing,2
+6946563,12252,"Deborah Harris",Portsmouth,England,37666,UK,19,Female,Medium,Regular,6/24/2023,2023,,7,255.91,1791.35,Books,HarperCollins,Fiction,Bad,Express,PayPal,Delivered,1
+2837082,12253,"Tony Gonzales",Portsmouth,England,79463,UK,21,Male,Medium,Regular,6/24/2023,2023,June,5,462.66,2313.32,Grocery,Nestle,Coffee,Average,Standard,PayPal,Pending,2
+3559783,12257,"Alicia Harris",Portsmouth,England,42832,UK,21,Male,High,Regular,10/10/2023,2023,October,3,143.63,430.9,Books,"Random House",Literature,Good,Same-Day,Cash,Processing,3
+1330153,12267,"Shawna Perez",Portsmouth,England,6046,UK,67,Male,High,Regular,1/15/2024,2024,January,1,162.87,162.87,"Home Decor","Bed Bath & Beyond",Bedding,Bad,Express,"Debit Card",Shipped,1
+5208856,12275,"Shaun Lewis",Portsmouth,England,71630,UK,19,Female,Medium,Regular,6/20/2023,2023,June,5,178.77,893.86,Clothing,Zara,Jeans,Average,Express,PayPal,Processing,2
+5880712,12279,"Shannon Harrell DDS",Portsmouth,England,98796,UK,21,Male,Medium,Regular,11/21/2023,2023,November,5,354.29,1771.45,Books,HarperCollins,Fiction,Excellent,Standard,PayPal,Shipped,4
+6680258,12300,"Christian Page",Portsmouth,England,6250,UK,21,Male,Medium,Regular,3/27/2023,2023,March,6,378.06,2268.39,Electronics,Sony,Headphones,Good,Same-Day,Cash,Pending,3
+2161181,12311,"Katherine Richardson",Portsmouth,England,27363,UK,21,Male,Medium,Regular,7/7/2023,2023,July,3,120.33,360.99,Electronics,Apple,Laptop,Average,Same-Day,"Credit Card",Processing,2
+2113819,12319,"Robert Black",Portsmouth,England,7599,UK,24,Female,Medium,Regular,11/23/2023,2023,November,10,442.57,4425.69,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Standard,"Debit Card",Processing,4
+1749187,12326,"Matthew Phillips",Portsmouth,England,78799,UK,24,Male,Medium,Regular,8/5/2023,2023,August,1,378.83,378.83,"Home Decor",IKEA,Furniture,Excellent,Express,PayPal,Pending,5
+1124535,12331,"Anna Leach",Portsmouth,England,96761,UK,45,Female,High,Regular,10/1/2023,2023,October,6,492.38,2954.3,Grocery,Coca-Cola,"Soft Drink",Average,Express,PayPal,Delivered,2
+3517085,12343,"Tyrone Smith",Portsmouth,England,90988,UK,21,Male,Medium,Regular,11/10/2023,2023,November,5,370.48,1852.38,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Same-Day,"Credit Card",Pending,3
+4043756,12347,"Michael Rivera",Portsmouth,England,19855,UK,19,Male,Medium,Regular,6/11/2023,2023,June,10,319.67,3196.69,Grocery,Pepsi,Water,Bad,Same-Day,"Debit Card",Delivered,1
+2205022,12349,"Russell Leonard",Portsmouth,England,68420,UK,19,Male,Medium,Regular,2/17/2024,2024,February,2,208.97,417.94,Clothing,Adidas,Jacket,Excellent,Same-Day,Cash,Delivered,4
+1024979,12356,"Logan Lamb",Portsmouth,England,75520,UK,24,Female,Medium,Regular,1/10/2024,2024,January,7,221.74,1552.16,Grocery,Pepsi,Water,Average,Express,"Debit Card",Delivered,2
+7534533,12365,"Heather Gonzales",Portsmouth,England,23339,UK,19,Female,Medium,Regular,7/23/2023,2023,July,8,158.17,1265.37,Grocery,Pepsi,Water,Bad,Same-Day,Cash,Shipped,1
+2716255,12367,"Sherry Taylor",Portsmouth,England,95683,UK,19,Female,Medium,Regular,3/21/2023,2023,March,7,180.33,1262.32,Electronics,Apple,Laptop,Good,Same-Day,PayPal,Delivered,3
+9309513,12370,"Melvin Finley",Portsmouth,England,59732,UK,21,Female,Medium,Regular,3/13/2023,2023,March,3,305.8,917.39,Grocery,Nestle,Chocolate,Good,Express,Cash,Pending,4
+9034586,12376,"Jeanette White",Portsmouth,England,65321,UK,21,Male,Medium,Regular,9/25/2023,2023,September,7,499.54,3496.8,Electronics,Samsung,Television,Excellent,Express,"Credit Card",Delivered,5
+9882162,12378,"Maria Scott",Portsmouth,England,69276,UK,24,Male,Medium,Regular,7/3/2023,2023,July,7,69.54,486.8,Grocery,Nestle,Snacks,Excellent,Standard,"Debit Card",Delivered,4
+1057752,12384,"Robert Burton",Portsmouth,England,54021,UK,19,Male,Medium,Regular,4/22/2023,2023,April,9,133.67,1203.05,Books,HarperCollins,Non-Fiction,Good,Express,"Credit Card",Processing,3
+3117195,12394,"Gregory Dixon",Portsmouth,England,54622,UK,19,Male,Medium,Regular,12/27/2023,2023,December,9,303.84,2734.58,"Home Decor",IKEA,Lighting,Good,Same-Day,"Debit Card",Processing,3
+3489570,12402,"Theresa Harrington",Portsmouth,England,30090,UK,24,Male,Medium,Regular,6/10/2023,2023,June,8,263.37,2106.93,"Home Decor",IKEA,Furniture,Good,Express,"Credit Card",Processing,4
+5891431,12406,"Mrs. Victoria Harrison",Portsmouth,England,12889,UK,24,Female,Medium,Regular,5/21/2023,2023,May,3,52.76,158.29,Books,"Penguin Books",Non-Fiction,Good,Same-Day,Cash,Pending,3
+1999394,12407,"Christine Carroll",Portsmouth,England,53714,UK,24,Male,Medium,Regular,2/3/2024,2024,February,2,264.67,529.35,Electronics,Apple,Smartphone,Average,Same-Day,"Debit Card",Pending,2
+4788052,12409,"Michael Cole",Portsmouth,England,90039,UK,21,Male,Medium,Regular,5/19/2023,2023,May,10,148.61,1486.13,Clothing,Zara,Jeans,Average,Same-Day,"Debit Card",Delivered,2
+9732920,12423,"Melissa Benson",Portsmouth,England,30923,UK,19,Male,Medium,Regular,5/14/2023,2023,May,5,74.14,370.68,Books,"Random House",Literature,Average,Standard,Cash,Shipped,2
+9627245,12427,"Ryan Hart",Portsmouth,England,90571,UK,19,Male,Medium,Regular,9/24/2023,2023,September,9,143.1,1287.9,Electronics,Apple,Laptop,Bad,Same-Day,"Credit Card",Shipped,1
+5579876,12436,"Hector Mccann",Portsmouth,England,46666,UK,19,Male,Medium,Regular,8/15/2023,2023,August,10,492.19,4921.89,Grocery,Nestle,Coffee,Average,,"Credit Card",Shipped,2
+6625056,12447,"Wesley Casey",Portsmouth,England,47352,UK,19,Male,Medium,Regular,10/26/2023,2023,October,1,235.42,235.42,Grocery,Nestle,Snacks,Good,Same-Day,"Credit Card",Processing,4
+5409445,12458,"Elizabeth Morrow",Portsmouth,England,37569,UK,19,Male,Medium,Regular,10/22/2023,2023,October,4,362.68,1450.73,Grocery,Nestle,Snacks,Bad,Express,Cash,Delivered,1
+2523703,12464,"Barbara Le",Portsmouth,England,88692,UK,24,Male,Medium,Regular,1/31/2024,2024,January,1,202.11,202.11,Electronics,Sony,Television,Good,Same-Day,Cash,Processing,3
+4352907,12465,"Joshua Stein",Portsmouth,England,50499,UK,24,Female,Medium,Regular,6/30/2023,2023,June,10,496.83,4968.26,"Home Decor","Home Depot",Tools,Good,Express,"Credit Card",Processing,4
+5179075,12468,"Mrs. Kimberly Jordan DVM",Portsmouth,England,9993,UK,21,Female,High,Regular,3/7/2023,2023,March,5,199.91,999.53,Clothing,Zara,Dress,Average,Express,PayPal,Pending,2
+9848534,12478,"Justin Wood",Portsmouth,England,81458,UK,21,Female,Medium,Regular,1/2/2024,2024,January,2,53.24,106.47,Books,HarperCollins,Fiction,Average,Standard,"Debit Card",Delivered,2
+3690366,12486,"David Shields",Portsmouth,England,98750,UK,24,Male,Medium,Regular,3/17/2023,2023,March,4,50,199.99,"Home Decor","Home Depot",Decorations,Excellent,Express,PayPal,Shipped,4
+5127205,12500,"Scott James",Portsmouth,England,25681,UK,24,Male,Medium,Regular,3/29/2023,2023,March,2,209.22,418.45,Electronics,Sony,Television,Excellent,Express,Cash,Processing,4
+2907327,12504,"Brandy Wilson",Portsmouth,England,26937,UK,24,Male,Medium,Regular,7/1/2023,2023,July,6,69.11,414.64,Grocery,Pepsi,Juice,Excellent,Standard,PayPal,Pending,5
+3810291,12513,"Holly Smith",Portsmouth,England,87681,UK,21,Female,Medium,Regular,5/9/2023,2023,May,5,326.15,1630.76,Books,"Penguin Books",Fiction,Average,Express,"Credit Card",Pending,2
+3711899,12514,"Sabrina Lucas",Portsmouth,England,92298,UK,19,Female,Medium,Regular,4/24/2023,2023,April,1,143.55,143.55,Clothing,Adidas,Jacket,Bad,Standard,PayPal,Pending,1
+2559791,12520,"Michael Zamora",Portsmouth,England,45824,UK,21,Male,Medium,Regular,6/15/2023,2023,June,2,247.15,494.3,Books,"Random House",Fiction,Average,Standard,"Debit Card",Shipped,2
+8699640,12524,"Kristin Hayden",Portsmouth,England,15246,UK,19,Male,Medium,Regular,5/12/2023,2023,May,1,63.02,63.02,Books,"Penguin Books",Fiction,Excellent,Same-Day,"Debit Card",Processing,4
+7700928,12585,"Harold Mueller",Portsmouth,England,72288,UK,19,Male,Medium,Regular,4/22/2023,2023,April,3,284.41,853.23,"Home Decor","Bed Bath & Beyond",Kitchen,Excellent,Express,"Debit Card",Delivered,5
+5132061,12588,"Kelsey Murphy",Portsmouth,England,32669,UK,21,Male,Medium,Regular,5/26/2023,2023,May,4,425.91,1703.63,Clothing,Zara,Shirt,Excellent,Express,Cash,Delivered,4
+3332415,12594,"Amanda Flynn MD",Portsmouth,England,8833,UK,21,Male,Medium,Regular,2/13/2024,2024,February,2,163.31,326.62,Electronics,Sony,Headphones,Good,Standard,"Debit Card",Processing,4
+8164996,12604,"Derek Patrick",Portsmouth,England,56265,UK,47,Male,Low,Regular,12/6/2023,2023,December,6,159.72,958.32,Grocery,Coca-Cola,Water,Average,Standard,"Debit Card",Pending,2
+8382570,12608,"Kristen Clark",Portsmouth,England,37271,UK,24,Female,Medium,Regular,3/19/2023,2023,March,7,282.68,1978.78,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Same-Day,"Debit Card",Pending,2
+2616506,12633,"Norman Brown",Portsmouth,England,3571,UK,24,Male,Medium,Regular,1/28/2024,2024,January,4,13.86,55.42,Electronics,Samsung,Tablet,Excellent,Standard,"Credit Card",Delivered,4
+8965910,12634,"Donna Whitaker",Portsmouth,England,46995,UK,24,Male,Medium,Regular,1/25/2024,2024,January,4,43.43,173.7,"Home Decor",IKEA,Furniture,Average,Standard,"Debit Card",Pending,2
+6492688,12654,"Mike Alvarado",Portsmouth,England,55609,UK,19,Female,Medium,Regular,1/23/2024,2024,January,4,250.75,1003.02,"Home Decor","Home Depot",Furniture,Good,Standard,Cash,Delivered,4
+5417806,12668,"James Golden",Portsmouth,England,40873,UK,19,Female,Medium,Regular,5/7/2023,2023,May,2,167.05,334.1,Books,HarperCollins,Thriller,Excellent,Same-Day,"Debit Card",Delivered,4
+5399078,12682,"Daniel Jackson",Portsmouth,England,39417,UK,24,Female,Medium,Regular,8/11/2023,2023,August,2,413.53,827.06,Electronics,Samsung,Smartphone,Bad,Same-Day,PayPal,Pending,1
+4504743,12689,"Jeremy Harrison",Portsmouth,England,99530,UK,24,Male,Medium,Regular,8/11/2023,2023,August,2,17.43,34.85,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Standard,Cash,Pending,1
+2648846,12693,"Leslie Flynn",Portsmouth,England,54720,UK,19,Male,Medium,Regular,7/24/2023,2023,July,1,260.31,260.31,Electronics,Apple,Smartphone,Good,Express,"Credit Card",Delivered,4
+6241347,12700,"Michael Flores",Portsmouth,England,97647,UK,21,Female,Medium,Regular,1/30/2024,2024,January,10,261.96,2619.62,Grocery,Nestle,Coffee,Average,Express,Cash,Shipped,2
+4116947,12712,"Sally Preston",Portsmouth,England,20876,UK,19,Female,Medium,Regular,8/6/2023,2023,August,2,164.94,329.88,Grocery,Coca-Cola,Juice,Excellent,Express,PayPal,Delivered,4
+6487337,12715,"Katherine Hansen",Portsmouth,England,69969,UK,21,Male,Medium,Regular,8/3/2023,2023,August,6,33.21,199.24,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Same-Day,Cash,Shipped,1
+7473646,12719,"Andrew Bernard",Portsmouth,England,77166,UK,21,Female,High,Regular,11/29/2023,2023,November,9,171.89,1546.98,Books,"Penguin Books",Children's,Good,Express,PayPal,Delivered,3
+9594387,12731,"Daniel Martin",Portsmouth,England,4250,UK,24,Male,Medium,Regular,5/20/2023,2023,May,1,285.65,285.65,Books,"Random House",Non-Fiction,Excellent,Express,Cash,Pending,5
+2355700,12736,"Adam Jackson",Portsmouth,England,57730,UK,21,Male,Medium,Regular,10/12/2023,2023,October,8,270.99,2167.88,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Same-Day,"Debit Card",Pending,1
+9974975,12771,"John Diaz",Portsmouth,England,76365,UK,21,Male,High,Regular,2/3/2024,2024,February,1,375.39,375.39,"Home Decor","Home Depot",Tools,Good,Standard,"Credit Card",Shipped,3
+3015432,12790,"Nicole Diaz",Portsmouth,England,28558,UK,30,Female,Medium,Regular,3/21/2023,2023,March,6,479,2873.99,Grocery,Pepsi,Juice,Bad,Standard,"Debit Card",Shipped,1
+7068213,12804,"Keith Ferguson",Portsmouth,England,37869,UK,24,Female,Medium,Regular,10/1/2023,2023,October,5,228.61,1143.07,Books,HarperCollins,Non-Fiction,Average,Same-Day,"Debit Card",Shipped,2
+3405961,12814,"Daniel Velez",Portsmouth,England,45579,UK,24,Male,Medium,Regular,12/6/2023,2023,December,4,259,1036,Electronics,Samsung,Television,Good,Standard,"Debit Card",Pending,3
+8214747,12816,"Ashley Howard",Portsmouth,England,68993,UK,19,Female,Medium,Regular,12/17/2023,2023,December,9,491.45,4423.08,Grocery,Pepsi,Juice,Excellent,Standard,"Debit Card",Delivered,4
+5737822,12826,"Peter Woods",Portsmouth,England,87190,UK,21,Male,High,Regular,3/24/2023,2023,March,4,363.37,1453.49,Electronics,Apple,Smartphone,Excellent,Same-Day,"Debit Card",Shipped,4
+8765923,12830,"Carolyn Erickson",Portsmouth,England,1483,UK,21,Male,Medium,Regular,2/10/2024,2024,February,8,236.45,1891.56,Grocery,Coca-Cola,Juice,Bad,Standard,"Credit Card",Delivered,1
+6116577,12837,"Michael Lucero",Portsmouth,England,94702,UK,21,Male,Medium,Regular,1/24/2024,2024,January,8,340.07,2720.54,Books,"Random House",Fiction,Excellent,Standard,"Debit Card",Pending,4
+8602708,12847,"Christopher Roberts",Portsmouth,England,68022,UK,19,Female,Medium,Regular,11/14/2023,2023,November,10,192.13,1921.25,Grocery,Nestle,Chocolate,Excellent,Standard,"Debit Card",Pending,4
+6177882,12850,"Elizabeth Russell",Portsmouth,England,90331,UK,24,Female,Medium,Regular,10/31/2023,2023,October,9,101.62,914.59,Grocery,Pepsi,"Soft Drink",Average,Express,"Credit Card",Processing,2
+8707272,12854,"Kristin Brown",Portsmouth,England,2692,UK,21,Female,Medium,Regular,1/2/2024,2024,January,7,313.33,2193.34,Clothing,Adidas,Jacket,Good,Express,PayPal,Shipped,4
+2413350,12867,"Emily Kelly",Portsmouth,England,35849,UK,21,Female,Medium,Regular,8/11/2023,2023,August,5,450.4,2252,Electronics,Samsung,Tablet,Average,Same-Day,PayPal,Shipped,2
+1617227,12873,"Alejandra Lane",Portsmouth,England,30858,UK,21,Female,Medium,Regular,10/30/2023,2023,October,4,493.26,1973.05,Clothing,Zara,Shirt,Good,Same-Day,"Debit Card",Pending,3
+6902105,12881,"Veronica Patterson",Portsmouth,England,50681,UK,19,Male,Medium,Regular,7/12/2023,2023,July,10,439.3,4392.96,Grocery,Nestle,Chocolate,Average,Same-Day,"Debit Card",Delivered,2
+7491247,12884,"Joseph Barnes",Portsmouth,England,10435,UK,40,Male,High,Regular,5/6/2023,2023,May,1,265.66,265.66,Books,"Penguin Books",Children's,Excellent,Same-Day,PayPal,Shipped,5
+2076594,12893,"Kristina Curry",Portsmouth,England,19886,UK,24,Male,Medium,Regular,5/8/2023,2023,May,2,398.85,797.7,Books,"Random House",Fiction,Average,Standard,PayPal,Delivered,2
+5569465,12894,"Teresa Cunningham",Portsmouth,England,98161,UK,24,Female,Medium,Regular,1/6/2024,2024,January,7,48.87,342.11,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Standard,"Debit Card",Shipped,1
+5373923,12895,"Laurie Black",Portsmouth,England,41961,UK,24,Female,Medium,Regular,5/17/2023,2023,May,5,85.73,428.63,Grocery,Nestle,Coffee,Average,Standard,PayPal,Delivered,2
+2576479,12905,"Heather Brown",Portsmouth,England,25976,UK,24,Male,Medium,Regular,7/17/2023,2023,July,9,382.82,3445.42,Grocery,Nestle,Snacks,Bad,Same-Day,"Credit Card",Pending,1
+4580441,12911,"Chelsea Cummings",Portsmouth,England,27283,UK,69,Male,High,Regular,11/11/2023,2023,November,3,394.61,1183.82,Grocery,Nestle,Chocolate,Excellent,Express,PayPal,Processing,5
+5195085,12915,"Kathryn Sheppard",Portsmouth,England,28165,UK,21,Female,Medium,Regular,5/4/2023,2023,May,8,384.04,3072.32,Books,"Random House",Non-Fiction,Good,Standard,Cash,Shipped,4
+1174042,12929,"Frank Lam",Portsmouth,England,97546,UK,24,Female,Medium,Regular,9/24/2023,2023,September,4,41.31,165.22,Books,HarperCollins,Fiction,Excellent,Same-Day,"Credit Card",Delivered,5
+7544190,12942,"Aaron Roberson",Portsmouth,England,65117,UK,24,Female,Medium,Regular,1/29/2024,2024,January,3,214.24,642.73,"Home Decor",IKEA,Decorations,Excellent,Same-Day,"Debit Card",Pending,5
+3909377,12962,"Alex Sanchez",Portsmouth,England,75431,UK,24,Female,Medium,Regular,12/23/2023,2023,December,5,39.39,196.97,Books,"Penguin Books",Non-Fiction,Excellent,Same-Day,"Credit Card",Pending,4
+4001994,12964,"Samantha Perry",Portsmouth,England,59448,UK,19,Female,Medium,Regular,9/20/2023,2023,September,4,138.44,553.74,"Home Decor",IKEA,Lighting,Bad,Express,Cash,Delivered,1
+1657222,12975,"Brett Blake",Portsmouth,England,1499,UK,24,Male,Medium,Regular,4/19/2023,2023,April,3,234.51,703.54,Clothing,Nike,Shoes,Good,Standard,Cash,Delivered,3
+9032108,12979,"Vincent Frazier",Portsmouth,England,27775,UK,21,Male,Medium,Regular,8/12/2023,2023,August,7,141.63,991.39,Grocery,Nestle,Chocolate,Excellent,Express,Cash,Delivered,5
+3294589,12996,"Brian White",Portsmouth,England,75531,UK,24,Male,Medium,Regular,3/12/2023,2023,March,10,78.67,786.71,Books,"Penguin Books",Children's,Bad,Express,PayPal,Shipped,1
+3390196,13000,"Joseph Davis",Portsmouth,England,55643,UK,21,Male,High,Regular,5/5/2023,2023,May,9,497.1,4473.94,Electronics,Sony,Headphones,Good,Standard,Cash,Processing,4
+2000240,13006,"Melissa Pace",Portsmouth,England,11011,UK,19,Female,Medium,Regular,6/7/2023,2023,June,10,106.83,1068.29,Clothing,Zara,Jeans,Bad,Same-Day,PayPal,Delivered,1
+4993238,13012,"Megan Porter",Portsmouth,England,76709,UK,21,Female,Medium,Regular,12/30/2023,2023,December,8,192.82,1542.55,"Home Decor",IKEA,Decorations,Excellent,Same-Day,PayPal,Shipped,5
+9471652,13020,"Benjamin Mcguire",Portsmouth,England,83299,UK,19,Male,Medium,Regular,9/2/2023,2023,September,2,483.03,966.06,Books,"Penguin Books",Children's,Good,Same-Day,PayPal,Processing,3
+4949564,13030,"Justin Edwards",Portsmouth,England,62655,UK,24,Female,Medium,Regular,11/10/2023,2023,November,1,182.8,182.8,Books,"Random House",Non-Fiction,Excellent,Same-Day,"Debit Card",Processing,4
+1941693,13046,"Kevin Holt",Portsmouth,England,29375,UK,21,Male,High,Regular,5/22/2023,2023,May,4,55.95,223.78,Grocery,Pepsi,"Soft Drink",Excellent,Standard,"Debit Card",Processing,5
+1982178,13052,"Rebecca Wyatt",Portsmouth,England,78594,UK,24,Male,Medium,Regular,4/26/2023,2023,April,4,398.97,1595.88,Grocery,Pepsi,"Soft Drink",Good,Standard,Cash,Pending,3
+5323213,13057,"Danielle Hubbard",Portsmouth,England,97940,UK,24,Male,Medium,Regular,8/23/2023,2023,August,5,484.73,2423.64,Electronics,Samsung,Television,Good,Standard,"Credit Card",Delivered,4
+3402904,13068,"Rebecca Wolfe",Portsmouth,England,77036,UK,21,Male,Medium,Regular,11/18/2023,2023,November,1,432.14,432.14,Clothing,Nike,Shoes,Excellent,Express,Cash,Shipped,4
+8336265,13081,"Carolyn Johnson",Portsmouth,England,48763,UK,29,Female,Medium,Regular,1/31/2024,2024,January,7,196.22,1373.53,"Home Decor","Home Depot",Tools,Bad,Express,PayPal,Processing,1
+5821981,13082,"Tami Bennett",Portsmouth,England,99305,UK,68,Male,High,Regular,9/24/2023,2023,September,3,194.05,582.15,Clothing,Nike,Shorts,Average,Express,"Debit Card",Shipped,2
+4128954,13084,"Thomas Pena",Portsmouth,England,90511,UK,21,Male,High,Regular,1/27/2024,2024,January,4,229.59,918.35,Books,"Random House",Fiction,Average,Standard,Cash,Shipped,2
+6734719,13105,"Hannah Johnson",Portsmouth,England,55737,UK,24,Female,Medium,Regular,9/5/2023,2023,September,1,226.8,226.8,"Home Decor","Home Depot",Decorations,Excellent,Same-Day,Cash,Pending,4
+6845148,13111,"Robin Ingram",Portsmouth,England,20848,UK,19,Male,Medium,Regular,5/14/2023,2023,May,6,326.44,1958.61,Electronics,Apple,Smartphone,Good,Standard,Cash,Shipped,4
+5218989,13113,"Sara Lowe",Portsmouth,England,56240,UK,34,Male,High,Regular,2/16/2024,2024,February,6,418.65,2511.93,Electronics,Sony,Headphones,Good,Express,Cash,Shipped,3
+9403652,13116,"Cheryl George",Portsmouth,England,74480,UK,19,Male,Medium,Regular,4/1/2023,2023,April,8,263.41,2107.24,Grocery,Nestle,Coffee,Bad,Same-Day,PayPal,Delivered,1
+2968919,13118,"Diana Calhoun",Portsmouth,England,76514,UK,19,Female,Medium,Regular,10/17/2023,2023,October,7,171.24,1198.65,Grocery,Coca-Cola,Water,Average,Standard,"Credit Card",Delivered,2
+1795959,13119,"Sandra Davis",Portsmouth,England,31998,UK,21,Male,Medium,Regular,4/2/2023,2023,April,2,197.21,394.41,Grocery,Nestle,Snacks,Good,Express,PayPal,Pending,3
+2387730,13127,"Erica Matthews",Portsmouth,England,82139,UK,21,Male,High,Regular,1/15/2024,2024,January,4,147.53,590.12,Books,"Random House",Fiction,Bad,Standard,Cash,Delivered,1
+9165352,13151,"Kimberly Edwards",Portsmouth,England,56953,UK,19,Male,Medium,Regular,12/23/2023,2023,December,4,377.99,1511.97,Grocery,Coca-Cola,Juice,Average,Standard,Cash,Processing,2
+5355960,13153,"Elizabeth Smith",Portsmouth,England,96956,UK,19,Female,Medium,Regular,9/30/2023,2023,September,10,10.44,104.42,Grocery,Pepsi,Water,Average,Same-Day,"Credit Card",Delivered,2
+1830702,13168,"Robert Williams",Portsmouth,England,96865,UK,24,Female,Medium,Regular,4/24/2023,2023,April,9,15.38,138.41,Books,"Penguin Books",Non-Fiction,Bad,Same-Day,PayPal,Delivered,1
+4232058,13173,"Justin Higgins",Portsmouth,England,5184,UK,24,Male,Medium,Regular,1/24/2024,2024,January,3,347.26,1041.77,Books,"Random House",Literature,Excellent,Standard,"Credit Card",Pending,4
+8233379,13176,"Maria Gibson",Portsmouth,England,89193,UK,21,Male,High,Regular,9/1/2023,2023,September,1,451.37,451.37,Clothing,Adidas,Jacket,Bad,Standard,"Debit Card",Shipped,1
+4875555,13186,"Frederick Smith",Portsmouth,England,27138,UK,21,Female,Medium,Regular,1/12/2024,2024,January,6,449.96,2699.78,Books,"Random House",Non-Fiction,Average,Express,PayPal,Processing,2
+9477974,13196,"Rebecca Ramos",Portsmouth,England,8615,UK,24,Male,Medium,Regular,4/9/2023,2023,April,9,380.62,3425.62,Grocery,Pepsi,Juice,Excellent,Standard,"Credit Card",Delivered,5
+9379863,13205,"Rachel Hines",Portsmouth,England,24233,UK,21,Male,Medium,Regular,5/8/2023,2023,May,4,77.08,308.33,Grocery,Pepsi,Juice,Bad,Standard,PayPal,Shipped,1
+7267299,13206,"Shelly Peterson",Portsmouth,England,30244,UK,21,Female,Medium,Regular,5/5/2023,2023,May,1,254.83,254.83,Clothing,Adidas,Shoes,Good,Standard,"Credit Card",Pending,4
+7787420,13222,"Aaron Wallace",Portsmouth,England,80684,UK,61,Male,High,Regular,11/18/2023,2023,November,10,242.53,2425.3,"Home Decor","Home Depot",Tools,Bad,Same-Day,Cash,Pending,1
+3082694,13230,"Rebecca Shaw",Portsmouth,England,39287,UK,21,Male,Medium,Regular,7/18/2023,2023,July,4,18.5,73.98,Electronics,Samsung,Smartphone,Bad,Standard,Cash,Shipped,1
+2885243,13256,"Robert Lee",Portsmouth,England,35346,UK,18,Male,Medium,Regular,7/2/2023,2023,July,5,160.82,804.1,Grocery,Pepsi,Juice,Bad,Standard,Cash,Processing,1
+6776851,13260,"Destiny Harper",Portsmouth,England,25498,UK,24,Male,Medium,Regular,1/15/2024,2024,January,8,85.44,683.49,Grocery,Pepsi,Juice,Excellent,Standard,"Credit Card",Shipped,4
+6526977,13262,"Carl Krueger",Portsmouth,England,29269,UK,21,Female,Medium,Regular,12/12/2023,2023,December,2,465.9,931.8,"Home Decor","Home Depot",Decorations,Good,Standard,"Debit Card",Pending,3
+6471367,13265,"Victoria Mclaughlin",Portsmouth,England,84110,UK,40,Female,Medium,Regular,9/20/2023,2023,September,10,192.71,1927.12,Grocery,Nestle,Chocolate,Excellent,Standard,PayPal,Delivered,4
+1334070,13284,"Paul Mccoy",Portsmouth,England,29170,UK,24,Female,Medium,Regular,11/3/2023,2023,November,10,101.7,1017.01,Clothing,Adidas,T-shirt,Bad,Standard,Cash,Shipped,1
+2916656,13286,"Greg Clark",Portsmouth,England,83914,UK,21,Male,High,Regular,2/2/2024,2024,February,3,346.24,1038.72,Electronics,Samsung,Smartphone,Excellent,Standard,"Credit Card",Pending,5
+3010117,13288,"Charles Cortez",Portsmouth,England,71041,UK,24,Male,Medium,Regular,3/28/2023,2023,March,1,438.35,438.35,Clothing,Zara,Jeans,Bad,Standard,Cash,Processing,1
+8068718,13296,"Kara Wong",Portsmouth,England,71968,UK,19,Male,Medium,Regular,11/12/2023,2023,November,4,255.52,1022.09,Electronics,Sony,Headphones,Average,Express,"Debit Card",Delivered,2
+9471982,13320,"Patricia Oneal",Portsmouth,England,73197,UK,24,Male,Medium,Regular,7/19/2023,2023,July,4,315.28,1261.13,Clothing,Nike,T-shirt,Good,Same-Day,PayPal,Shipped,3
+8086573,13322,"Barbara Barrett",Portsmouth,England,86181,UK,21,Male,High,Regular,11/27/2023,2023,November,4,97.99,391.98,Electronics,Apple,Tablet,Average,Same-Day,PayPal,Delivered,2
+8404146,13331,"Kari Clark",Portsmouth,England,33860,UK,19,Male,Medium,Regular,4/11/2023,2023,April,8,227.08,1816.61,Clothing,Adidas,Shoes,Bad,Express,PayPal,Shipped,1
+7410424,13333,"Anthony Soto",Portsmouth,England,54462,UK,19,Female,Medium,Regular,10/23/2023,2023,October,9,110.45,994.03,Grocery,Pepsi,Water,Good,Standard,"Credit Card",Delivered,4
+9237534,13335,"Zachary Baker",Portsmouth,England,48508,UK,21,Female,Medium,Regular,9/10/2023,2023,September,3,305.98,917.95,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,Cash,Pending,2
+2092136,13359,"Justin Robinson",Portsmouth,England,19290,UK,21,Male,Medium,Regular,3/18/2023,2023,March,10,240.63,2406.29,Grocery,Coca-Cola,Water,Excellent,Standard,"Debit Card",Delivered,4
+4437121,13361,"Joel Wood",Portsmouth,England,71702,UK,24,Male,Medium,Regular,1/8/2024,2024,January,8,211.95,1695.6,Clothing,Adidas,Jacket,Good,Same-Day,PayPal,Delivered,4
+2607060,13367,"Jake Wiley",Portsmouth,England,44892,UK,24,Male,Medium,Regular,12/17/2023,2023,December,5,143.71,718.57,"Home Decor","Bed Bath & Beyond",Bathroom,Excellent,Express,"Debit Card",Shipped,5
+7003131,13376,"Sheri Benitez",Portsmouth,England,58957,UK,24,Female,Medium,Regular,2/18/2024,2024,February,5,326.86,1634.29,Electronics,Sony,Television,Bad,Standard,Cash,Delivered,1
+7318293,13377,"Annette Miller",Portsmouth,England,85528,UK,21,Female,Medium,Regular,3/24/2023,2023,March,3,364.91,1094.74,Electronics,Sony,Television,Bad,Express,"Debit Card",Processing,1
+4239107,13378,"Rachel Edwards",Portsmouth,England,7384,UK,21,Female,Medium,Regular,2/11/2024,2024,February,4,121.05,484.19,Books,"Penguin Books",Fiction,Bad,Express,"Debit Card",Delivered,1
+5535009,13382,"Kimberly Rivera",Portsmouth,England,22475,UK,19,Male,Medium,Regular,11/25/2023,2023,November,6,326.81,1960.89,Electronics,Apple,Laptop,Bad,Same-Day,"Credit Card",Shipped,1
+6653891,13392,"Jonathon Stark Jr.",Portsmouth,England,47046,UK,21,Male,Medium,Regular,7/17/2023,2023,July,4,208.79,835.16,Grocery,Pepsi,"Soft Drink",Average,Standard,PayPal,Processing,2
+2067494,13405,"Damon Le",Portsmouth,England,96781,UK,21,Female,Medium,Regular,1/5/2024,2024,January,9,135.2,1216.81,Grocery,Pepsi,Juice,Average,Same-Day,"Debit Card",Pending,2
+2310250,13407,"Amy Jones",Portsmouth,England,33654,UK,24,Male,Medium,Regular,9/12/2023,2023,September,10,79.54,795.36,Books,"Random House",Non-Fiction,Excellent,Standard,Cash,Delivered,4
+1839678,13418,"Theodore Baldwin",Portsmouth,England,17835,UK,21,Female,Medium,Regular,3/12/2023,2023,March,7,28.84,201.89,"Home Decor","Home Depot",Decorations,Average,Same-Day,"Debit Card",Processing,2
+8653486,13424,"Scott Gonzales",Portsmouth,England,50101,UK,24,Female,Medium,Regular,8/25/2023,2023,August,5,277.25,1386.24,Grocery,Nestle,Snacks,Good,Express,Cash,Shipped,3
+7803586,13426,"Mr. Johnny Mueller MD",Portsmouth,England,48808,UK,21,Male,Medium,Regular,7/11/2023,2023,July,8,476.62,3812.99,Electronics,Samsung,Tablet,Good,Standard,"Debit Card",Delivered,4
+7147486,13452,"Tracie Small",Portsmouth,England,58515,UK,24,Male,Medium,Regular,6/5/2023,2023,June,3,76.2,228.59,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Standard,"Credit Card",Processing,2
+5879553,13459,"Ricky Parker",Portsmouth,England,46114,UK,52,Male,Medium,Regular,1/5/2024,2024,January,1,431.12,431.12,Clothing,Adidas,Jacket,Excellent,Standard,"Credit Card",Shipped,4
+1565219,13461,"Cynthia Chang",Portsmouth,England,85226,UK,19,Female,Medium,Regular,9/6/2023,2023,September,5,134.21,671.04,"Home Decor","Bed Bath & Beyond",Bedding,Good,Same-Day,Cash,Processing,4
+2555771,13465,"Amber Rodriguez",Portsmouth,England,73127,UK,24,Female,Medium,Regular,5/17/2023,2023,May,4,33.92,135.7,Grocery,Pepsi,"Soft Drink",Bad,Same-Day,PayPal,Delivered,1
+1449489,13476,"Natasha Singh",Portsmouth,England,41855,UK,24,Male,Medium,Regular,1/31/2024,2024,January,7,120.01,840.06,Electronics,Samsung,Television,Average,Same-Day,"Debit Card",Shipped,2
+1203113,13479,"Michael Duke",Portsmouth,England,18493,UK,24,Female,Medium,Regular,10/6/2023,2023,October,5,381.4,1907.01,Clothing,Zara,Jeans,Good,Same-Day,PayPal,Delivered,4
+8941119,13487,"Dawn Kennedy",Portsmouth,England,46035,UK,21,Female,Medium,Regular,11/27/2023,2023,November,8,128.35,1026.8,Grocery,Coca-Cola,Juice,Good,Same-Day,"Credit Card",Processing,4
+6236672,13491,"Mary Fuller",Portsmouth,England,62223,UK,21,Male,High,Regular,2/19/2024,2024,February,5,60.71,303.53,Clothing,Adidas,T-shirt,Average,Same-Day,"Credit Card",Processing,2
+4260274,13506,"Robert Graham II",Portsmouth,England,91589,UK,21,Female,Medium,Regular,6/20/2023,2023,June,8,122.06,976.48,Electronics,Samsung,Smartphone,Bad,Express,Cash,Pending,1
+6366404,13508,"Harry Moreno",Portsmouth,England,2548,UK,24,Female,Medium,Regular,6/13/2023,2023,June,5,169.17,845.87,"Home Decor",IKEA,Lighting,Average,Same-Day,PayPal,Pending,2
+3978660,13511,"Katherine Gentry",Portsmouth,England,46003,UK,21,Female,Medium,Regular,8/17/2023,2023,August,7,153.9,1077.3,Clothing,Zara,Shirt,Good,Same-Day,PayPal,Pending,4
+2854944,13525,"Stephen Casey",Portsmouth,England,78370,UK,19,Male,Medium,Regular,3/28/2023,2023,March,9,432.38,3891.46,Books,"Random House",Fiction,Good,Express,PayPal,Delivered,3
+1654718,13527,"Paula Flores",Portsmouth,England,63198,UK,24,Male,Medium,Regular,1/31/2024,2024,January,4,440.47,1761.89,Books,"Random House",Fiction,Good,Standard,PayPal,Pending,3
+6246032,13538,"Nathan Nunez",Portsmouth,England,25073,UK,21,Male,High,Regular,2/25/2024,2024,February,1,149.34,149.34,Books,"Penguin Books",Non-Fiction,Excellent,Express,"Debit Card",Processing,5
+2611976,13542,"Brandy Reynolds",Portsmouth,England,52896,UK,19,Male,Medium,Regular,2/21/2024,2024,February,7,374.45,2621.18,Clothing,Adidas,Shoes,Average,Standard,Cash,Delivered,2
+9704953,13549,"Megan Gonzalez",Portsmouth,England,99800,UK,21,Male,Medium,Regular,1/25/2024,2024,January,3,430.42,1291.25,Clothing,Adidas,Shoes,Bad,Standard,"Credit Card",Shipped,1
+3983706,13551,"Kelly Campbell",Portsmouth,England,53869,UK,24,Male,Medium,Regular,11/13/2023,2023,November,5,258.12,1290.6,Clothing,Zara,Shirt,Average,Standard,PayPal,Shipped,2
+4839291,13556,"Karen Barrera",Portsmouth,England,76400,UK,19,Female,Medium,Regular,2/2/2024,2024,February,9,73.86,664.74,Clothing,Adidas,T-shirt,Average,Standard,Cash,Delivered,2
+5274088,13559,"Alyssa Wilson",Portsmouth,England,83605,UK,24,Male,Medium,Regular,9/26/2023,2023,September,2,388.67,777.33,"Home Decor","Home Depot",Tools,Bad,Standard,PayPal,Shipped,1
+1194954,13566,"Maria Johnson",Portsmouth,England,56223,UK,26,Female,Low,Regular,7/3/2023,2023,July,1,377.61,377.61,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Same-Day,PayPal,Pending,3
+3422642,13580,"Matthew Good",Portsmouth,England,43312,UK,21,Male,Medium,Regular,6/12/2023,2023,June,10,41.5,414.97,Books,"Penguin Books",Fiction,Average,Express,"Credit Card",Processing,2
+8008883,13586,"James Lee",Portsmouth,England,9925,UK,21,Female,High,Regular,8/18/2023,2023,August,5,332.02,1660.09,Clothing,Adidas,T-shirt,Good,Standard,"Credit Card",Processing,3
+2870051,13589,"Caroline Alvarez",Portsmouth,England,92636,UK,21,Female,Medium,Regular,12/15/2023,2023,December,2,113.87,227.75,Electronics,Sony,Television,Bad,Express,Cash,Delivered,1
+7383231,13604,"Jacob Williams",Portsmouth,England,49101,UK,21,Female,High,Regular,9/6/2023,2023,September,7,230.4,1612.81,Clothing,Adidas,T-shirt,Excellent,Express,Cash,Delivered,4
+4355229,13606,"Susan Owens",Portsmouth,England,37757,UK,24,Male,Medium,Regular,3/7/2023,2023,March,2,10.88,21.77,"Home Decor",IKEA,Furniture,Good,Standard,"Debit Card",Shipped,3
+4578976,13610,"Roberta Ford",Portsmouth,England,76359,UK,61,Male,Low,Regular,4/29/2023,2023,April,1,145.05,145.05,Books,HarperCollins,Non-Fiction,Good,Express,"Debit Card",Delivered,3
+6710835,13619,"Tabitha Ross",Portsmouth,England,19546,UK,21,Female,Medium,Regular,7/22/2023,2023,July,3,475.92,1427.77,Books,"Penguin Books",Fiction,Average,Express,"Credit Card",Delivered,2
+4826172,13620,"Megan Turner",Portsmouth,England,58139,UK,21,Male,Medium,Regular,11/12/2023,2023,November,7,267.13,1869.94,Electronics,Samsung,Tablet,Bad,Same-Day,"Debit Card",Processing,1
+1015484,13623,"Elizabeth Diaz",Portsmouth,England,46264,UK,24,Male,Medium,Regular,10/2/2023,2023,October,1,59.82,59.82,Grocery,Pepsi,Juice,Bad,Express,"Credit Card",Delivered,1
+6989258,13624,"Mary Chandler",Portsmouth,England,4420,UK,21,Male,Medium,Regular,9/8/2023,2023,September,7,422.51,2957.55,Grocery,Pepsi,Juice,Excellent,Same-Day,"Credit Card",Pending,5
+3134820,13629,"Erica Humphrey",Portsmouth,England,84015,UK,48,Male,Medium,Regular,9/14/2023,2023,September,5,291.43,1457.16,"Home Decor",IKEA,Lighting,Excellent,Standard,"Debit Card",Processing,4
+7938907,13631,"James Brown",Portsmouth,England,57109,UK,19,Male,Medium,Regular,5/31/2023,2023,May,1,110.05,110.05,Clothing,Adidas,T-shirt,Good,Same-Day,Cash,Shipped,3
+6511356,13637,"Jessica Obrien",Portsmouth,England,96762,UK,19,Male,Medium,Regular,4/22/2023,2023,April,6,36.27,217.64,Books,HarperCollins,Non-Fiction,Average,Same-Day,PayPal,Delivered,2
+4305928,13642,"Kayla Fuller",Portsmouth,England,30414,UK,24,Male,Medium,Regular,4/24/2023,2023,April,4,172.18,688.73,Clothing,Zara,Dress,Average,Standard,Cash,Processing,2
+9221701,13645,"Nicole Osborn",Portsmouth,England,35312,UK,24,Female,Medium,Regular,4/17/2023,2023,April,8,435.61,3484.89,Electronics,Sony,Smartphone,Good,Standard,PayPal,Pending,4
+5200788,13673,"John Mullen",Portsmouth,England,30703,UK,24,Male,Medium,Regular,7/18/2023,2023,July,7,192.32,1346.21,Electronics,Samsung,Tablet,Average,Same-Day,Cash,Pending,2
+1787004,13688,"Sally Price",Portsmouth,England,88453,UK,19,Female,Medium,Regular,1/31/2024,2024,January,5,116.26,581.28,"Home Decor",IKEA,Lighting,Average,Same-Day,"Credit Card",Delivered,2
+9299828,13700,"Howard David",Portsmouth,England,68595,UK,21,Male,Medium,Regular,8/29/2023,2023,August,8,422.24,3377.95,Grocery,Nestle,Coffee,Good,Express,"Debit Card",Shipped,4
+9120956,13709,"Steven Bell",Portsmouth,England,18688,UK,19,Female,Medium,Regular,5/20/2023,2023,May,3,207.21,621.62,Electronics,Sony,Headphones,Average,Standard,"Debit Card",Delivered,2
+2803155,13713,"Pamela Harris",Portsmouth,England,32984,UK,24,Male,Medium,Regular,10/25/2023,2023,October,4,315.21,1260.85,Books,"Random House",Non-Fiction,Average,Express,Cash,Processing,2
+4575987,13724,"Christopher Cox",Portsmouth,England,4603,UK,19,Female,Medium,Regular,5/21/2023,2023,May,3,297.4,892.19,Clothing,Adidas,Shoes,Excellent,Express,Cash,Processing,5
+7832204,13730,"John Jones",Portsmouth,England,74785,UK,21,Female,Medium,Regular,12/15/2023,2023,December,4,102.1,408.39,"Home Decor",IKEA,Furniture,Bad,Standard,PayPal,Shipped,1
+4015691,13731,"Deanna Morgan",Portsmouth,England,3907,UK,21,Male,Medium,Regular,5/20/2023,2023,May,4,298.46,1193.86,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,Cash,Pending,2
+4640914,13780,"Breanna Lucero",Portsmouth,England,32070,UK,19,Female,Medium,Regular,5/21/2023,2023,May,6,293.58,1761.46,Grocery,Coca-Cola,Water,Bad,Same-Day,"Debit Card",Pending,1
+8130970,13793,"Marie Robinson",Portsmouth,England,22735,UK,39,Male,Medium,Regular,7/22/2023,2023,July,4,359.45,1437.82,Clothing,Adidas,T-shirt,Bad,Express,"Credit Card",Delivered,1
+7495356,13810,"Jacqueline Taylor",Portsmouth,England,83875,UK,21,Female,Medium,Regular,6/27/2023,2023,June,3,135.92,407.75,Books,"Penguin Books",Non-Fiction,Bad,Express,"Debit Card",Pending,1
+5446132,13831,"Eric Galloway",Portsmouth,England,40794,UK,47,Male,Medium,Regular,7/18/2023,2023,July,2,263.99,527.98,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Express,PayPal,Delivered,3
+5971462,13842,"Terry Tucker",Portsmouth,England,40848,UK,21,Male,Medium,Regular,9/22/2023,2023,September,5,208.72,1043.62,Grocery,Nestle,Snacks,Bad,Express,Cash,Delivered,1
+2072224,13886,"Howard Lucero",Portsmouth,England,14836,UK,21,Male,High,Regular,2/12/2024,2024,February,7,413.68,2895.75,Clothing,Nike,Shorts,Bad,Same-Day,"Credit Card",Pending,1
+8831680,13888,"Connie Williams",Portsmouth,England,87017,UK,24,Male,Medium,Regular,7/20/2023,2023,July,10,56.42,564.24,Books,"Penguin Books",Fiction,Average,Same-Day,"Debit Card",Shipped,2
+7635029,13894,"Brian Pollard",Portsmouth,England,11750,UK,24,Female,Medium,Regular,3/18/2023,2023,March,10,407.07,4070.68,Grocery,Nestle,Snacks,Excellent,Express,Cash,Delivered,5
+5003823,13899,"Dr. Denise Curry",Portsmouth,England,57841,UK,24,Female,Medium,Regular,2/8/2024,2024,February,10,19.13,191.31,"Home Decor","Home Depot",Decorations,Average,Standard,"Debit Card",Processing,2
+1597062,13904,"Brittany Young",Portsmouth,England,76182,UK,21,Male,Medium,Regular,6/16/2023,2023,June,6,32.01,192.04,Books,HarperCollins,Fiction,Excellent,Express,"Credit Card",Processing,5
+3668836,13911,"Marilyn Warren",Portsmouth,England,17609,UK,21,Male,High,Regular,5/24/2023,2023,May,2,58.07,116.13,Books,"Penguin Books",Fiction,Excellent,Same-Day,PayPal,Processing,5
+6680568,13914,"Jeremy Robertson",Portsmouth,England,20632,UK,24,Female,Medium,Regular,4/24/2023,2023,April,3,381.11,1143.33,"Home Decor","Home Depot",Furniture,Excellent,Same-Day,Cash,Delivered,5
+7881133,13920,"Laura Bennett",Portsmouth,England,4370,UK,32,Female,High,Regular,3/6/2023,2023,March,4,305.81,1223.26,Grocery,Pepsi,"Soft Drink",Average,Same-Day,"Debit Card",Delivered,2
+9729102,13922,"Charles Marquez",Portsmouth,England,98687,UK,24,Female,Medium,Regular,9/28/2023,2023,September,6,313.09,1878.55,Clothing,Zara,Jeans,Bad,Same-Day,PayPal,Shipped,1
+5153780,13943,"Gregory Henry",Portsmouth,England,80566,UK,21,Female,Medium,Regular,3/13/2023,2023,March,6,356.1,2136.63,Books,HarperCollins,Fiction,Average,Standard,"Debit Card",Processing,2
+8297549,13944,"Peter Taylor",Portsmouth,England,46673,UK,24,Female,Medium,Regular,6/12/2023,2023,June,3,298.31,894.92,Grocery,Coca-Cola,Juice,Excellent,Same-Day,"Credit Card",Pending,5
+1545696,13955,"Lisa Garner",Portsmouth,England,35742,UK,21,Female,Medium,Regular,6/17/2023,2023,June,6,370.68,2224.11,Electronics,Sony,Television,Average,Standard,"Debit Card",Processing,2
+7647453,13959,"Lisa Clark",Portsmouth,England,89402,UK,19,Male,Medium,Regular,2/7/2024,2024,February,3,301.33,904,Clothing,Adidas,T-shirt,Average,Standard,PayPal,Shipped,2
+7160033,13964,"Elizabeth Hernandez",Portsmouth,England,6136,UK,21,Female,Medium,Regular,9/17/2023,2023,September,3,361.6,1084.81,Books,"Random House",Fiction,Average,Same-Day,Cash,Processing,2
+7914402,13981,"Christina Martinez",Portsmouth,England,1612,UK,21,Male,Medium,Regular,5/10/2023,2023,May,2,336.04,672.08,Electronics,Sony,Smartphone,Average,Same-Day,"Debit Card",Pending,2
+7090452,13998,"Martin Mckinney",Portsmouth,England,62200,UK,24,Male,Medium,Regular,5/20/2023,2023,May,1,231.41,231.41,Electronics,Apple,Tablet,Bad,Standard,PayPal,Shipped,1
+5140261,14004,"Sarah Hoffman",Portsmouth,England,75473,UK,21,Male,Medium,Regular,11/28/2023,2023,November,3,190.71,572.13,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Same-Day,"Debit Card",Delivered,3
+7930143,14018,"Jesse Brown",Portsmouth,England,43787,UK,21,Female,Medium,Regular,7/13/2023,2023,July,4,56.89,227.55,Clothing,Adidas,Jacket,Good,Express,"Debit Card",Processing,4
+4397730,14027,"Pamela Bowman",Portsmouth,England,42721,UK,24,Male,Medium,Regular,9/9/2023,2023,September,3,244.86,734.58,Electronics,Apple,Smartphone,Average,Same-Day,"Credit Card",Pending,2
+3092361,14060,"Suzanne Robertson",Portsmouth,England,82421,UK,24,Male,Medium,Regular,7/16/2023,2023,July,4,381.8,1527.18,Grocery,Pepsi,"Soft Drink",Bad,Same-Day,"Credit Card",Shipped,1
+3557173,14063,"Richard Mason",Portsmouth,England,10501,UK,21,Female,Medium,Regular,12/11/2023,2023,December,2,88.92,177.85,Grocery,Coca-Cola,Water,Excellent,Express,"Debit Card",Delivered,5
+4015220,14066,"Michael Mendoza",Portsmouth,England,73122,UK,24,Female,Medium,Regular,5/4/2023,2023,May,10,362.11,3621.11,Electronics,Sony,Smartphone,Good,Standard,"Debit Card",Shipped,4
+8193470,14087,"Eduardo Rhodes",Portsmouth,England,38672,UK,19,Female,Medium,Regular,10/8/2023,2023,October,10,96.94,969.39,Books,HarperCollins,Non-Fiction,Average,Standard,PayPal,Delivered,2
+8274674,14091,"Gary Murphy",Portsmouth,England,24852,UK,24,Male,Low,Regular,4/27/2023,2023,April,9,469.9,4229.11,Electronics,Samsung,Tablet,Good,Same-Day,"Debit Card",Shipped,3
+9318975,14096,"Anna Henry",Portsmouth,England,37728,UK,21,Male,Medium,Regular,2/5/2024,2024,February,5,59.97,299.83,Clothing,Adidas,T-shirt,Good,Express,"Debit Card",Delivered,4
+1669480,14105,"Samantha Mcguire",Portsmouth,England,85132,UK,24,Male,Medium,Regular,8/18/2023,2023,August,2,448.35,896.7,Clothing,Adidas,T-shirt,Average,Standard,PayPal,Processing,2
+9929426,14106,"Justin Baird",Portsmouth,England,16535,UK,24,Female,Medium,Regular,2/23/2024,2024,February,10,149.11,1491.06,Books,HarperCollins,Non-Fiction,Average,Express,"Debit Card",Delivered,2
+9365298,14118,"Javier Hall",Portsmouth,England,43647,UK,24,Male,Medium,Regular,2/28/2024,2024,February,5,278.51,1392.56,Books,HarperCollins,Non-Fiction,Average,Same-Day,"Debit Card",Delivered,2
+4411989,14125,"David Miller",Portsmouth,England,13460,UK,19,Male,Medium,Regular,10/11/2023,2023,October,7,289.84,2028.91,Grocery,Nestle,Chocolate,Bad,Same-Day,"Credit Card",Pending,1
+7918894,14126,"Joseph Rodriguez",Portsmouth,England,46287,UK,24,Female,Medium,Regular,9/18/2023,2023,September,8,42.59,340.71,"Home Decor",IKEA,Furniture,Bad,Standard,"Credit Card",Shipped,1
+2888454,14130,"James Sanchez",Portsmouth,England,88256,UK,24,Male,Medium,Regular,6/27/2023,2023,June,6,242.58,1455.5,"Home Decor","Home Depot",Furniture,Average,Express,"Credit Card",Shipped,2
+4485582,14152,"Jamie Collins",Portsmouth,England,40107,UK,19,Female,Medium,Regular,1/1/2024,2024,January,4,100.89,403.54,Books,"Penguin Books",Children's,Good,Standard,Cash,Pending,3
+9149161,14153,"Paul Baker",Portsmouth,England,94604,UK,19,Male,Medium,Regular,9/11/2023,2023,September,5,418.09,2090.45,"Home Decor","Home Depot",Decorations,Excellent,Express,"Credit Card",Pending,5
+5223734,14185,"Ronald Reid",Portsmouth,England,89633,UK,21,Male,Medium,Regular,12/26/2023,2023,December,9,265.16,2386.46,Electronics,Samsung,Television,Bad,Same-Day,PayPal,Delivered,1
+4476105,14186,"Danny Oliver",Portsmouth,England,70799,UK,24,Male,Medium,Regular,2/5/2024,2024,February,8,436.51,3492.06,"Home Decor",IKEA,Furniture,Good,Standard,PayPal,Pending,3
+5050125,14196,"Michael Perkins",Portsmouth,England,69649,UK,37,Male,High,Regular,9/12/2023,2023,September,1,253.05,253.05,Clothing,Zara,Dress,Average,,PayPal,Pending,2
+8735546,14234,"Angela Cummings",Portsmouth,England,97348,UK,21,Female,Medium,Regular,3/20/2023,2023,March,1,161.53,161.53,Grocery,Pepsi,"Soft Drink",Good,Express,"Credit Card",Processing,3
+7429260,14236,"Kelly James",Portsmouth,England,26651,UK,19,Female,Medium,Regular,5/11/2023,2023,May,4,477.66,1910.64,Clothing,Nike,T-shirt,Excellent,Same-Day,Cash,Delivered,5
+5204847,14240,"Isaiah Delgado",Portsmouth,England,57610,UK,21,Female,High,Regular,8/24/2023,2023,August,7,346.05,2422.34,Clothing,Zara,Dress,Excellent,Express,PayPal,Shipped,4
+8546215,14255,"George Andrews",Portsmouth,England,42626,UK,24,Male,Medium,Regular,10/7/2023,2023,October,2,418.65,837.3,Grocery,Pepsi,Juice,Bad,Standard,"Debit Card",Pending,1
+3081134,14265,"Seth Lowery",Portsmouth,England,98796,UK,24,Male,Medium,Regular,7/19/2023,2023,July,6,66.5,398.99,Books,"Random House",Literature,Bad,Express,"Debit Card",Delivered,1
+7515253,14268,"Michelle Howe",Portsmouth,England,10998,UK,19,Male,Medium,Regular,1/6/2024,2024,January,8,300.16,2401.29,Books,HarperCollins,Non-Fiction,Excellent,Standard,PayPal,Shipped,4
+2295910,14274,"Stacy Cunningham",Portsmouth,England,81552,UK,19,Female,Medium,Regular,2/3/2024,2024,February,8,473.51,3788.12,Grocery,Coca-Cola,Water,Average,Same-Day,PayPal,Pending,2
+3522417,14275,"Robin Meza",Portsmouth,England,71648,UK,24,Male,Medium,Regular,5/23/2023,2023,May,7,216.04,1512.29,Electronics,Apple,Smartphone,Good,Standard,"Debit Card",Pending,3
+2470698,14292,"Timothy Jacobs",Portsmouth,England,73270,UK,21,Female,Medium,Regular,5/22/2023,2023,May,8,377.72,3021.75,Grocery,Pepsi,Water,Bad,Standard,"Debit Card",Pending,1
+9254114,14311,"Jeremy Watson",Portsmouth,England,50154,UK,24,Male,Medium,Regular,8/10/2023,2023,August,1,160.8,160.8,Books,"Penguin Books",Children's,Good,Standard,PayPal,Shipped,3
+2053961,14330,"Julia Pham",Portsmouth,England,38365,UK,21,Male,High,Regular,3/8/2023,2023,March,1,323.78,323.78,Books,"Random House",Fiction,Good,Standard,Cash,Processing,4
+7852660,14331,"Felicia Sellers",Portsmouth,England,19649,UK,19,Female,Medium,Regular,2/26/2024,2024,February,9,22.17,199.57,Electronics,Samsung,Tablet,Good,Standard,"Debit Card",Delivered,4
+5670261,14341,"Gabriella Frazier",Portsmouth,England,12192,UK,57,Female,Low,Regular,7/13/2023,2023,July,4,389.86,1559.43,Electronics,Apple,Laptop,Good,Standard,"Debit Card",Processing,4
+2004106,14346,"Mark Johnson",Portsmouth,England,78740,UK,24,Female,Medium,Regular,1/20/2024,2024,January,8,184.38,1475.05,Clothing,Zara,Dress,Bad,Same-Day,PayPal,Delivered,1
+7879055,14352,"Lorraine Whitaker",Portsmouth,England,79347,UK,19,Male,Medium,Regular,10/10/2023,2023,October,4,372.66,1490.65,Clothing,Adidas,T-shirt,Good,Standard,"Credit Card",Processing,3
+2926509,14370,"Jessica Cobb",Portsmouth,England,34314,UK,21,Male,Medium,Regular,8/30/2023,2023,August,10,73.26,732.6,"Home Decor","Home Depot",Decorations,Excellent,Same-Day,"Debit Card",Processing,4
+8146579,14382,"Timothy Harris",Portsmouth,England,50211,UK,21,Male,Medium,Regular,1/20/2024,2024,January,5,71.61,358.06,Clothing,Zara,Jeans,Good,Express,Cash,Pending,4
+7133847,14390,"Sandra Thompson",Portsmouth,England,65908,UK,24,Male,Medium,Regular,10/5/2023,2023,October,7,415.99,2911.95,Grocery,Nestle,Coffee,Bad,Express,Cash,Pending,1
+6279477,14403,"Michael Thompson",Portsmouth,England,44212,UK,21,Male,Medium,Regular,1/19/2024,2024,January,7,12.06,84.39,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Same-Day,Cash,Delivered,2
+4098643,14411,"Thomas Velazquez",Portsmouth,England,74886,UK,19,,Medium,Regular,6/21/2023,2023,June,4,404.68,1618.73,Clothing,Nike,Shorts,Excellent,Standard,PayPal,Processing,5
+2439325,14421,"Kristin Pham",Portsmouth,England,30480,UK,19,Male,Medium,Regular,6/30/2023,2023,June,4,478.22,1912.88,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Express,Cash,Delivered,4
+9883112,14438,"Perry Bryant",Portsmouth,England,33849,UK,21,Female,High,Regular,8/26/2023,2023,August,10,129.43,1294.3,Grocery,Nestle,Chocolate,Average,Same-Day,"Debit Card",Pending,2
+8084110,14443,"Linda Brown",Portsmouth,England,59066,UK,24,Female,Medium,Regular,8/4/2023,2023,August,10,352.27,3522.74,"Home Decor",IKEA,Lighting,Good,Same-Day,PayPal,Delivered,3
+1209104,14469,"Todd Johnson",Portsmouth,England,52360,UK,21,Female,High,Regular,2/4/2024,2024,February,1,23.86,23.86,"Home Decor",IKEA,Decorations,Average,Standard,"Credit Card",Pending,2
+4173724,14473,"Devin Benjamin",Portsmouth,England,58243,UK,24,Female,Medium,Regular,3/8/2023,2023,March,2,302.12,604.24,"Home Decor","Home Depot",Tools,Bad,Express,PayPal,Delivered,1
+7078124,14479,"Ashley Shaffer",Portsmouth,England,26518,UK,21,Male,High,Regular,1/14/2024,2024,January,4,269.97,1079.88,Books,"Penguin Books",Children's,Excellent,Express,PayPal,Processing,4
+1189054,14480,"Douglas Downs",Portsmouth,England,50350,UK,21,Female,Medium,Regular,1/29/2024,2024,January,5,331.27,1656.34,Grocery,Nestle,Chocolate,Bad,Standard,"Credit Card",Shipped,1
+6665972,14487,"Jamie Wood",Portsmouth,England,98689,UK,24,Female,Medium,Regular,1/18/2024,2024,January,5,261.92,1309.6,Books,"Random House",Fiction,Average,Express,Cash,Processing,2
+7605284,14489,"Dr. Brandon Cohen",Portsmouth,England,6282,UK,19,Male,Medium,Regular,8/27/2023,2023,August,3,153.76,461.28,Books,HarperCollins,Fiction,Good,Same-Day,PayPal,Delivered,3
+6974465,14495,"Thomas Bryan",Portsmouth,England,65035,UK,24,Female,Medium,Regular,3/10/2023,2023,March,6,24.62,147.74,Electronics,Samsung,Smartphone,Good,Standard,"Debit Card",Processing,4
+8121238,14515,"Lori James",Portsmouth,England,95587,UK,24,Male,Medium,Regular,8/16/2023,2023,August,1,480.69,480.69,Clothing,Nike,T-shirt,Good,Standard,PayPal,Shipped,3
+5357507,14519,"Jennifer Stone",Portsmouth,England,65833,UK,19,Male,Medium,Regular,11/21/2023,2023,November,1,346.41,346.41,Clothing,Nike,Shorts,Good,Standard,PayPal,Delivered,4
+5112029,14522,"Dana Williams",Portsmouth,England,6132,UK,24,Male,Medium,Regular,11/7/2023,2023,November,7,256.3,1794.13,Electronics,Samsung,Television,Good,Express,"Credit Card",Delivered,3
+5323070,14524,"Adam Booth",Portsmouth,England,13758,UK,24,Female,Medium,Regular,11/24/2023,2023,November,10,253.74,2537.42,Clothing,Zara,Dress,Good,Same-Day,PayPal,Pending,4
+6304798,14551,"Adrian Moore",Portsmouth,England,91055,UK,24,Male,Medium,Regular,11/24/2023,2023,November,1,153.52,153.52,"Home Decor","Bed Bath & Beyond",Bedding,Excellent,Standard,PayPal,Delivered,5
+9673915,14553,"Corey King",Portsmouth,England,36155,UK,46,Female,Medium,Regular,1/28/2024,2024,January,10,432.27,4322.7,Electronics,Sony,Headphones,Bad,Express,"Credit Card",Pending,1
+9326759,14555,"Kimberly Brandt",Portsmouth,England,81272,UK,24,Male,Medium,Regular,7/19/2023,2023,July,2,289.03,578.06,Electronics,Apple,Smartphone,Excellent,Express,Cash,Shipped,4
+4037434,14560,"Shelby Patterson",Portsmouth,England,78704,UK,53,Male,Medium,Regular,6/6/2023,2023,June,2,59.01,118.01,Grocery,Nestle,Snacks,Average,Express,Cash,Shipped,2
+2370994,14590,"Jessica Smith",Portsmouth,England,4166,UK,21,Male,High,Regular,4/21/2023,2023,April,1,334.01,334.01,Clothing,Nike,T-shirt,Excellent,Same-Day,"Debit Card",Pending,4
+7460844,14605,"Lauren Underwood",Portsmouth,England,57135,UK,21,Female,Medium,Regular,5/12/2023,2023,May,7,449.07,3143.5,Grocery,Nestle,Coffee,Excellent,Same-Day,"Credit Card",Shipped,5
+5700971,14608,"Samuel Fuller",Portsmouth,England,58885,UK,24,Female,Medium,Regular,9/25/2023,2023,September,10,204.05,2040.53,Grocery,Pepsi,"Soft Drink",Excellent,Standard,"Credit Card",Delivered,5
+1245840,14610,"James Stein",Portsmouth,England,71800,UK,24,Male,Medium,Regular,7/25/2023,2023,July,2,122.69,245.38,Books,"Penguin Books",Non-Fiction,Bad,Same-Day,"Credit Card",Delivered,1
+8981983,14614,"Robert Brown",Portsmouth,England,43422,UK,19,Male,Medium,Regular,11/5/2023,2023,November,6,273.7,1642.19,"Home Decor",IKEA,Decorations,Bad,Same-Day,PayPal,Pending,1
+1600347,14629,"Francisco Warren",Portsmouth,England,83688,UK,19,Female,Medium,Regular,6/19/2023,2023,June,2,476.25,952.49,"Home Decor",IKEA,Decorations,Average,Express,"Debit Card",Shipped,2
+7901605,14636,"Jeremy Ingram",Portsmouth,England,91385,UK,19,Male,Medium,Regular,1/28/2024,2024,January,3,227.55,682.65,Books,HarperCollins,Non-Fiction,Average,Same-Day,PayPal,Delivered,2
+4557724,14655,"Jeffrey Lawson",Portsmouth,England,85208,UK,21,Male,Medium,Regular,3/2/2023,2023,March,10,305.08,3050.77,Books,"Penguin Books",Fiction,Bad,Express,PayPal,Processing,1
+2519390,14658,"Rachel Gay",Portsmouth,England,10724,UK,24,Male,Medium,Regular,1/15/2024,2024,January,6,203.04,1218.25,Electronics,Apple,Tablet,Average,Standard,Cash,Shipped,2
+8171449,14663,"Ryan Paul",Portsmouth,England,40326,UK,53,Male,High,Regular,9/4/2023,2023,September,3,479.12,1437.36,Electronics,Sony,Smartphone,Bad,Standard,"Debit Card",Pending,1
+2651949,14672,"Samantha Myers",Portsmouth,England,11493,UK,21,Female,Medium,Regular,3/3/2023,2023,March,6,230.83,1384.97,Grocery,Coca-Cola,Water,Good,Express,Cash,Processing,4
+7250185,14682,"Tony Vasquez",Portsmouth,England,6795,UK,24,Female,Medium,Regular,9/25/2023,2023,September,7,58.23,407.58,Electronics,Apple,Tablet,Excellent,Standard,"Debit Card",Delivered,5
+4988499,14707,"Jacob Williams",Portsmouth,England,3592,UK,24,Male,Medium,Regular,8/13/2023,2023,August,6,331.67,1990.03,"Home Decor",IKEA,Furniture,Average,Standard,"Credit Card",Processing,2
+1744276,14710,"Amy Santiago",Portsmouth,England,36795,UK,24,Male,Medium,Regular,4/30/2023,2023,April,5,52.74,263.69,"Home Decor","Home Depot",Decorations,Average,Same-Day,"Credit Card",Delivered,2
+8965359,14712,"Justin Collins",Portsmouth,England,23370,UK,19,Male,Medium,Regular,11/7/2023,2023,November,4,216.5,866.01,Books,"Random House",Literature,Bad,Express,Cash,Delivered,1
+9656094,14718,"Shawn Bryan",Portsmouth,England,17712,UK,21,Female,High,Regular,2/18/2024,2024,February,2,440.67,881.34,Books,"Penguin Books",Children's,Bad,Express,"Debit Card",Processing,1
+9317492,14728,"Barbara Scott",Portsmouth,England,8955,UK,24,Male,Medium,Regular,8/9/2023,2023,August,10,220.73,2207.26,"Home Decor",IKEA,Lighting,Bad,Express,"Debit Card",Processing,1
+5349301,14730,"Jean Vasquez",Portsmouth,England,68532,UK,24,Male,Medium,Regular,5/6/2023,2023,May,4,120.88,483.51,Grocery,Coca-Cola,Water,Good,Express,Cash,Pending,3
+3810352,14739,"Andrew Bowers",Portsmouth,England,31668,UK,24,Female,Medium,Regular,1/1/2024,2024,January,1,287.2,287.2,Grocery,Pepsi,Juice,Excellent,Standard,PayPal,Shipped,4
+9133752,14744,"Eric Knapp",Portsmouth,England,69241,UK,21,Female,Medium,Regular,9/22/2023,2023,September,5,474.5,2372.49,"Home Decor","Home Depot",Furniture,Excellent,Standard,"Credit Card",Processing,5
+5557390,14750,"Gina Kelley",Portsmouth,England,68069,UK,19,Male,Medium,Regular,9/13/2023,2023,September,10,305.48,3054.82,"Home Decor","Home Depot",Decorations,Average,Express,"Credit Card",Delivered,2
+4367693,14754,"Heather Brandt",Portsmouth,England,39146,UK,24,Male,Medium,Regular,6/29/2023,2023,June,2,211.24,422.49,Books,HarperCollins,Thriller,Good,Same-Day,"Debit Card",Shipped,4
+8672653,14766,"Brandi Martin",Portsmouth,England,43433,UK,24,Male,Medium,Regular,7/18/2023,2023,July,7,270.65,1894.53,Electronics,Sony,Headphones,Good,Same-Day,"Debit Card",Pending,3
+9815038,14769,"Alicia Briggs",Portsmouth,England,6195,UK,21,Female,High,Regular,3/10/2023,2023,March,3,439.89,1319.66,Grocery,Coca-Cola,"Soft Drink",Excellent,Express,"Debit Card",Shipped,5
+3410438,14771,"Jennifer Rogers",Portsmouth,England,61146,UK,21,Male,Medium,Regular,4/23/2023,2023,April,8,362.16,2897.25,Clothing,Zara,Shirt,Bad,Same-Day,Cash,Pending,1
+6786417,14778,"Sarah Wood",Portsmouth,England,17833,UK,24,Male,Medium,Regular,9/11/2023,2023,September,3,31.44,94.32,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Same-Day,"Debit Card",Delivered,3
+4040368,14783,"Megan Marsh",Portsmouth,England,52096,UK,21,Female,High,Regular,10/9/2023,2023,October,7,324.45,2271.17,Electronics,Sony,Headphones,Good,Same-Day,Cash,Shipped,3
+4916439,14799,"Jessica Adams",Portsmouth,England,58137,UK,24,Female,Medium,Regular,5/5/2023,2023,May,8,363.22,2905.78,Books,"Random House",Fiction,Bad,Same-Day,"Debit Card",Delivered,1
+8492968,14803,"Connor Cox",Portsmouth,England,73383,UK,21,Male,Medium,Regular,4/13/2023,2023,April,1,130.83,130.83,Books,"Penguin Books",Fiction,Good,Same-Day,PayPal,Delivered,3
+8093982,14811,"Catherine Rice",Portsmouth,England,72906,UK,21,Female,Medium,Regular,3/24/2023,2023,March,3,303.22,909.67,Books,"Penguin Books",Non-Fiction,Good,Standard,Cash,Shipped,4
+6284016,14815,"Nathan Wang",Portsmouth,England,49960,UK,24,Female,Medium,Regular,8/27/2023,2023,August,10,461.55,4615.48,Electronics,Apple,Laptop,Excellent,Express,"Debit Card",Processing,4
+3437576,14841,"Tammy Griffith",Portsmouth,England,35191,UK,19,Female,Medium,Regular,9/2/2023,2023,September,9,123.79,1114.13,Clothing,Nike,Shoes,Excellent,Express,"Credit Card",Delivered,5
+6118289,14854,"Tracey Adams",Portsmouth,England,30037,UK,21,Female,Medium,Regular,5/10/2023,2023,May,5,481.57,2407.83,Books,"Penguin Books",Children's,Excellent,Standard,PayPal,Shipped,4
+6649934,14855,"Kimberly Holloway",Portsmouth,England,48880,UK,43,Female,Medium,Regular,10/10/2023,2023,October,2,194.67,389.34,Grocery,Nestle,Chocolate,Average,Standard,"Credit Card",Processing,2
+8372684,14861,"Ian Sanders",Portsmouth,England,89741,UK,24,Male,Medium,Regular,10/1/2023,2023,October,1,152.94,152.94,Clothing,Zara,Shirt,Excellent,Same-Day,"Credit Card",Processing,4
+4509981,14872,"Colton Miller",Portsmouth,England,19411,UK,21,Female,Medium,Regular,11/27/2023,2023,November,4,421.37,1685.5,Clothing,Zara,Jeans,Average,Express,Cash,Pending,2
+3779879,14879,"Sarah Snyder",Portsmouth,England,63495,UK,24,Male,Medium,Regular,11/17/2023,2023,November,4,62.94,251.78,"Home Decor",IKEA,Decorations,Average,Express,PayPal,Shipped,2
+6235867,14880,"Trevor Brown",Portsmouth,England,4731,UK,21,Female,High,Regular,11/26/2023,2023,November,2,199.05,398.1,Electronics,Sony,Television,Good,Same-Day,PayPal,Pending,4
+9469130,14883,"Aaron Armstrong",Portsmouth,England,24018,UK,19,Male,Medium,Regular,1/5/2024,2024,January,5,492.4,2462.01,Books,HarperCollins,Fiction,Bad,Express,Cash,Delivered,1
+9449050,14899,"Adam Decker",Portsmouth,England,21339,UK,18,Male,Medium,Regular,5/14/2023,2023,May,4,249.23,996.92,Books,"Penguin Books",Children's,Good,Same-Day,"Credit Card",Delivered,3
+4624464,14908,"Nancy Finley",Portsmouth,England,27057,UK,19,Male,Medium,Regular,9/9/2023,2023,September,8,205.09,1640.76,Grocery,Nestle,Chocolate,Excellent,Standard,"Credit Card",Processing,5
+4411917,14912,"Lisa Smith",Portsmouth,England,592,UK,19,Female,Medium,Regular,7/17/2023,2023,July,3,445.37,1336.12,Grocery,Pepsi,Water,Bad,Express,PayPal,Delivered,1
+2828726,14914,"John Mack",Portsmouth,England,72985,UK,19,Male,Medium,Regular,8/23/2023,2023,August,2,370.74,741.48,Clothing,Zara,Shirt,Average,Express,"Debit Card",Delivered,2
+3020958,14920,"Jose Benson",Portsmouth,England,69494,UK,19,Male,Medium,Regular,12/28/2023,2023,December,8,205.69,1645.5,"Home Decor","Home Depot",Tools,Excellent,Same-Day,PayPal,Processing,5
+1544914,14926,"Thomas Parker",Portsmouth,England,22943,UK,21,Female,Medium,Regular,3/26/2023,2023,March,4,327.39,1309.56,Electronics,Apple,Tablet,Bad,Standard,PayPal,Delivered,1
+8605880,14937,"Ryan Perry",Portsmouth,England,19723,UK,19,Male,Medium,Regular,8/29/2023,2023,August,9,208.41,1875.68,Electronics,Samsung,Television,Excellent,Same-Day,"Debit Card",Delivered,5
+8130475,14964,"James Smith",Portsmouth,England,33334,UK,24,Female,Medium,Regular,9/14/2023,2023,September,9,13.95,125.51,Grocery,Pepsi,Water,Bad,Standard,PayPal,Shipped,1
+3780866,14976,"Edward Clark",Portsmouth,England,92161,UK,21,Female,Medium,Regular,6/30/2023,2023,June,6,155.91,935.43,Books,HarperCollins,Non-Fiction,Average,Same-Day,"Credit Card",Processing,2
+8253077,14980,"Kimberly Murphy",Portsmouth,England,99602,UK,40,Male,Medium,Regular,1/15/2024,2024,January,4,263.3,1053.19,Electronics,Samsung,Television,Bad,Standard,Cash,Shipped,1
+4583042,14984,"Gary Jackson",Portsmouth,England,89556,UK,61,Female,High,Regular,7/29/2023,2023,July,7,412.51,2887.57,Grocery,Nestle,Coffee,Bad,Standard,PayPal,Processing,1
+4938895,14996,"Dr. Jessica Nguyen MD",Portsmouth,England,23767,UK,23,Female,Medium,Regular,3/29/2023,2023,March,1,272.69,272.69,Clothing,Zara,Dress,Good,Same-Day,Cash,Delivered,3
+7729556,15002,"Gregory Arnold",Portsmouth,England,598,UK,19,Male,Medium,Regular,12/18/2023,2023,December,5,48.97,244.83,Electronics,Sony,Smartphone,Excellent,Same-Day,PayPal,Processing,5
+2766292,15015,"Evan Henderson",Portsmouth,England,15988,UK,60,Male,Low,Regular,4/8/2023,2023,April,4,279.34,1117.38,Clothing,Zara,Shirt,Average,Express,"Debit Card",Shipped,2
+8604630,15017,"David Sullivan",Portsmouth,England,54093,UK,21,Male,High,Regular,10/7/2023,2023,October,3,252.7,758.11,Grocery,Coca-Cola,Water,Bad,Same-Day,"Debit Card",Shipped,1
+5271712,15028,"Kelsey Williams",Portsmouth,England,3560,UK,19,Female,Medium,Regular,9/12/2023,2023,September,10,346.61,3466.08,Books,HarperCollins,Thriller,Excellent,Express,Cash,Processing,5
+7196203,15041,"Zachary Rodriguez",Portsmouth,England,16933,UK,53,Female,Medium,Regular,11/17/2023,2023,November,5,481.86,2409.3,Electronics,Apple,Smartphone,Average,Standard,Cash,Shipped,2
+1645654,15058,"Joshua Owens",Portsmouth,England,82472,UK,24,Male,Medium,Regular,8/20/2023,2023,August,7,27.41,191.9,Grocery,Pepsi,Water,Bad,Standard,PayPal,Processing,1
+5470136,15063,"Bruce Young",Portsmouth,England,30424,UK,19,Male,Medium,Regular,9/16/2023,2023,September,4,183.46,733.85,Books,"Random House",Fiction,Average,Same-Day,"Credit Card",Delivered,2
+2677804,15065,"Philip Ross",Portsmouth,England,70506,UK,21,Male,Medium,Regular,2/11/2024,2024,February,1,290.89,290.89,"Home Decor","Home Depot",Furniture,Average,Same-Day,"Debit Card",Pending,2
+8490396,15095,"Kristen Wong",Portsmouth,England,70458,UK,19,Male,Medium,Regular,9/4/2023,2023,September,10,470.6,4706.01,Books,"Random House",Non-Fiction,Good,Same-Day,PayPal,Delivered,3
+4211030,15096,"Ivan Harris",Portsmouth,England,38721,UK,21,Female,Medium,Regular,8/23/2023,2023,August,2,144.4,288.81,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Express,"Credit Card",Delivered,4
+5551836,15100,"Adam White",Portsmouth,England,49751,UK,19,Female,Medium,Regular,9/16/2023,2023,September,10,107.66,1076.59,"Home Decor","Bed Bath & Beyond",Bedding,Excellent,Same-Day,Cash,Delivered,5
+5515117,15112,"Tracy Garcia",Portsmouth,England,34746,UK,21,Male,Medium,Regular,9/9/2023,2023,September,10,472.69,4726.93,Grocery,Coca-Cola,"Soft Drink",Good,Same-Day,"Debit Card",Pending,4
+9703538,15113,"Jennifer Hall",Portsmouth,England,5817,UK,24,Male,Medium,Regular,9/23/2023,2023,September,5,326.61,1633.06,Electronics,Samsung,Television,Excellent,Standard,"Debit Card",Processing,5
+8215336,15116,"Katrina Velasquez",Portsmouth,England,17145,UK,21,Male,Medium,Regular,10/25/2023,2023,October,10,413.46,4134.56,Books,"Random House",Non-Fiction,Excellent,Standard,PayPal,Delivered,4
+2411564,15123,,Portsmouth,England,72247,UK,19,Male,Medium,Regular,5/31/2023,2023,May,6,221.79,1330.72,Clothing,Nike,T-shirt,Excellent,Standard,"Credit Card",Delivered,4
+9532966,15132,"Kenneth Snow",Portsmouth,England,17533,UK,19,Female,Medium,Regular,4/3/2023,2023,April,9,106.45,958.06,Grocery,Coca-Cola,"Soft Drink",Bad,Express,"Debit Card",Delivered,1
+4008585,15151,"Barbara Mcconnell",Portsmouth,England,71230,UK,21,Male,Medium,Regular,11/28/2023,2023,November,9,414.13,3727.18,"Home Decor","Home Depot",Decorations,Bad,Express,"Credit Card",Pending,1
+7750604,15153,"Linda Wright",Portsmouth,England,38999,UK,24,Male,Medium,Regular,7/15/2023,2023,July,4,238,952.01,Clothing,Nike,Shorts,Bad,Same-Day,"Credit Card",Pending,1
+8992943,15161,"Melissa Moreno",Portsmouth,England,51765,UK,24,Male,Medium,Regular,3/25/2023,2023,March,3,214.9,644.71,Clothing,Zara,Dress,Bad,Same-Day,"Debit Card",Delivered,1
+8539190,15167,"Timothy Dalton",Portsmouth,England,99369,UK,24,Male,Medium,Regular,2/25/2024,2024,February,2,102.47,204.94,Grocery,Nestle,Chocolate,Average,Standard,PayPal,Shipped,2
+3227242,15171,"Edward Berry",Portsmouth,England,44342,UK,21,Female,High,Regular,11/28/2023,2023,November,4,272.59,1090.37,Grocery,Pepsi,"Soft Drink",Average,Express,"Debit Card",Delivered,2
+5537731,15174,"Alejandra Smith",Portsmouth,England,55004,UK,19,Male,Medium,Regular,2/2/2024,2024,February,7,479.57,3356.98,Clothing,Nike,T-shirt,Average,Same-Day,PayPal,Pending,2
+9598880,15204,"Sharon Ewing",Portsmouth,England,37787,UK,24,Male,Medium,Regular,8/14/2023,2023,August,7,367.79,2574.53,Electronics,Sony,Television,Average,Same-Day,"Debit Card",Processing,2
+2814625,15205,"Stephanie Owens",Portsmouth,England,9326,UK,24,Male,Medium,Regular,3/22/2023,2023,March,2,185.43,370.86,Grocery,Nestle,Coffee,Good,Standard,"Debit Card",Pending,4
+1640031,15210,"Michael Sims",Portsmouth,England,97420,UK,24,Female,Medium,Regular,7/11/2023,2023,July,2,118.79,237.58,Electronics,Sony,Headphones,Average,Express,"Credit Card",Processing,2
+7212374,15259,"Gregory Jackson",Portsmouth,England,22845,UK,19,Male,Medium,Regular,8/27/2023,2023,August,7,239.9,1679.27,Electronics,Sony,Smartphone,Good,Same-Day,"Credit Card",Delivered,3
+4719751,15270,"Jimmy Nelson",Portsmouth,England,74036,UK,19,Male,Medium,Regular,5/1/2023,2023,May,6,50.41,302.45,Books,HarperCollins,Thriller,Excellent,Same-Day,"Debit Card",Processing,5
+2927838,15286,"Melissa Schultz",Portsmouth,England,49839,UK,24,Female,Medium,Regular,9/29/2023,2023,September,10,188.5,1884.98,Clothing,Adidas,Jacket,Good,Express,Cash,Pending,3
+3223143,15325,"Theresa Kirby",Portsmouth,England,54473,UK,21,Male,Medium,Regular,1/22/2024,2024,January,8,282.33,2258.68,Electronics,Sony,Smartphone,Good,Express,"Debit Card",Delivered,4
+6764358,15327,"Gregory Young",Portsmouth,England,33467,UK,19,Male,Medium,Regular,2/23/2024,2024,February,9,12.12,109.08,Grocery,Nestle,Coffee,Excellent,Same-Day,Cash,Processing,5
+7453098,15331,"Brittany Davis",Portsmouth,England,58275,UK,21,Female,Medium,Regular,7/9/2023,2023,July,10,171.86,1718.63,Books,"Random House",Non-Fiction,Bad,Standard,"Credit Card",Delivered,1
+6781429,15345,"Christina Williams",Portsmouth,England,78352,UK,19,Female,Medium,Regular,10/16/2023,2023,October,7,461.86,3233,Books,"Penguin Books",Fiction,Good,Same-Day,PayPal,Delivered,3
+9087088,15353,"Jacqueline Castro MD",Portsmouth,England,82819,UK,24,Male,Medium,Regular,1/21/2024,2024,January,4,172.48,689.93,Electronics,Apple,Laptop,Good,Standard,"Credit Card",Shipped,4
+4134511,15369,"Jeremy Newman IV",Portsmouth,England,26974,UK,24,Male,Medium,Regular,7/1/2023,2023,July,5,198.52,992.61,Clothing,Nike,Shorts,Bad,Same-Day,"Debit Card",Shipped,1
+4919431,15376,"Taylor Jones",Portsmouth,England,87961,UK,24,Male,Medium,Regular,10/21/2023,2023,October,3,327.3,981.89,Clothing,Zara,Jeans,Good,Standard,PayPal,Processing,4
+1893008,15383,"Nancy Mckinney",Portsmouth,England,57455,UK,21,Male,Medium,Regular,11/13/2023,2023,November,8,332.78,2662.28,Clothing,Zara,Shirt,Bad,Standard,"Credit Card",Pending,1
+7375664,15395,"Benjamin Richardson",Portsmouth,England,30190,UK,21,Female,High,Regular,5/4/2023,2023,May,5,133.26,666.31,Grocery,Pepsi,Water,Bad,Standard,Cash,Processing,1
+9094652,15400,"Nicole Flores",Portsmouth,England,79696,UK,21,Female,High,Regular,4/4/2023,2023,April,2,129.56,259.13,Electronics,Sony,Television,Good,Standard,"Debit Card",Shipped,4
+5201863,15412,"Scott Calderon",Portsmouth,England,19060,UK,24,Male,Medium,Regular,4/23/2023,2023,April,6,277.81,1666.86,Books,HarperCollins,Thriller,Bad,Express,Cash,Pending,1
+1389331,15420,"Lucas Brown",Portsmouth,England,71046,UK,21,Female,Medium,Regular,4/25/2023,2023,April,9,350.66,3155.97,"Home Decor","Home Depot",Tools,Excellent,Same-Day,"Debit Card",Processing,4
+7820487,15484,"Erica Jones",Portsmouth,England,23169,UK,24,Male,Medium,Regular,4/7/2023,2023,April,5,392.05,1960.27,Books,"Random House",Literature,Good,Express,PayPal,Processing,4
+9942767,15490,"Daniel Scott",Portsmouth,England,66895,UK,21,Female,Medium,Regular,10/15/2023,2023,October,4,204.6,818.4,Books,HarperCollins,Non-Fiction,Excellent,Same-Day,"Debit Card",Pending,4
+5259937,15497,"Joyce Marsh",Portsmouth,England,2951,UK,21,Female,Medium,Regular,3/7/2023,2023,March,3,215.36,646.08,"Home Decor",IKEA,Lighting,Average,Express,Cash,Delivered,2
+9438520,15507,"Melinda Soto",Portsmouth,England,44078,UK,21,Female,Medium,Regular,3/12/2023,2023,March,4,435.46,1741.83,Electronics,Samsung,Tablet,Excellent,Express,"Credit Card",Shipped,4
+5541880,15514,"Jesse Robertson",Portsmouth,England,85584,UK,19,Female,Medium,Regular,7/30/2023,2023,July,7,47.21,330.5,"Home Decor",IKEA,Lighting,Excellent,Same-Day,"Debit Card",Shipped,4
+3128001,15527,"Ashley Pena",Portsmouth,England,2592,UK,21,Female,Medium,Regular,1/20/2024,2024,January,6,411.97,2471.8,Grocery,Pepsi,Juice,Excellent,Same-Day,"Debit Card",Pending,5
+2489818,15539,"Timothy Smith",Portsmouth,England,46229,UK,24,Female,Medium,Regular,10/19/2023,2023,,4,228.08,912.31,Books,"Random House",Non-Fiction,Excellent,Standard,"Debit Card",Shipped,4
+7529495,15555,"Michelle Jackson",Portsmouth,England,99611,UK,21,Male,Medium,Regular,9/24/2023,2023,September,5,320.69,1603.46,Books,"Random House",Non-Fiction,Average,Same-Day,"Credit Card",Processing,2
+7684000,15572,"Sarah Evans",Portsmouth,England,83618,UK,21,Male,Medium,Regular,4/5/2023,2023,April,2,492.83,985.66,Grocery,Pepsi,Juice,Bad,Express,"Debit Card",Shipped,1
+8658692,15590,"Jennifer Lara",Portsmouth,England,6290,UK,24,Male,Medium,Regular,7/8/2023,2023,July,4,64.35,257.4,"Home Decor",IKEA,Lighting,Good,Express,Cash,Delivered,4
+3848630,15592,"Kimberly Schmidt MD",Portsmouth,England,5312,UK,27,Female,Medium,Regular,4/6/2023,2023,April,1,192.73,192.73,"Home Decor","Home Depot",Tools,Average,Express,PayPal,Pending,2
+6912707,15593,"Brandon Meyer",Portsmouth,England,37330,UK,21,Female,High,Regular,7/23/2023,2023,July,2,226.16,452.31,Electronics,Sony,Headphones,Bad,Standard,"Credit Card",Shipped,1
+3462909,15597,"Kelly Smith",Portsmouth,England,36066,UK,52,Female,Medium,Regular,4/27/2023,2023,April,2,258.42,516.84,Books,"Penguin Books",Children's,Excellent,Express,PayPal,Shipped,5
+7908421,15605,"Toni Lynn",Portsmouth,England,48623,UK,21,Male,High,Regular,12/11/2023,2023,December,7,23.47,164.32,Grocery,Pepsi,Water,Bad,Express,PayPal,Shipped,1
+4362826,15610,"Ryan Smith",Portsmouth,England,79770,UK,24,Male,Medium,Regular,10/10/2023,2023,October,6,210.07,1260.45,Books,"Random House",Non-Fiction,Bad,Standard,"Credit Card",Shipped,1
+7776707,15615,"Jennifer Huerta",Portsmouth,England,27396,UK,70,Male,Medium,Regular,5/29/2023,2023,May,4,225.69,902.76,Books,,Non-Fiction,Bad,Express,"Credit Card",Delivered,1
+1489035,15621,"Ronald Goodwin",Portsmouth,England,47609,UK,19,Female,Medium,Regular,4/15/2023,2023,April,2,432.07,864.15,Clothing,Nike,Shoes,Average,Same-Day,"Credit Card",Delivered,2
+2923971,15628,"Lonnie Moss",Portsmouth,England,52785,UK,19,Male,Medium,Regular,4/24/2023,2023,April,5,445.03,2225.16,"Home Decor","Home Depot",Decorations,Bad,Standard,"Debit Card",Delivered,1
+3446542,15658,"Barbara Carrillo",Portsmouth,England,27709,UK,24,Female,Medium,Regular,2/29/2024,2024,February,10,241.36,2413.64,Clothing,Adidas,Shoes,Bad,Express,Cash,Shipped,1
+1396755,15665,"Christopher Williams",Portsmouth,England,74432,UK,19,Female,Medium,Regular,11/21/2023,2023,November,1,372.64,372.64,"Home Decor",,Furniture,Average,Express,PayPal,Pending,2
+6480144,15668,"Tracy Barrera",Portsmouth,England,68734,UK,24,Female,Medium,Regular,10/15/2023,2023,October,5,420.44,2102.22,Grocery,Nestle,Chocolate,Average,Standard,"Credit Card",Pending,2
+6399292,15673,"Renee Floyd",Portsmouth,England,85687,UK,21,Male,High,Regular,1/19/2024,2024,January,9,467.42,4206.82,Clothing,Adidas,T-shirt,Bad,Standard,"Credit Card",Processing,1
+7821062,15675,"Sean Savage",Portsmouth,England,34290,UK,24,Male,Medium,Regular,4/18/2023,2023,April,10,352.37,3523.71,Books,"Penguin Books",Fiction,Average,Standard,PayPal,Delivered,2
+5492177,15681,"Seth Garcia",Portsmouth,England,4269,UK,24,Male,Medium,Regular,11/23/2023,2023,November,8,372.83,2982.63,Clothing,Adidas,Jacket,Bad,Same-Day,Cash,Shipped,1
+5476448,15698,"Debbie Sanchez",Portsmouth,England,15577,UK,50,Male,Medium,Regular,2/19/2024,2024,February,8,486.41,3891.28,Electronics,Samsung,Television,Excellent,Same-Day,"Credit Card",Processing,5
+5395183,15706,"Laura Edwards",Portsmouth,England,17813,UK,21,Male,Medium,Regular,1/18/2024,2024,January,5,397.72,1988.62,Books,"Random House",Non-Fiction,Average,Standard,"Debit Card",Pending,2
+5472414,15711,"Kimberly Estes",Portsmouth,England,87937,UK,24,Male,Medium,Regular,1/1/2024,2024,January,6,29.52,177.14,Electronics,Samsung,Television,Excellent,Express,PayPal,Pending,4
+3821086,15712,"William Waters",Portsmouth,England,13519,UK,19,Male,Medium,Regular,9/6/2023,2023,September,3,278.61,835.83,Books,"Penguin Books",Fiction,Good,Standard,Cash,Pending,3
+7363891,15721,"James Austin",Portsmouth,England,81035,UK,24,Male,Medium,Regular,4/26/2023,2023,April,7,120.17,841.22,Clothing,Nike,T-shirt,Excellent,Same-Day,"Credit Card",Pending,4
+8902352,15730,"Jonathan Grant",Portsmouth,England,57714,UK,21,Female,High,Regular,1/21/2024,2024,January,10,310.7,3107.01,Books,"Random House",Non-Fiction,Average,Same-Day,"Debit Card",Processing,2
+4579225,15749,"Sarah Holder",Portsmouth,England,7907,UK,19,Male,Medium,Regular,1/3/2024,2024,January,5,359.82,1799.11,Clothing,Zara,Shirt,Good,Standard,"Credit Card",Pending,3
+6983938,15757,"Mr. Evan Sutton",Portsmouth,England,13755,UK,35,Male,Medium,Regular,6/28/2023,2023,June,10,363.48,3634.81,Electronics,Sony,Smartphone,Average,Same-Day,PayPal,Delivered,2
+6797491,15772,"Robin Middleton",Portsmouth,England,30992,UK,19,Male,Medium,Regular,9/13/2023,2023,September,2,376.08,752.16,Clothing,Nike,Shorts,Bad,Same-Day,PayPal,Delivered,1
+3187541,15774,"Seth Banks",Portsmouth,England,70698,UK,24,Female,Medium,Regular,9/1/2023,2023,September,1,263.06,263.06,Electronics,Samsung,Tablet,Good,Same-Day,"Credit Card",Pending,3
+5210979,15797,"Michael Patterson",Portsmouth,England,34346,UK,21,Male,High,Regular,5/5/2023,2023,May,9,35.23,317.03,Clothing,Zara,Jeans,Good,Same-Day,"Debit Card",Shipped,3
+9077110,15805,"James Walker",Portsmouth,England,37919,UK,24,Male,Medium,Regular,9/22/2023,2023,September,10,276.58,2765.78,Grocery,Nestle,Chocolate,Good,Express,"Debit Card",Pending,4
+9299705,15811,,Portsmouth,England,5068,UK,24,Male,Medium,Regular,8/29/2023,2023,August,1,72.06,72.06,Electronics,Apple,Smartphone,Excellent,Same-Day,PayPal,Shipped,4
+1346638,15814,"Jeremiah Williams",Portsmouth,England,21488,UK,19,Female,Medium,Regular,2/19/2024,2024,February,10,38.69,386.9,Clothing,Nike,T-shirt,Excellent,Standard,"Debit Card",Delivered,4
+7889259,15824,"Dylan Allen",Portsmouth,England,70595,UK,21,Female,High,Regular,10/13/2023,2023,October,1,80.13,80.13,"Home Decor",IKEA,Furniture,Good,Express,PayPal,Processing,4
+9820731,15827,"Sandra Nichols",Portsmouth,England,27823,UK,24,Male,Medium,Regular,1/12/2024,2024,January,8,434.6,3476.8,"Home Decor","Home Depot",Furniture,Good,Standard,Cash,Delivered,3
+9092032,15865,"Erica Smith",Portsmouth,England,86178,UK,24,Male,Medium,Regular,11/6/2023,2023,November,6,224.97,1349.79,Grocery,Coca-Cola,Juice,Average,Standard,"Debit Card",Delivered,2
+3930959,15884,"Joshua Suarez",Portsmouth,England,23633,UK,24,Female,Medium,Regular,3/18/2023,2023,March,3,172.73,518.19,Grocery,Pepsi,Water,Bad,Express,Cash,Pending,1
+4110889,15891,"Sue Parker",Portsmouth,England,2072,UK,35,Male,Medium,Regular,4/18/2023,2023,April,1,481.26,481.26,Grocery,Coca-Cola,"Soft Drink",Average,Same-Day,Cash,Pending,2
+8429227,15906,"Debra Wright",Portsmouth,England,49133,UK,19,Female,Medium,Regular,1/24/2024,2024,January,8,391.68,3133.4,Clothing,Nike,Shorts,Average,Standard,"Debit Card",Pending,2
+9692832,15935,"Mallory Collins",Portsmouth,England,6985,UK,21,Male,Medium,Regular,10/28/2023,2023,October,6,452.73,2716.36,Books,"Random House",Non-Fiction,Excellent,Same-Day,"Debit Card",Pending,4
+6136041,15967,"Danielle Hutchinson",Portsmouth,England,94244,UK,24,Male,Medium,Regular,5/19/2023,2023,May,10,412.7,4127.04,"Home Decor","Home Depot",Decorations,Good,Standard,Cash,Delivered,3
+6314125,15983,"Jamie Thompson",Portsmouth,England,27737,UK,48,Male,Low,Regular,12/7/2023,2023,December,1,104.83,104.83,Electronics,Sony,Smartphone,Excellent,Same-Day,PayPal,Processing,4
+5707272,15992,"Katie Sweeney",Portsmouth,England,76165,UK,48,Male,High,Regular,4/6/2023,2023,April,4,195.27,781.1,Grocery,Coca-Cola,Juice,Bad,Standard,PayPal,Processing,1
+9669273,15994,"Scott Clark",Portsmouth,England,96078,UK,21,Female,Medium,Regular,3/22/2023,2023,March,2,124.29,248.58,Books,"Penguin Books",Non-Fiction,Bad,Same-Day,"Debit Card",Shipped,1
+2948750,15997,"Jesse Collins",Portsmouth,England,39020,UK,24,Male,Medium,Regular,1/10/2024,2024,January,5,479.31,2396.54,Books,HarperCollins,Fiction,Good,Same-Day,PayPal,Shipped,4
+2239384,16010,"Seth Conner",Portsmouth,England,33930,UK,24,Female,Medium,Regular,11/10/2023,2023,November,4,14.19,56.74,Clothing,Adidas,Jacket,Average,Standard,"Credit Card",Delivered,2
+6208187,16013,"Steven Jackson",Portsmouth,England,29324,UK,63,Male,Medium,Regular,5/18/2023,2023,May,8,453.14,3625.09,Grocery,Pepsi,Water,Good,Express,"Credit Card",Shipped,3
+2182106,16027,"Leonard Tucker",Portsmouth,England,38991,UK,24,Male,Medium,Regular,8/21/2023,2023,August,8,236.92,1895.35,Books,"Penguin Books",Non-Fiction,Average,Same-Day,Cash,Pending,2
+2156161,16028,"Donna Mason",Portsmouth,England,6154,UK,24,Female,Medium,Regular,9/6/2023,2023,September,6,323.26,1939.55,Books,"Random House",Literature,Bad,Express,"Debit Card",Delivered,1
+3565493,16049,"Elizabeth Clark",Portsmouth,England,71852,UK,20,Male,Medium,Regular,11/9/2023,2023,November,1,250.69,250.69,Clothing,Adidas,T-shirt,Average,Same-Day,"Credit Card",Shipped,2
+9282301,16051,"Robert Kennedy",Portsmouth,England,52770,UK,21,Female,Medium,Regular,2/6/2024,2024,February,6,249.72,1498.3,Books,"Random House",Fiction,Average,Express,PayPal,Pending,2
+6280015,16053,"Jake Smith",Portsmouth,England,68153,UK,19,Male,Medium,Regular,1/18/2024,2024,January,9,170.18,1531.61,"Home Decor","Bed Bath & Beyond",Bedding,Average,Standard,"Debit Card",Pending,2
+9943440,16056,"James White",Portsmouth,England,67659,UK,21,Male,Medium,Regular,2/21/2024,2024,February,2,339.51,679.02,"Home Decor","Home Depot",Furniture,Bad,Same-Day,Cash,Processing,1
+3861988,16060,"Jessica Rodriguez",Portsmouth,England,41249,UK,19,Male,Medium,Regular,5/21/2023,2023,May,8,467.22,3737.79,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,Cash,Processing,2
+3237109,16079,"Gail Price",Portsmouth,England,67622,UK,24,Female,Medium,Regular,3/15/2023,2023,March,2,421.17,842.34,Electronics,Samsung,Television,Bad,Express,Cash,Shipped,1
+4676599,16081,"David Rivera",Portsmouth,England,93574,UK,19,Female,Medium,Regular,1/5/2024,2024,January,9,235.23,2117.03,Clothing,Zara,Shirt,Excellent,Standard,"Debit Card",Pending,4
+4536672,16082,"Julie Cooper",Portsmouth,England,33282,UK,21,Female,Medium,Regular,10/25/2023,2023,October,8,26.44,211.49,Electronics,Apple,Laptop,Good,Standard,PayPal,Pending,3
+3128062,16093,"Juan Williams",Portsmouth,England,97580,UK,19,Male,Medium,Regular,11/19/2023,2023,November,8,156,1248.04,Grocery,Coca-Cola,"Soft Drink",Good,Standard,PayPal,Delivered,4
+2773526,16094,"Philip Mitchell",Portsmouth,England,19787,UK,24,Male,Medium,Regular,11/7/2023,2023,November,6,159.25,955.5,Grocery,Coca-Cola,Juice,Bad,Same-Day,PayPal,Delivered,1
+6438760,16099,"Lori Coleman",Portsmouth,England,60949,UK,21,Female,High,Regular,3/12/2023,2023,March,4,473.9,1895.61,Clothing,Nike,Shorts,Good,Standard,Cash,Shipped,4
+8526508,16114,"Crystal Payne",Portsmouth,England,89558,UK,19,Male,Medium,Regular,12/11/2023,2023,December,9,54.2,487.84,Electronics,Apple,Laptop,Bad,Same-Day,PayPal,Delivered,1
+8789907,16119,"Chelsea Burke",Portsmouth,England,646,UK,19,Female,Medium,Regular,6/21/2023,2023,June,10,345.44,3454.43,Electronics,Sony,Headphones,Bad,Standard,Cash,Shipped,1
+7855834,16126,"Robin Smith",Portsmouth,England,18557,UK,21,Female,High,Regular,4/3/2023,2023,April,2,242.06,484.12,Grocery,Pepsi,"Soft Drink",Bad,Same-Day,"Debit Card",Delivered,1
+2107077,16141,"Shannon Moore",Portsmouth,England,97285,UK,24,Female,Medium,Regular,1/30/2024,2024,January,4,488.19,1952.78,Grocery,Pepsi,Juice,Bad,Same-Day,Cash,Pending,1
+3759103,16151,"Jessica Washington",Portsmouth,England,13024,UK,19,Male,Medium,Regular,8/25/2023,2023,August,4,222.33,889.32,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Standard,Cash,Delivered,3
+7932121,16159,"Jimmy Steele",Portsmouth,England,7850,UK,21,Female,Medium,Regular,8/7/2023,2023,August,8,190.28,1522.2,Books,"Penguin Books",Non-Fiction,Excellent,Standard,"Credit Card",Processing,4
+1542465,16161,"Cassandra Adams",Portsmouth,England,84360,UK,21,Male,Medium,Regular,7/14/2023,2023,July,4,282.74,1130.95,Grocery,Pepsi,Water,Good,Same-Day,Cash,Shipped,3
+1720891,16171,"Andrea Wilson",Portsmouth,England,73900,UK,21,Male,High,Regular,5/22/2023,2023,May,2,64.09,128.18,Clothing,Adidas,Jacket,Good,Express,PayPal,Shipped,3
+1150441,16173,"David Ramsey",Portsmouth,England,87108,UK,24,Male,Medium,Regular,6/4/2023,2023,June,7,336.9,2358.27,Clothing,Nike,Shorts,Bad,Same-Day,"Debit Card",Pending,1
+2783017,16192,"David Ray",Portsmouth,England,54525,UK,19,Female,Medium,Regular,7/8/2023,2023,July,8,426.85,3414.77,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Standard,Cash,Delivered,1
+3495736,16196,"Jesus Davidson",Portsmouth,England,19203,UK,19,Female,Medium,Regular,7/10/2023,2023,July,10,67.6,676.03,Grocery,Nestle,Coffee,Average,Express,Cash,Pending,2
+1599908,16213,"Brenda Lambert",Portsmouth,England,92893,UK,19,Male,Medium,Regular,8/15/2023,2023,August,2,493.66,987.32,Electronics,Sony,Headphones,Excellent,Same-Day,"Debit Card",Processing,5
+4589972,16218,"Richard Foster",Portsmouth,England,82453,UK,24,Male,Medium,Regular,8/29/2023,2023,August,9,33.21,298.9,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Standard,PayPal,Shipped,2
+3224790,16228,"Alexander Jackson",Portsmouth,England,21533,UK,24,Female,Medium,Regular,6/29/2023,2023,June,9,276.77,2490.96,Clothing,Nike,Shorts,Average,Same-Day,"Credit Card",Processing,2
+3986429,16230,"David Kelly",Portsmouth,England,52030,UK,21,Male,Medium,Regular,7/8/2023,2023,July,9,173.46,1561.16,Electronics,Sony,Smartphone,Excellent,Express,"Credit Card",Shipped,4
+2682053,16233,"Crystal Villanueva",Portsmouth,England,50192,UK,19,Male,Medium,Regular,9/15/2023,2023,September,10,424.23,4242.28,Books,"Penguin Books",Children's,Average,Standard,"Credit Card",Delivered,2
+5376599,16252,"Gregory Garcia",Portsmouth,England,73950,UK,21,Male,High,Regular,6/3/2023,2023,June,2,202.5,405,Electronics,Apple,Smartphone,Bad,Express,"Debit Card",Shipped,1
+2019838,16258,"Justin Carter",Portsmouth,England,34686,UK,24,Male,Medium,Regular,1/26/2024,2024,January,9,160.76,1446.81,Clothing,Adidas,Shoes,Excellent,Same-Day,"Credit Card",Shipped,4
+9686043,16259,"Alexander Mejia",Portsmouth,England,72778,UK,24,Male,Medium,Regular,,2023,October,5,231.73,1158.63,Electronics,Apple,Tablet,Good,Express,"Debit Card",Delivered,4
+4390625,16275,"Ronald Hernandez",Portsmouth,England,67771,UK,19,Male,Medium,Regular,8/1/2023,2023,August,6,189.71,1138.28,Electronics,Sony,Headphones,Average,Express,PayPal,Delivered,2
+7234793,16283,"Kevin Robbins",Portsmouth,England,92236,UK,21,Female,Medium,Regular,11/13/2023,2023,November,9,28.27,254.41,Books,"Penguin Books",Non-Fiction,Excellent,Standard,"Debit Card",Delivered,4
+8271767,16302,"Deborah Jenkins",Portsmouth,England,32284,UK,24,Female,Medium,Regular,6/18/2023,2023,June,3,397.79,1193.37,Grocery,Pepsi,Juice,Bad,Standard,"Credit Card",Processing,1
+5128521,16308,"Matthew Phillips",Portsmouth,England,33665,UK,19,Female,Medium,Regular,9/13/2023,2023,September,4,187.46,749.82,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Same-Day,PayPal,Delivered,3
+1387001,16312,"Tammy Arias",Portsmouth,England,71088,UK,24,Female,Medium,Regular,1/8/2024,2024,January,3,214.34,643.03,Grocery,Pepsi,"Soft Drink",Average,Standard,Cash,Shipped,2
+4852430,16332,"Judy Gray",Portsmouth,England,19403,UK,24,Male,Medium,Regular,9/29/2023,2023,September,3,129.55,388.64,Grocery,Coca-Cola,"Soft Drink",Excellent,Same-Day,Cash,Shipped,4
+4371325,16344,"Donald Clark",Portsmouth,England,38382,UK,21,Male,Medium,Regular,6/5/2023,2023,June,6,48.78,292.66,Grocery,Pepsi,"Soft Drink",Bad,Express,PayPal,Delivered,1
+4695216,16359,"Michele Dennis",Portsmouth,England,35399,UK,19,Female,Medium,Regular,8/22/2023,2023,August,6,468.04,2808.25,Electronics,Sony,Television,Excellent,Express,PayPal,Delivered,5
+1898285,16368,"Cheryl Jackson",Portsmouth,England,45545,UK,21,Male,Medium,Regular,10/30/2023,2023,October,3,242.56,727.68,"Home Decor","Home Depot",Furniture,Good,Express,"Debit Card",Processing,4
+9390088,16385,"Michael Maldonado",Portsmouth,England,41067,UK,19,Male,Medium,Regular,7/28/2023,2023,July,8,195.99,1567.88,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,"Debit Card",Processing,2
+6315340,16393,"Ethan Hodge",Portsmouth,England,34982,UK,24,Male,Medium,Regular,6/5/2023,2023,June,8,187.45,1499.64,Grocery,Nestle,Chocolate,Good,Standard,PayPal,Shipped,4
+3010060,16412,"Sarah Thompson",Portsmouth,England,34453,UK,24,Male,Medium,Regular,1/22/2024,2024,January,1,168.17,168.17,Books,HarperCollins,Fiction,Average,Express,PayPal,Shipped,2
+4822275,16423,"Kurt Maldonado",Portsmouth,England,83668,UK,19,Male,Medium,Regular,1/13/2024,2024,January,9,415.72,3741.45,"Home Decor","Bed Bath & Beyond",Bedding,Average,Same-Day,Cash,Shipped,2
+5250743,16427,"Michael Perez",Portsmouth,England,89186,UK,19,Female,Medium,Regular,8/3/2023,2023,August,7,71.82,502.73,Electronics,Apple,Tablet,Good,Same-Day,PayPal,Delivered,4
+3410432,16429,"Mary Hanna",Portsmouth,England,48946,UK,24,Female,Medium,Regular,9/26/2023,2023,September,10,12.1,120.96,Clothing,Zara,Jeans,Average,Standard,PayPal,Shipped,2
+3867472,16432,"Carlos Baxter",Portsmouth,England,11561,UK,21,Female,Medium,Regular,2/12/2024,2024,February,4,367.9,1471.58,"Home Decor",IKEA,Furniture,Good,Same-Day,Cash,Delivered,4
+3538887,16435,"Angela Holder",Portsmouth,England,78979,UK,24,Female,Medium,Regular,9/23/2023,2023,September,4,413.73,1654.92,Clothing,Zara,Shirt,Average,Express,"Credit Card",Delivered,2
+7220405,16436,"Kimberly Foster",Portsmouth,England,20912,UK,24,Female,Medium,Regular,7/6/2023,2023,July,3,78.01,234.04,Clothing,Nike,T-shirt,Average,Standard,"Credit Card",Processing,2
+1476476,16439,"Jason Wade",Portsmouth,England,23928,UK,21,Female,Medium,Regular,3/8/2023,2023,March,4,50.34,201.36,Electronics,Sony,Headphones,Bad,Standard,"Credit Card",Pending,1
+4932666,16448,"Holly Mitchell",Portsmouth,England,99222,UK,24,Male,Medium,Regular,1/31/2024,2024,January,7,351.69,2461.8,Books,HarperCollins,Thriller,Excellent,Express,"Credit Card",Shipped,5
+7226301,16461,"Henry Morales",Portsmouth,England,86149,UK,56,Male,Medium,Regular,5/3/2023,2023,May,9,445.33,4007.94,Books,"Random House",Fiction,Average,Express,Cash,Shipped,2
+8739255,16465,"Kelly Johnson",Portsmouth,England,19276,UK,21,Male,Medium,Regular,5/13/2023,2023,May,1,206.95,206.95,Books,"Penguin Books",Non-Fiction,Good,Same-Day,"Credit Card",Pending,3
+8545541,16471,"Brian Higgins",Portsmouth,England,2749,UK,19,Male,Medium,Regular,6/7/2023,2023,June,3,256.92,770.77,Grocery,Pepsi,Juice,Bad,Same-Day,PayPal,Pending,1
+7486923,16489,"Brandy Day",Portsmouth,England,42057,UK,24,Female,Medium,Regular,7/19/2023,2023,July,9,457.92,4121.26,Books,HarperCollins,Thriller,Excellent,Standard,"Credit Card",Pending,4
+7769395,16495,"Alexander Smith",Portsmouth,England,12391,UK,19,Male,Medium,Regular,6/23/2023,2023,June,3,22.05,66.15,Electronics,Apple,Laptop,Average,Express,"Debit Card",Delivered,2
+1103242,16537,"Michael Smith",Portsmouth,England,69404,UK,19,Male,Medium,Regular,4/29/2023,2023,April,9,240.06,2160.54,Clothing,Adidas,T-shirt,Bad,Standard,Cash,Pending,1
+8460897,16546,"Steven Waller",Portsmouth,England,15878,UK,24,Male,Medium,Regular,10/2/2023,2023,October,10,398.68,3986.8,Clothing,Zara,Jeans,Excellent,Express,"Credit Card",Delivered,4
+7341304,16553,"Beth Martin",Portsmouth,England,24661,UK,19,Female,Medium,Regular,6/14/2023,2023,June,6,381.7,2290.18,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,"Debit Card",Delivered,2
+1329325,16566,"Cynthia Jones",Portsmouth,England,60017,UK,21,Male,Medium,Regular,11/23/2023,2023,November,3,354.11,1062.32,Books,"Penguin Books",Children's,Good,Standard,"Credit Card",Shipped,3
+8567981,16569,"Holly Wright",Portsmouth,England,88437,UK,21,Female,High,Regular,3/27/2023,2023,March,6,85.21,511.27,Grocery,Nestle,Snacks,Good,Standard,Cash,Processing,3
+8697012,16597,"Leslie Decker",Portsmouth,England,1335,UK,70,Male,Medium,Regular,12/3/2023,2023,December,10,385.98,3859.84,Clothing,Zara,Dress,Excellent,Same-Day,"Debit Card",Shipped,4
+8209743,16615,"Janet Gordon",Portsmouth,England,8167,UK,41,Male,High,Regular,9/7/2023,2023,September,6,22.74,136.45,Electronics,Samsung,Smartphone,Good,Express,"Debit Card",Delivered,3
+8689795,16621,"Tanya Walker",Portsmouth,England,25807,UK,22,Male,Medium,Regular,11/30/2023,2023,November,9,468.2,4213.8,Grocery,Pepsi,"Soft Drink",Bad,Standard,"Credit Card",Pending,1
+2309518,16641,"Alexander Watson",Portsmouth,England,25174,UK,24,Female,Medium,Regular,9/10/2023,2023,September,7,94.93,664.48,Grocery,Pepsi,Water,Excellent,Same-Day,"Credit Card",Processing,5
+8931709,16647,"Lindsey Johnson",Portsmouth,England,3968,UK,24,Female,Medium,Regular,11/18/2023,2023,November,9,355.95,3203.53,Grocery,Nestle,Snacks,Average,Standard,"Credit Card",Delivered,2
+9808122,16649,"Gerald Mason",Portsmouth,England,95481,UK,19,Female,Medium,Regular,11/14/2023,2023,November,8,399.63,3197.01,"Home Decor","Home Depot",Decorations,Good,Express,PayPal,Delivered,3
+7857028,16658,"Joanna Chavez",Portsmouth,England,95759,UK,24,Female,Medium,Regular,8/2/2023,2023,August,8,432.3,3458.42,Grocery,Nestle,Snacks,Good,Standard,"Debit Card",Processing,4
+8433740,16675,"Lisa Gonzalez",Portsmouth,England,8390,UK,21,Male,Medium,Regular,2/4/2024,2024,February,3,226.34,679.01,Electronics,Apple,Laptop,Good,Same-Day,"Debit Card",Processing,4
+3938264,16676,"Vanessa Cruz",Portsmouth,England,31883,UK,21,Male,High,Regular,1/17/2024,2024,January,1,470.99,470.99,Grocery,Coca-Cola,Water,Excellent,Standard,"Debit Card",Shipped,4
+6555378,16679,"Mathew Taylor",Portsmouth,England,10326,UK,21,Male,Medium,Regular,7/16/2023,2023,July,4,29.72,118.9,Grocery,Pepsi,Water,Good,Express,Cash,Processing,3
+9423609,16683,"Sara Martinez",Portsmouth,England,79456,UK,43,Male,Medium,Regular,5/15/2023,2023,May,1,41.75,41.75,Grocery,Pepsi,Water,Average,Express,PayPal,Pending,2
+1031206,16692,"Tyler Parker",Portsmouth,England,26495,UK,24,Female,Medium,Regular,11/8/2023,2023,November,7,367.64,2573.46,Books,HarperCollins,Fiction,Average,Same-Day,"Credit Card",Processing,2
+5733373,16706,"Jennifer Donaldson",Portsmouth,England,38675,UK,55,Female,High,Regular,12/26/2023,2023,December,3,293.72,881.17,Books,"Random House",Literature,Bad,Express,"Debit Card",Delivered,1
+2775404,16740,"Amanda Ali",Portsmouth,England,80448,UK,45,Male,Medium,Regular,12/7/2023,2023,December,4,280.89,1123.55,Clothing,Zara,Dress,Excellent,Same-Day,"Credit Card",Delivered,4
+7982233,16764,"Mrs. Amanda James",Portsmouth,England,30826,UK,24,Female,Medium,Regular,1/26/2024,2024,January,3,332.97,998.9,Clothing,Nike,T-shirt,Bad,Standard,Cash,Delivered,1
+6244497,16765,"Judith Davis",Portsmouth,England,7198,UK,24,Male,Medium,Regular,8/13/2023,2023,August,1,496.59,496.59,"Home Decor",IKEA,Furniture,Average,Same-Day,PayPal,Shipped,2
+4265648,16771,"Zachary Liu",Portsmouth,England,53605,UK,21,Male,High,Regular,3/12/2023,2023,March,1,454.29,454.29,"Home Decor","Bed Bath & Beyond",Bedding,Good,Standard,"Debit Card",Processing,3
+6819557,16780,"Lauren Rodriguez",Portsmouth,England,58163,UK,24,Female,Medium,Regular,10/3/2023,2023,October,9,300.33,2702.95,Electronics,Samsung,Tablet,Average,Standard,Cash,Delivered,2
+1551929,16782,"Melinda Rodriguez",Portsmouth,England,69418,UK,24,Male,Medium,Regular,1/26/2024,2024,January,4,439.94,1759.77,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Same-Day,PayPal,Processing,1
+2996254,16809,"Kara Sparks",Portsmouth,England,94649,UK,21,Male,Medium,Regular,7/8/2023,2023,July,1,417.87,417.87,Books,"Random House",Non-Fiction,Bad,Same-Day,PayPal,Pending,1
+2016176,16825,"Gregory Jones",Portsmouth,England,78166,UK,21,Male,High,Regular,1/6/2024,2024,January,1,110.49,110.49,Books,"Random House",Literature,Good,Express,Cash,Shipped,3
+2532614,16832,"Elizabeth Morrow",Portsmouth,England,1396,UK,21,Male,High,Regular,6/30/2023,2023,June,5,201.86,1009.29,Electronics,Sony,Television,Good,Express,"Credit Card",Pending,3
+7763457,16833,"Scott Black",Portsmouth,England,94528,UK,21,Female,High,Regular,3/29/2023,2023,March,2,31.1,62.21,Grocery,Pepsi,"Soft Drink",Good,Same-Day,"Debit Card",Pending,3
+2906530,16840,"Roy Davis",Portsmouth,England,48302,UK,24,Male,Medium,Regular,8/15/2023,2023,August,3,191.41,574.24,Electronics,Samsung,Smartphone,Average,Express,"Credit Card",Pending,2
+5050778,16842,"Richard Griffin",Portsmouth,England,42970,UK,19,Female,Medium,Regular,4/22/2023,2023,April,3,238.98,716.93,Grocery,Pepsi,Water,Bad,Same-Day,Cash,Delivered,1
+4207259,16846,"Fernando Lawson",Portsmouth,England,25257,UK,23,Male,Medium,Regular,8/29/2023,2023,August,3,89.24,267.71,Clothing,Adidas,T-shirt,Average,Express,"Credit Card",Processing,2
+5236441,16870,"Brandon Oconnor",Portsmouth,England,95531,UK,24,Male,Medium,Regular,12/3/2023,2023,December,2,147.18,294.37,"Home Decor",IKEA,Lighting,Average,Express,"Debit Card",Shipped,2
+8435735,16871,"John Nelson",Portsmouth,England,25784,UK,24,Female,Medium,Regular,2/16/2024,2024,February,8,300.38,2403.03,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,Cash,Delivered,2
+5543564,16875,"Erin Martinez",Portsmouth,England,96325,UK,21,Male,Medium,Regular,4/12/2023,2023,April,1,187.99,187.99,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Standard,Cash,Pending,1
+3919915,16878,"Frank Bishop",Portsmouth,England,88237,UK,21,Male,Medium,Regular,6/4/2023,2023,June,1,447.15,447.15,"Home Decor",IKEA,Lighting,Bad,Express,"Credit Card",Processing,1
+2940677,16879,"Matthew Barber",Portsmouth,England,84267,UK,21,Female,Medium,Regular,9/3/2023,2023,September,2,209.01,418.02,Grocery,Coca-Cola,Juice,Good,Same-Day,Cash,Processing,4
+2802393,16893,"Anthony Reyes",Portsmouth,England,51075,UK,21,Male,Medium,Regular,12/24/2023,2023,December,9,419.38,3774.4,"Home Decor","Bed Bath & Beyond",Bedding,Good,Express,"Debit Card",Pending,4
+5377684,16897,"Justin Johnson",Portsmouth,England,33907,UK,24,Male,Medium,Regular,7/20/2023,2023,July,3,358.23,1074.7,Grocery,Nestle,Snacks,Good,Standard,"Credit Card",Shipped,3
+2735160,16916,"Andrea Curtis",Portsmouth,England,43071,UK,24,Male,Medium,Regular,11/24/2023,2023,November,1,388.74,388.74,Grocery,Pepsi,Water,Average,Express,"Debit Card",Pending,2
+7247919,16927,"Richard Juarez",Portsmouth,England,94228,UK,24,Male,Medium,Regular,5/12/2023,2023,May,10,265.67,2656.72,Grocery,Coca-Cola,Water,Good,Same-Day,PayPal,Delivered,4
+8813692,16953,"Martha Nelson",Portsmouth,England,24254,UK,19,Male,Medium,Regular,8/19/2023,2023,August,7,231.92,1623.47,Books,"Penguin Books",Fiction,Average,Same-Day,Cash,Shipped,2
+8989923,16955,"Shannon Sanders",Portsmouth,England,74216,UK,19,Female,Medium,Regular,7/30/2023,2023,July,1,218.12,218.12,Grocery,Nestle,Chocolate,Good,Same-Day,"Credit Card",Processing,4
+6646272,16976,"Tricia Maddox DVM",Portsmouth,England,80448,UK,21,Male,Medium,Regular,11/30/2023,2023,November,1,376.68,376.68,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Express,Cash,Processing,1
+8098339,16988,"Angela Bass",Portsmouth,England,13639,UK,24,Female,Medium,Regular,8/25/2023,2023,August,7,317.81,2224.69,Grocery,Pepsi,"Soft Drink",Average,Express,"Credit Card",Shipped,2
+2233557,16997,"Patricia Melendez",Portsmouth,England,79001,UK,21,Male,Medium,Regular,5/13/2023,2023,May,5,219.32,1096.6,Grocery,Coca-Cola,"Soft Drink",Bad,Same-Day,Cash,Pending,1
+5383534,17016,"Dana Vasquez",Portsmouth,England,94527,UK,21,Female,Medium,Regular,12/28/2023,2023,December,5,412.86,2064.3,"Home Decor",IKEA,Decorations,Good,Same-Day,PayPal,Shipped,4
+2804405,17028,"Taylor Brown",Portsmouth,England,96326,UK,24,Male,Medium,Regular,3/28/2023,2023,March,1,73.66,73.66,Grocery,Nestle,Chocolate,Average,Express,"Debit Card",Shipped,2
+8092574,17034,"John Norris",Portsmouth,England,2877,UK,24,Male,Medium,Regular,7/2/2023,2023,July,8,333.87,2670.93,Clothing,Nike,T-shirt,Bad,Express,"Credit Card",Pending,1
+8261771,17054,"Carolyn Quinn",Portsmouth,England,32915,UK,21,Female,Medium,Regular,12/10/2023,2023,December,2,13.82,27.64,Books,"Random House",Literature,Bad,Express,"Credit Card",Processing,1
+7100594,17063,"Anne Ross",Portsmouth,England,16668,UK,21,Female,High,Regular,10/11/2023,2023,October,4,378.99,1515.97,Clothing,Nike,Shoes,Bad,Same-Day,"Debit Card",Delivered,1
+4207988,17065,"Darrell Smith",Portsmouth,England,58179,UK,30,Male,Medium,Regular,2/12/2024,2024,February,3,229.79,689.38,Grocery,Coca-Cola,Water,Bad,Express,"Debit Card",Delivered,1
+3660556,17071,"Richard Wilkins",Portsmouth,England,87010,UK,24,Female,Medium,Regular,9/21/2023,2023,September,9,370.16,3331.44,Clothing,Nike,Shoes,Excellent,Express,Cash,Shipped,5
+3156472,17082,"Tracy Arias",Portsmouth,England,5930,UK,24,Male,Medium,Regular,6/26/2023,2023,June,4,81.2,324.78,Books,"Penguin Books",Children's,Average,Same-Day,PayPal,Processing,2
+3632212,17088,"James Phillips",Portsmouth,England,81285,UK,21,Male,High,Regular,12/23/2023,2023,December,4,403.64,1614.56,Electronics,Samsung,Tablet,Bad,Standard,"Debit Card",Delivered,1
+8536914,17093,"Marc Steele",Portsmouth,England,93158,UK,21,Male,High,Regular,1/22/2024,2024,January,1,319.69,319.69,"Home Decor","Home Depot",Furniture,Bad,Standard,Cash,Delivered,1
+8620650,17098,"Mindy Tanner",Portsmouth,England,21983,UK,21,Male,Medium,Regular,12/15/2023,2023,December,10,99.19,991.89,Clothing,Nike,T-shirt,Bad,Express,PayPal,Delivered,1
+1974863,17101,"David Barnes",Portsmouth,England,83589,UK,21,Female,Medium,Regular,6/4/2023,2023,June,9,352.7,3174.29,"Home Decor",IKEA,Furniture,Good,Same-Day,Cash,Processing,3
+5576968,17105,"David Rivas",Portsmouth,England,82637,UK,21,Male,High,Regular,2/21/2024,2024,February,7,149.7,1047.87,"Home Decor","Home Depot",Furniture,Average,Same-Day,PayPal,Delivered,2
+2395695,17118,"Bryan May",Portsmouth,England,2867,UK,21,Female,Medium,Regular,7/30/2023,2023,July,8,401.59,3212.74,Clothing,Adidas,T-shirt,Good,Standard,Cash,Pending,3
+7262333,17130,"John Bates",Portsmouth,England,60946,UK,21,Male,Medium,Regular,12/21/2023,2023,December,4,120.19,480.75,Clothing,Nike,T-shirt,Good,Express,"Debit Card",Delivered,4
+1231908,17137,"Renee James",Portsmouth,England,3054,UK,24,Male,Medium,Regular,7/14/2023,2023,July,4,248.78,995.13,Books,"Random House",Non-Fiction,Excellent,Same-Day,"Credit Card",Delivered,4
+5733317,17141,"Patricia Baker",Portsmouth,England,72083,UK,21,Male,High,Regular,4/15/2023,2023,April,4,131.31,525.25,Electronics,Samsung,Television,Bad,Standard,"Debit Card",Shipped,1
+1904229,17148,"Jessica Perry",Portsmouth,England,55947,UK,21,Male,Medium,Regular,11/12/2023,2023,November,1,118.61,118.61,Books,HarperCollins,Non-Fiction,Average,Standard,PayPal,Pending,2
+7868153,17165,"Timothy Cochran",Portsmouth,England,78771,UK,21,Male,Medium,Regular,5/8/2023,2023,May,4,277.77,1111.09,"Home Decor","Home Depot",Tools,Average,Same-Day,Cash,Delivered,2
+7015847,17170,"Ashlee Mcgee",Portsmouth,England,51743,UK,24,Male,Medium,Regular,11/25/2023,2023,November,1,198.67,198.67,Grocery,Coca-Cola,Juice,Good,Same-Day,Cash,Delivered,4
+1033955,17173,"Donald Mendez",Portsmouth,England,38877,UK,24,Male,Medium,Regular,4/30/2023,2023,April,7,475.75,3330.22,Books,HarperCollins,Non-Fiction,Average,Standard,"Debit Card",Pending,2
+2585427,17174,"Michael Williams",Portsmouth,England,85238,UK,19,Male,Medium,Regular,10/13/2023,2023,October,8,383.05,3064.39,Grocery,Pepsi,"Soft Drink",Good,Same-Day,"Debit Card",Pending,4
+2519149,17186,"Scott Cooper",Portsmouth,England,65994,UK,21,Female,High,Regular,5/18/2023,2023,May,10,150.94,1509.36,Grocery,Nestle,Coffee,Good,Express,"Debit Card",Shipped,3
+4551051,17226,"Daniel Williams",Portsmouth,England,39066,UK,21,Female,Medium,Regular,7/6/2023,2023,July,1,240.26,240.26,Electronics,Sony,Television,Average,Same-Day,PayPal,Shipped,2
+8143859,17232,"Michelle Mcguire",Portsmouth,England,80928,UK,24,Male,Medium,Regular,1/15/2024,2024,January,2,71.93,143.87,Electronics,Samsung,Television,Average,Same-Day,"Debit Card",Pending,2
+4006191,17237,"Natalie Osborne",Portsmouth,England,79224,UK,21,Male,Medium,Regular,7/29/2023,2023,July,5,475.68,2378.4,Books,"Penguin Books",Fiction,Bad,Standard,Cash,Delivered,1
+8644196,17256,"Cindy Malone",Portsmouth,England,85507,UK,21,Male,High,Regular,9/9/2023,2023,September,2,11.08,22.16,Books,"Penguin Books",Non-Fiction,Good,Standard,Cash,Pending,3
+1715127,17261,"Kristopher Davis",Portsmouth,England,53654,UK,24,Male,Medium,Regular,2/22/2024,2024,February,10,497.54,4975.41,"Home Decor",IKEA,Lighting,Excellent,Express,PayPal,Processing,5
+3958994,17262,"Megan Ferrell",Portsmouth,England,85109,UK,24,Male,Medium,Regular,12/17/2023,2023,December,5,177.46,887.31,Grocery,Coca-Cola,"Soft Drink",Good,Same-Day,"Credit Card",Pending,4
+8386833,17282,"Kerry Pitts",Portsmouth,England,14349,UK,24,Male,Medium,Regular,10/17/2023,2023,October,4,99.66,398.63,Books,"Penguin Books",Children's,Excellent,Standard,"Debit Card",Processing,4
+7651222,17285,"Lucas Perkins",Portsmouth,England,15278,UK,21,Female,Medium,Regular,4/19/2023,2023,April,2,438.81,877.61,"Home Decor","Home Depot",Furniture,Average,Same-Day,Cash,Shipped,2
+8053058,17295,"Joshua Beard",Portsmouth,England,92739,UK,24,Female,Medium,Regular,6/4/2023,2023,June,3,148.42,445.25,Clothing,Zara,Dress,Bad,Express,"Debit Card",Shipped,1
+8238082,17301,"Alexandra Martinez",Portsmouth,England,37453,UK,24,Female,Medium,Regular,6/25/2023,2023,June,4,187.84,751.38,"Home Decor",IKEA,Furniture,Average,Standard,"Credit Card",Delivered,2
+8649868,17307,"Katrina Carson",Portsmouth,England,81733,UK,19,Male,Medium,Regular,10/12/2023,2023,October,5,238.12,1190.62,Grocery,Coca-Cola,Water,Good,Same-Day,Cash,Delivered,4
+9554378,17322,"William Henry",Portsmouth,England,60702,UK,45,Female,High,Regular,4/8/2023,2023,April,4,60.56,242.26,Grocery,Nestle,Chocolate,Excellent,Express,PayPal,Pending,4
+9043048,17324,"Victoria White",Portsmouth,England,24793,UK,19,Female,Medium,Regular,5/24/2023,2023,May,3,348.06,1044.18,Electronics,Sony,Headphones,Good,Standard,"Credit Card",Shipped,3
+7041549,17330,"Anthony Choi",Portsmouth,England,28421,UK,19,Male,Medium,Regular,1/18/2024,2024,January,1,13.23,13.23,"Home Decor",IKEA,Lighting,Bad,Standard,PayPal,Processing,1
+7967674,17350,"Douglas Sullivan",Portsmouth,England,24952,UK,21,Female,Medium,Regular,9/1/2023,2023,September,4,253.29,1013.18,"Home Decor","Home Depot",Tools,Good,Express,PayPal,Delivered,4
+5164383,17363,"Cesar Gutierrez",Portsmouth,England,4379,UK,24,Female,Medium,Regular,5/6/2023,2023,May,1,11.62,11.62,Clothing,Zara,Jeans,Excellent,Same-Day,"Credit Card",Shipped,5
+1412599,17373,"Norma Smith",Portsmouth,England,32841,UK,24,Female,Medium,Regular,8/5/2023,2023,August,1,485.8,485.8,Clothing,Nike,Shorts,Bad,Express,PayPal,Pending,1
+7283002,17377,"Christopher Robinson",Portsmouth,England,19006,UK,24,Male,Medium,Regular,5/23/2023,2023,May,6,147.32,883.91,Electronics,Apple,Tablet,Average,Standard,"Credit Card",Shipped,2
+7045930,17384,"Peter Hall",Portsmouth,England,49985,UK,24,Female,Medium,Regular,8/7/2023,2023,August,4,485.09,1940.35,"Home Decor","Home Depot",Furniture,Bad,Express,PayPal,Shipped,1
+4291777,17400,"Tyler Perry",Portsmouth,England,65866,UK,19,Male,Medium,Regular,8/30/2023,2023,August,8,233.31,1866.49,"Home Decor","Bed Bath & Beyond",Bedding,Bad,Same-Day,"Debit Card",Pending,1
+7517925,17412,"Samantha Lee",Portsmouth,England,18440,UK,24,Female,Medium,Regular,2/25/2024,2024,February,6,154.04,924.25,Clothing,Nike,Shoes,Excellent,Same-Day,"Debit Card",Processing,4
+7222387,17434,"Ariel Simpson",Portsmouth,England,54206,UK,24,Female,Medium,Regular,8/31/2023,2023,August,3,17.21,51.63,Clothing,Zara,Dress,Average,Same-Day,"Credit Card",Pending,2
+7967843,17439,"Christine Gibbs MD",Portsmouth,England,50196,UK,24,Female,Medium,Regular,5/11/2023,2023,May,1,342.98,342.98,Clothing,Zara,Shirt,Bad,Express,PayPal,Delivered,1
+5218940,17450,"Miguel Rodriguez",Portsmouth,England,70886,UK,21,Male,Medium,Regular,12/3/2023,2023,December,8,109.14,873.13,Grocery,Nestle,Coffee,Average,Standard,Cash,Processing,2
+7029006,17458,"Tracy Morrison",Portsmouth,England,80567,UK,44,Male,Low,Regular,12/13/2023,2023,December,5,233.61,1168.06,"Home Decor","Home Depot",Furniture,Excellent,Express,PayPal,Delivered,4
+6284807,17459,"Willie Green",Portsmouth,England,62578,UK,21,Male,High,Regular,3/3/2023,2023,March,7,267.38,1871.67,Clothing,Nike,Shoes,Good,Express,Cash,Delivered,4
+8223383,17465,"Jennifer Rodgers",Portsmouth,England,75611,UK,21,Female,Medium,Regular,9/9/2023,2023,September,6,65.4,392.42,Grocery,Pepsi,Juice,Bad,Same-Day,"Credit Card",Processing,1
+2864176,17466,"Justin Strickland",Portsmouth,England,10628,UK,24,Male,Medium,Regular,6/13/2023,2023,June,3,263.53,790.59,Clothing,Nike,Shorts,Average,Express,Cash,Delivered,2
+3336584,17471,"Brett Smith",Portsmouth,England,2853,UK,21,Male,Medium,Regular,10/18/2023,2023,October,1,357.51,357.51,"Home Decor","Home Depot",Furniture,Good,Same-Day,"Debit Card",Processing,3
+6179475,17479,"Patricia Romero",Portsmouth,England,47740,UK,21,Female,Medium,Regular,9/6/2023,2023,September,5,442.82,2214.08,Electronics,Apple,Laptop,Good,Same-Day,"Credit Card",Shipped,4
+1649896,17484,"Tracy Stanley",Portsmouth,England,4409,UK,19,Male,Medium,Regular,3/19/2023,2023,March,6,61.28,367.66,Books,"Random House",Literature,Excellent,Same-Day,Cash,Delivered,5
+3885602,17497,"April Romero",Portsmouth,England,19915,UK,24,Male,Medium,Regular,5/26/2023,2023,May,7,65.13,455.94,Grocery,Nestle,Snacks,Excellent,Standard,"Debit Card",Shipped,5
+2075444,17506,"Kari Evans",Portsmouth,England,91314,UK,21,Female,Medium,Regular,8/22/2023,2023,August,2,125.15,250.3,"Home Decor",IKEA,Lighting,Good,Express,Cash,Delivered,3
+1898849,17512,"Erik Lucas",Portsmouth,England,42234,UK,21,Female,Medium,Regular,8/30/2023,2023,August,7,67.76,474.32,Grocery,Pepsi,Juice,Good,Standard,"Debit Card",Processing,4
+4853584,17514,"Samantha Hawkins",Portsmouth,England,81808,UK,24,Female,Medium,Regular,1/19/2024,2024,January,7,261.8,1832.62,Grocery,Pepsi,"Soft Drink",Average,Express,"Debit Card",Pending,2
+6340241,17533,"James Alvarado",Portsmouth,England,5340,UK,19,Male,Medium,Regular,2/9/2024,2024,February,3,116.27,348.8,Grocery,Pepsi,"Soft Drink",Good,Same-Day,Cash,Pending,3
+3067023,17553,"Peter Herrera",Portsmouth,England,89855,UK,21,Male,Medium,Regular,12/3/2023,2023,December,6,468.11,2808.66,Books,"Penguin Books",Non-Fiction,Bad,Same-Day,Cash,Delivered,1
+9484842,17558,"William Lee",Portsmouth,England,47091,UK,68,Male,Low,Regular,3/23/2023,2023,March,8,19.82,158.58,Clothing,Adidas,Shoes,Good,Standard,"Credit Card",Delivered,4
+4788819,17561,"James Jones",Portsmouth,England,68753,UK,19,Male,Medium,Regular,4/17/2023,2023,April,2,349.55,699.11,Books,"Random House",Literature,Average,Express,PayPal,Delivered,2
+2588339,17567,"David Hutchinson PhD",Portsmouth,England,26521,UK,21,Male,Medium,Regular,5/7/2023,2023,May,4,392.53,1570.1,"Home Decor","Bed Bath & Beyond",Bathroom,Excellent,Express,"Credit Card",Delivered,4
+1354187,17571,"Rebecca Hardy",Portsmouth,England,90906,UK,21,Male,Medium,Regular,3/13/2023,2023,March,5,127.39,636.93,Clothing,Nike,T-shirt,Bad,Standard,"Credit Card",Processing,1
+6865450,17572,"Beverly Fowler",Portsmouth,England,91899,UK,21,Male,Medium,Regular,3/11/2023,2023,March,4,212.19,848.76,Grocery,Nestle,Snacks,Good,Same-Day,"Credit Card",Pending,3
+8476905,17577,"Michael Stevens",Portsmouth,England,72734,UK,19,Female,Medium,Regular,2/23/2024,2024,February,9,128.8,1159.24,Electronics,Apple,Laptop,Bad,Standard,Cash,Delivered,1
+2684060,17581,"Jamie Short",Portsmouth,England,76017,UK,21,Male,High,Regular,12/8/2023,2023,December,4,493.2,1972.79,Electronics,Apple,Laptop,Excellent,Same-Day,"Debit Card",Pending,4
+8982290,17592,"Patrick Foster",Portsmouth,England,48312,UK,24,Male,Medium,Regular,12/1/2023,2023,December,2,313.88,627.77,"Home Decor",IKEA,Decorations,Good,Standard,Cash,Shipped,3
+4043499,17605,"Jennifer Gibson MD",Portsmouth,England,36062,UK,24,Male,Medium,Regular,,2023,June,7,302.07,2114.52,"Home Decor",IKEA,Lighting,Bad,Standard,"Credit Card",Pending,1
+5126749,17609,"Julie Strickland",Portsmouth,England,73437,UK,19,Male,Medium,Regular,12/14/2023,2023,December,10,487.91,4879.12,Electronics,Apple,Laptop,Average,Express,"Credit Card",Pending,2
+1832681,17617,"Carol Robinson",Portsmouth,England,51176,UK,24,Female,Medium,Regular,12/17/2023,2023,December,7,447.89,3135.25,Grocery,Pepsi,Juice,Good,Standard,Cash,Shipped,3
+9421868,17632,"Matthew Hill",Portsmouth,England,47363,UK,24,Male,Medium,Regular,1/5/2024,2024,January,4,149.35,597.4,Grocery,Coca-Cola,Juice,Bad,Standard,"Debit Card",Pending,1
+5427576,17634,"Nicholas Mcintosh",Portsmouth,England,37460,UK,24,Male,Medium,Regular,5/30/2023,2023,May,4,351.42,1405.7,Grocery,Coca-Cola,"Soft Drink",Bad,Standard,"Debit Card",Delivered,1
+3232493,17637,"Greg Garner",Portsmouth,England,88109,UK,21,Male,Medium,Regular,11/3/2023,2023,November,4,100.43,401.73,"Home Decor","Bed Bath & Beyond",Kitchen,Excellent,Same-Day,PayPal,Delivered,4
+8638165,17673,"Katherine Bernard",Portsmouth,England,8051,UK,21,Male,Medium,Regular,8/2/2023,2023,August,6,100.84,605.04,Grocery,Pepsi,Water,Excellent,Same-Day,Cash,Pending,4
+6934900,17677,"Zachary Ramirez",Portsmouth,England,9041,UK,19,Female,Medium,Regular,9/17/2023,2023,September,3,160.32,480.96,Electronics,Apple,Tablet,Bad,Same-Day,"Debit Card",Delivered,1
+4282570,17678,"Zachary Rodriguez",Portsmouth,England,91925,UK,21,Female,Medium,Regular,7/31/2023,2023,July,1,440.49,440.49,"Home Decor","Bed Bath & Beyond",Bedding,Bad,Same-Day,PayPal,Shipped,1
+8165265,17680,"Angela Young",Portsmouth,England,34480,UK,19,Male,Medium,Regular,10/26/2023,2023,October,2,63.86,127.73,Books,"Penguin Books",Non-Fiction,Good,Same-Day,"Debit Card",Delivered,4
+7658951,17702,"Patricia Wolfe",Portsmouth,England,36619,UK,24,Male,Medium,Regular,3/2/2023,2023,March,6,427.12,2562.75,"Home Decor","Home Depot",Tools,Good,Standard,Cash,Shipped,4
+4138830,17705,"Michelle Simmons",Portsmouth,England,98403,UK,62,Male,Low,Regular,7/14/2023,2023,July,5,64.8,324.01,,HarperCollins,Non-Fiction,Excellent,Same-Day,Cash,Pending,5
+8270657,17745,"Martha Thompson",Portsmouth,England,78168,UK,21,Male,Medium,Regular,3/10/2023,2023,March,8,446.4,3571.18,Electronics,Samsung,Smartphone,Good,Same-Day,PayPal,Delivered,3
+5073610,17803,"Keith Campbell",Portsmouth,England,63395,UK,19,Female,Medium,Regular,12/25/2023,2023,December,4,442.46,1769.85,Clothing,Zara,Jeans,Good,Same-Day,"Credit Card",Delivered,4
+4134411,17823,"Andrew Valdez",Portsmouth,England,43723,UK,21,Female,Medium,Regular,7/28/2023,2023,July,1,202.56,202.56,"Home Decor",IKEA,Lighting,Good,Same-Day,PayPal,Shipped,3
+3981641,17845,"Donna Rios",Portsmouth,England,10576,UK,24,Male,Medium,Regular,10/7/2023,2023,October,1,150.1,150.1,Clothing,Nike,T-shirt,Bad,Express,Cash,Shipped,1
+7563238,17870,"Adam Warren",Portsmouth,England,24657,UK,21,Male,High,Regular,10/28/2023,2023,October,9,143.48,1291.3,Clothing,Adidas,Shoes,Average,Same-Day,Cash,Shipped,2
+7324033,17887,"Paul Larson",Portsmouth,England,21746,UK,50,Female,High,Regular,5/17/2023,2023,May,10,456.83,4568.27,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Same-Day,"Credit Card",,3
+6241917,17898,"Bonnie Bailey",Portsmouth,England,86445,UK,24,Male,Medium,Regular,4/28/2023,2023,April,10,297.74,2977.43,Books,"Penguin Books",Fiction,Bad,Same-Day,Cash,Delivered,1
+4367106,17899,"Kimberly Daugherty",Portsmouth,England,63369,UK,21,Male,Medium,Regular,6/29/2023,2023,June,7,212.92,1490.42,Grocery,Pepsi,Water,Excellent,Same-Day,"Credit Card",Pending,5
+6650035,17901,"William Carrillo",Portsmouth,England,74127,UK,60,Male,Low,Regular,9/22/2023,2023,September,7,388.13,2716.93,"Home Decor",IKEA,Furniture,Average,Standard,"Credit Card",Delivered,2
+4215279,17905,"Jacob Martinez",Portsmouth,England,73115,UK,24,Male,Medium,Regular,6/27/2023,2023,June,9,120.68,1086.08,Clothing,Zara,Jeans,Excellent,Express,Cash,Pending,5
+3549624,17906,"Katherine Oliver",Portsmouth,England,37013,UK,21,Male,Medium,Regular,9/19/2023,2023,September,8,102.36,818.86,Grocery,Pepsi,Water,Bad,Express,Cash,Delivered,1
+9003820,17919,"Amber Lester",Portsmouth,England,46655,UK,24,Male,Medium,Regular,6/12/2023,2023,June,4,287.1,1148.38,Electronics,Samsung,Tablet,Excellent,Same-Day,"Debit Card",Processing,4
+1707342,17921,"Daniel Ross",Portsmouth,England,80020,UK,24,Female,Medium,Regular,7/27/2023,2023,July,7,301.56,2110.91,Electronics,Samsung,Television,Excellent,Same-Day,Cash,Processing,4
+4003403,17936,"Charles Rocha",Portsmouth,England,79288,UK,24,Male,Medium,Regular,11/11/2023,2023,November,4,237.82,951.3,Clothing,Nike,Shorts,Average,Same-Day,"Credit Card",Shipped,2
+1720712,17940,"Teresa Williams",Portsmouth,England,48737,UK,24,Male,Medium,Regular,6/9/2023,2023,June,1,173.23,173.23,Electronics,Samsung,Tablet,Excellent,Standard,PayPal,Delivered,4
+2836237,17950,"Brittany Robles",Portsmouth,England,44041,UK,21,Female,High,Regular,9/5/2023,2023,September,6,477.72,2866.31,Clothing,Adidas,Jacket,Good,Standard,"Credit Card",Pending,3
+6872181,17962,"William Moore",Portsmouth,England,59437,UK,21,Male,Medium,Regular,5/24/2023,2023,May,2,412.54,825.09,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Same-Day,"Credit Card",Pending,1
+3815955,17967,"Dr. Kyle Patterson DDS",Portsmouth,England,93502,UK,21,Male,Medium,Regular,12/9/2023,2023,December,3,136.73,410.19,Books,"Penguin Books",Children's,Average,Standard,PayPal,Delivered,2
+1254988,17972,"Felicia Lewis",Portsmouth,England,63467,UK,24,Male,Medium,Regular,11/30/2023,2023,November,10,300.91,3009.12,Books,"Random House",Fiction,Good,Standard,PayPal,Processing,4
+8483734,18002,"Kristine Pratt",Portsmouth,England,2895,UK,24,Male,Medium,Regular,8/13/2023,2023,August,5,215.03,1075.15,"Home Decor",IKEA,Furniture,Excellent,Same-Day,Cash,Pending,5
+3364343,18005,"Joshua Schmidt",Portsmouth,England,52797,UK,24,Male,Medium,Regular,8/22/2023,2023,August,1,328.09,328.09,Clothing,Adidas,T-shirt,Excellent,Standard,PayPal,Shipped,5
+1939322,18010,"Erin Marsh",Portsmouth,England,13966,UK,24,Female,Medium,Regular,6/29/2023,2023,June,7,125.4,877.82,Clothing,Zara,Dress,Bad,Standard,Cash,Shipped,1
+4546656,18041,"Kristy Lewis",Portsmouth,England,74965,UK,24,Male,Medium,Regular,7/15/2023,2023,July,2,112.93,225.86,"Home Decor",IKEA,Furniture,Good,Same-Day,PayPal,Processing,3
+4626133,18049,"Amy Ferrell",Portsmouth,England,83065,UK,21,Male,High,Regular,2/6/2024,2024,February,7,53.45,374.17,Electronics,Sony,Headphones,Average,Express,Cash,Processing,2
+6925132,18069,"Maria Taylor",Portsmouth,England,94425,UK,19,Female,Medium,Regular,5/24/2023,2023,May,5,82.8,413.98,Clothing,Nike,Shoes,Average,Standard,"Credit Card",Delivered,2
+8908541,18077,"Andrea Hart",Portsmouth,England,25576,UK,24,Female,Medium,Regular,1/23/2024,2024,January,9,207.61,1868.48,"Home Decor",IKEA,Decorations,Average,Express,"Credit Card",Pending,2
+9506932,18085,"Michael Figueroa",Portsmouth,England,22024,UK,24,Male,Medium,Regular,7/30/2023,2023,July,1,253.49,253.49,Books,"Penguin Books",Non-Fiction,Bad,Same-Day,PayPal,Delivered,1
+2483110,18092,"Margaret Johnson",Portsmouth,England,31109,UK,19,Female,Medium,Regular,3/12/2023,2023,March,10,494.98,4949.83,Books,"Random House",Literature,Good,Express,"Credit Card",Delivered,4
+9647423,18096,"Carl Brown",Portsmouth,England,73272,UK,21,Male,Medium,Regular,12/8/2023,2023,December,1,372.47,372.47,Grocery,Nestle,Chocolate,Average,Standard,PayPal,Pending,2
+9688714,18101,"Michael Johnson",Portsmouth,England,85107,UK,24,Female,Medium,Regular,1/23/2024,2024,January,2,352.34,704.68,Clothing,Adidas,Shoes,Bad,Express,Cash,Delivered,1
+4668300,18113,"Erica Juarez",Portsmouth,England,63049,UK,22,Male,Medium,Regular,2/8/2024,2024,February,6,445.48,2672.86,"Home Decor","Home Depot",Tools,Good,Express,"Credit Card",Delivered,3
+3866375,18122,"Thomas Davis",Portsmouth,England,98556,UK,21,Female,High,Regular,6/3/2023,2023,June,10,372.98,3729.78,Electronics,Samsung,Smartphone,Average,Same-Day,"Debit Card",Processing,2
+2436586,18128,"Joshua Medina",Portsmouth,England,32343,UK,21,Female,Medium,Regular,12/16/2023,2023,December,2,32.59,65.19,Electronics,Sony,Television,Average,Standard,Cash,Delivered,2
+9931471,18135,"Deborah Moyer",Portsmouth,England,91182,UK,21,Male,Medium,Regular,3/27/2023,2023,March,6,135.29,811.71,"Home Decor",IKEA,Decorations,Bad,Standard,"Debit Card",Processing,1
+9546181,18138,"Michael Rosales",Portsmouth,England,71633,UK,19,Male,Medium,Regular,12/12/2023,2023,December,7,421.12,2947.83,Grocery,Nestle,Snacks,Excellent,Same-Day,PayPal,Delivered,4
+4945023,18164,"Angela Young",Portsmouth,England,46341,UK,24,Male,Medium,Regular,1/17/2024,2024,January,9,405.34,3648.08,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Same-Day,"Debit Card",Delivered,2
+1278482,18166,"Stephanie Becker",Portsmouth,England,36045,UK,24,Female,Medium,Regular,12/16/2023,2023,December,9,251.15,2260.32,"Home Decor","Home Depot",Decorations,Bad,Standard,"Credit Card",Delivered,1
+4033738,18177,"Justin Smith",Portsmouth,England,10329,UK,24,Female,Medium,Regular,5/25/2023,2023,May,3,119.61,358.83,Grocery,Nestle,Coffee,Average,Standard,"Credit Card",Shipped,2
+2252193,18189,"Allison Allen",Portsmouth,England,31855,UK,21,Female,High,Regular,6/20/2023,2023,June,1,170.79,170.79,Grocery,Pepsi,Water,Excellent,Same-Day,"Credit Card",Delivered,5
+2344308,18192,"Cory Walter",Portsmouth,England,89108,UK,19,Female,Medium,Regular,8/12/2023,2023,August,1,343.1,343.1,Books,HarperCollins,Fiction,Good,Express,Cash,Delivered,4
+8106728,18200,"Leah Allison",Portsmouth,England,38840,UK,21,Female,Medium,Regular,10/10/2023,2023,October,2,178.67,357.34,Grocery,Coca-Cola,Water,Average,Express,"Credit Card",Pending,2
+2982234,18203,"Shelby Martinez",Portsmouth,England,94043,UK,21,Male,High,Regular,5/22/2023,2023,May,6,79.64,477.87,Grocery,Nestle,Snacks,Average,Express,"Debit Card",Delivered,2
+5841020,18224,"John Clark",Portsmouth,England,32709,UK,19,Male,Medium,Regular,11/11/2023,2023,November,3,476.44,1429.32,Books,"Penguin Books",Non-Fiction,Bad,Express,PayPal,Delivered,1
+2315970,18228,"Reginald Gilbert",Portsmouth,England,12257,UK,21,Female,Medium,Regular,10/12/2023,2023,October,2,36.52,73.03,Grocery,Coca-Cola,"Soft Drink",Excellent,Standard,Cash,Pending,5
+4159003,18243,"Bethany Harris",Portsmouth,England,1779,UK,19,Male,Medium,Regular,2/25/2024,2024,February,7,389.94,2729.55,Electronics,Sony,Smartphone,Excellent,Same-Day,"Debit Card",Pending,4
+7569687,18246,"Nancy Erickson",Portsmouth,England,76393,UK,21,Female,Medium,Regular,3/30/2023,2023,March,5,302.37,1511.84,Clothing,Nike,T-shirt,Excellent,Same-Day,Cash,Processing,5
+7648403,18266,"Jeffrey Johnson",Portsmouth,England,96719,UK,51,Male,High,Regular,11/5/2023,2023,November,6,432.89,2597.36,Electronics,Samsung,Tablet,Bad,Same-Day,"Credit Card",Delivered,1
+1796789,18276,"Kelly Johnson",Portsmouth,England,66663,UK,43,Male,Medium,Regular,4/30/2023,2023,April,2,243.16,486.32,Books,"Penguin Books",Non-Fiction,Good,Same-Day,Cash,Pending,3
+8679413,18281,"Keith Barajas",Portsmouth,England,80247,UK,24,Male,Medium,Regular,12/17/2023,2023,December,6,84.37,506.25,Electronics,Samsung,Tablet,Good,Same-Day,"Credit Card",Processing,4
+2832525,18295,"Frank Bowman",Portsmouth,England,90393,UK,24,Male,Medium,Regular,2/1/2024,2024,February,9,264.17,2377.49,Grocery,Pepsi,Juice,Bad,Same-Day,"Debit Card",Pending,1
+5217884,18302,"Jennifer Jenkins",Portsmouth,England,94779,UK,21,Male,High,Regular,3/27/2023,2023,March,6,228.43,1370.57,Books,"Random House",Fiction,Excellent,Standard,PayPal,Pending,5
+6253972,18305,"Scott Romero",Portsmouth,England,13995,UK,21,Female,High,Regular,12/27/2023,2023,December,3,325.38,976.15,Grocery,Pepsi,"Soft Drink",Average,Express,PayPal,Pending,2
+6111341,18311,"Justin Smith",Portsmouth,England,74522,UK,19,Male,Medium,Regular,8/7/2023,2023,August,7,384.78,2693.47,Electronics,Samsung,Tablet,Bad,Standard,Cash,Delivered,1
+7734192,18312,"Teresa Bennett",Portsmouth,England,76680,UK,19,Male,Medium,Regular,3/2/2023,2023,March,1,104.36,104.36,Books,"Penguin Books",Children's,Average,Same-Day,Cash,Delivered,2
+1236878,18315,"Sarah Vincent",Portsmouth,England,7206,UK,24,Female,Medium,Regular,10/16/2023,2023,October,5,232.32,1161.62,Clothing,Zara,Shirt,Good,Standard,"Credit Card",Pending,4
+2522881,18324,"Christopher Santiago",Portsmouth,England,15373,UK,21,Male,Medium,Regular,11/4/2023,2023,November,4,27.28,109.12,"Home Decor","Home Depot",Furniture,Bad,Same-Day,"Debit Card",Processing,1
+4919237,18325,"Rebecca Hicks",Portsmouth,England,16628,UK,24,Male,Medium,Regular,2/26/2024,2024,February,4,121.55,486.21,Clothing,Zara,Jeans,Average,Standard,Cash,Processing,2
+3090124,18350,"Tracy Lewis",Portsmouth,England,48298,UK,19,Male,Medium,Regular,7/4/2023,2023,July,10,164.65,1646.52,Grocery,Nestle,Coffee,Good,Express,PayPal,Processing,4
+2638207,18354,"Ricardo Wilson",Portsmouth,England,77399,UK,19,Female,Medium,Regular,5/5/2023,2023,May,4,199.9,799.62,Books,"Random House",Non-Fiction,Average,Same-Day,"Debit Card",Processing,2
+5715324,18367,"Sherry Gregory",Portsmouth,England,96346,UK,21,Male,Medium,Regular,8/31/2023,2023,August,6,194.53,1167.2,"Home Decor","Bed Bath & Beyond",Kitchen,Excellent,Express,"Debit Card",Delivered,4
+1580533,18369,"Kelly Stewart",Portsmouth,England,17461,UK,21,Male,High,Regular,9/20/2023,2023,September,3,44.57,133.72,Grocery,Coca-Cola,"Soft Drink",Average,Express,"Credit Card",Shipped,2
+6186071,18378,"Jessica Johnson",Portsmouth,England,99245,UK,24,Male,Medium,Regular,12/31/2023,2023,December,8,457.57,3660.52,Grocery,Coca-Cola,"Soft Drink",Excellent,Same-Day,Cash,Processing,4
+9148899,18393,"Carol Burns",Portsmouth,England,75763,UK,21,Female,High,Regular,9/16/2023,2023,September,5,241.84,1209.19,Clothing,Zara,Shirt,Good,Same-Day,"Debit Card",Shipped,4
+2983014,18404,"Joseph Mercer",Portsmouth,England,90318,UK,64,Male,Medium,Regular,8/26/2023,2023,August,1,286.63,286.63,Grocery,Pepsi,"Soft Drink",Good,Standard,PayPal,Delivered,4
+9142624,18417,"Christopher Rivera",Portsmouth,England,70656,UK,24,Male,Medium,Regular,9/17/2023,2023,September,8,407.19,3257.51,Clothing,Zara,Shirt,Good,Standard,Cash,Shipped,4
+8868306,18459,"Kyle Clark",Portsmouth,England,39972,UK,21,Female,Medium,Regular,10/1/2023,2023,October,4,324.21,1296.85,Electronics,Sony,Television,Good,Express,"Debit Card",Pending,4
+5949200,18462,"Justin Oconnor",Portsmouth,England,76870,UK,19,Male,Medium,Regular,3/13/2023,2023,March,6,142.83,856.96,Grocery,Coca-Cola,Juice,Good,Standard,Cash,Delivered,4
+8399475,18467,"Mary Mcintyre",Portsmouth,England,33973,UK,19,Female,Medium,Regular,2/11/2024,2024,February,1,57.2,57.2,Grocery,Coca-Cola,"Soft Drink",Average,Express,"Debit Card",Delivered,2
+3090327,18511,"Edward Russell",Portsmouth,England,93801,UK,21,Male,High,Regular,4/11/2023,2023,April,10,470.27,4702.69,Clothing,Nike,Shoes,Good,Standard,PayPal,Delivered,3
+7226711,18515,"Jennifer Salinas",Portsmouth,England,21015,UK,67,Male,High,Regular,1/30/2024,2024,January,1,52.38,52.38,"Home Decor","Home Depot",Furniture,Good,Standard,Cash,Delivered,3
+8289555,18520,"Jose Brewer",Portsmouth,England,60219,UK,24,Male,Medium,Regular,5/29/2023,2023,May,8,365.98,2927.81,,Nestle,Chocolate,Good,Express,PayPal,Processing,3
+1303303,18524,"Kelly Lynch",Portsmouth,England,28191,UK,19,Male,Medium,Regular,10/24/2023,2023,October,9,258.4,2325.63,"Home Decor","Bed Bath & Beyond",Bedding,Excellent,Express,PayPal,Delivered,5
+2629458,18526,"Alexander Oconnor",Portsmouth,England,896,UK,21,Male,Medium,Regular,8/6/2023,2023,August,3,144.47,433.4,Books,"Penguin Books",Fiction,Average,Standard,Cash,Delivered,2
+1098596,18534,"Brandi Salas",Portsmouth,England,11076,UK,24,Female,Medium,Regular,8/4/2023,2023,August,2,253.35,506.7,Clothing,Nike,T-shirt,Bad,Express,Cash,Delivered,1
+7341757,18535,"Darrell Kaufman",Portsmouth,England,78735,UK,24,Male,Medium,Regular,8/19/2023,2023,August,6,314.2,1885.18,Electronics,Samsung,Tablet,Excellent,Standard,"Credit Card",Pending,4
+4915567,18541,"Rachel Gutierrez",Portsmouth,England,34663,UK,24,Female,Medium,Regular,12/11/2023,2023,December,10,96.71,967.12,Books,HarperCollins,Thriller,Average,Standard,Cash,Delivered,2
+3500400,18547,"Evan Morgan",Portsmouth,England,52162,UK,24,Male,Medium,Regular,4/8/2023,2023,April,5,445.56,2227.8,Grocery,Pepsi,Water,Excellent,Standard,Cash,Delivered,4
+3336273,18548,"Stephanie Dixon",Portsmouth,England,94912,UK,24,Male,Medium,Regular,8/11/2023,2023,August,10,282.39,2823.9,Grocery,Nestle,Snacks,Average,Standard,Cash,Processing,2
+6498997,18554,"Jessica Richards",Portsmouth,England,94405,UK,24,Female,Medium,Regular,8/7/2023,2023,August,3,428.66,1285.97,Grocery,Nestle,Coffee,Good,Same-Day,PayPal,Pending,4
+1174678,18566,"Kelly Lee MD",Portsmouth,England,731,UK,24,Male,Medium,Regular,11/10/2023,2023,November,5,106.76,533.8,Books,"Penguin Books",Children's,Average,Standard,"Debit Card",Delivered,2
+5143830,18567,"William Mahoney",Portsmouth,England,62067,UK,24,Female,Medium,Regular,1/9/2024,2024,January,10,274.97,2749.68,"Home Decor","Bed Bath & Beyond",Bathroom,Good,Standard,Cash,Pending,3
+2877600,18568,"Heather Jacobs",Portsmouth,England,33610,UK,21,Female,High,Regular,11/3/2023,2023,November,8,107.21,857.7,Books,"Random House",Non-Fiction,Average,Standard,Cash,Delivered,2
+5813245,18581,"Mark Lopez",Portsmouth,England,58235,UK,21,Female,Medium,Regular,6/10/2023,2023,June,10,491.28,4912.78,Grocery,Pepsi,"Soft Drink",Average,Standard,"Credit Card",Pending,2
+7212897,18588,"Jessica Hansen",Portsmouth,England,11943,UK,19,Female,Medium,Regular,5/23/2023,2023,May,7,406.26,2843.83,"Home Decor",IKEA,Furniture,Bad,Same-Day,"Debit Card",Processing,1
+8296835,18609,"Tyler Roberts",Portsmouth,England,76652,UK,19,Female,Medium,Regular,10/2/2023,2023,October,8,402.72,3221.72,Electronics,Sony,Television,Excellent,Express,PayPal,Delivered,5
+4753649,18620,"Joseph Wagner",Portsmouth,England,30811,UK,24,Male,Medium,Regular,9/24/2023,2023,September,1,499.5,499.5,Clothing,Adidas,Jacket,Good,Same-Day,Cash,Pending,3
+9085907,18640,"Samantha David",Portsmouth,England,89718,UK,24,Female,Medium,Regular,6/19/2023,2023,June,9,153.84,1384.56,Books,"Penguin Books",Non-Fiction,Good,Express,PayPal,Processing,4
+1971278,18645,"Caitlin Mccann",Portsmouth,England,8359,UK,24,Male,Medium,Regular,1/27/2024,2024,January,7,132.19,925.3,Clothing,Zara,Jeans,Good,Standard,Cash,Delivered,4
+1946482,18659,"Rose Clark",Portsmouth,England,43472,UK,21,Female,Medium,Regular,11/15/2023,2023,November,2,46.25,92.5,"Home Decor","Home Depot",Furniture,Average,Same-Day,PayPal,Delivered,2
+4566439,18679,"Patricia Thompson",Portsmouth,England,4204,UK,24,Female,Medium,Regular,2/1/2024,2024,February,4,409.34,1637.35,Electronics,Samsung,Smartphone,Bad,Standard,PayPal,Pending,1
+1896333,18686,"Lauren Reeves",Portsmouth,England,5142,UK,21,Female,Medium,Regular,2/23/2024,2024,February,7,141.85,992.94,Books,"Penguin Books",Children's,Excellent,Express,Cash,Pending,5
+7306566,18701,"Brian Gonzalez",Portsmouth,England,52188,UK,24,Female,Medium,Regular,12/26/2023,2023,December,8,427.15,3417.19,Clothing,Adidas,T-shirt,Bad,Standard,"Credit Card",Shipped,1
+5195568,18736,"Lisa Reyes",Portsmouth,England,97245,UK,21,Male,High,Regular,8/5/2023,2023,August,2,198.98,397.96,Grocery,Coca-Cola,"Soft Drink",Bad,Standard,PayPal,Pending,1
+3886605,18737,"Mrs. Dominique Flores",Portsmouth,England,34152,UK,21,Female,Medium,Regular,7/28/2023,2023,July,1,76.41,76.41,Electronics,Samsung,Tablet,Good,Standard,"Debit Card",Processing,3
+1981492,18741,"Frances Howell",Portsmouth,England,11122,UK,19,Male,Medium,Regular,2/17/2024,2024,February,8,62.83,502.64,Grocery,Nestle,Snacks,Average,Express,"Credit Card",Processing,2
+7554005,18743,"Richard Harrison",Portsmouth,England,21146,UK,19,Male,Medium,Regular,5/16/2023,2023,May,3,275.61,826.82,Grocery,Coca-Cola,Juice,Average,Same-Day,PayPal,Delivered,2
+3177003,18754,"Raymond Campos",Portsmouth,England,34240,UK,19,Male,Medium,Regular,5/4/2023,2023,May,10,341.07,3410.71,Books,"Random House",Fiction,Average,Standard,PayPal,Delivered,2
+8628272,18755,"Nicole Gibson",Portsmouth,England,91974,UK,24,Female,Medium,Regular,11/20/2023,2023,November,6,183.14,1098.84,Clothing,Zara,Shirt,Excellent,Standard,"Credit Card",Delivered,5
+6216546,18766,"Dr. Bruce Shepherd",Portsmouth,England,51458,UK,19,Male,Medium,Regular,12/27/2023,2023,December,10,261.44,2614.39,Electronics,Sony,Television,Bad,Express,PayPal,Pending,1
+9461539,18781,"Jay Russell",Portsmouth,England,24952,UK,24,Male,Medium,Regular,8/31/2023,2023,August,10,478.8,4787.96,"Home Decor",IKEA,Decorations,Excellent,Express,Cash,Delivered,5
+9044453,18784,"Mark Thomas",Portsmouth,England,3761,UK,24,Male,Medium,Regular,5/16/2023,2023,May,7,263.12,1841.81,Grocery,Coca-Cola,Water,Excellent,Express,Cash,Pending,5
+9822274,18785,"John Hull",Portsmouth,England,41682,UK,19,Female,Medium,Regular,2/5/2024,2024,February,5,143.44,717.19,Books,HarperCollins,Fiction,Bad,Same-Day,PayPal,Shipped,1
+2373499,18792,"James Rodriguez",Portsmouth,England,90862,UK,19,Male,Medium,Regular,1/8/2024,2024,January,4,203.2,812.82,Grocery,Coca-Cola,Juice,Bad,Standard,PayPal,Delivered,1
+9955231,18793,"Jeffrey Carter",Portsmouth,England,29281,UK,21,Male,High,Regular,9/17/2023,2023,September,8,371.58,2972.61,Grocery,Nestle,Chocolate,Good,Standard,PayPal,Shipped,3
+8407763,18809,"Linda Morales",Portsmouth,England,52973,UK,19,Male,Medium,Regular,11/9/2023,2023,November,4,202.75,810.99,"Home Decor","Bed Bath & Beyond",Bathroom,Bad,Same-Day,"Debit Card",Delivered,1
+9124735,18810,"Rebecca Turner",Portsmouth,England,10534,UK,24,Male,Medium,Regular,3/13/2023,2023,March,7,130.13,910.91,Grocery,Coca-Cola,Juice,Average,Same-Day,PayPal,Processing,2
+6208859,18816,"John Cook",Portsmouth,England,54242,UK,24,Male,Medium,Regular,11/1/2023,2023,November,8,343.16,2745.29,Grocery,Pepsi,Juice,Excellent,Same-Day,"Credit Card",Shipped,5
+8423283,18817,"Melissa Leach",Portsmouth,England,57108,UK,47,Male,Medium,Regular,9/3/2023,2023,September,3,299.99,899.98,Grocery,Pepsi,Juice,Good,Express,Cash,,3
+9738604,18848,"Christopher Snyder",Portsmouth,England,12842,UK,19,Male,Medium,Regular,6/3/2023,2023,June,2,11.86,23.71,Books,"Random House",Literature,Good,Standard,Cash,Pending,4
+7770987,18881,"Sheri Kirby",Portsmouth,England,60106,UK,24,Female,Medium,Regular,3/6/2023,2023,March,3,69.83,209.49,Books,"Penguin Books",Fiction,Bad,Same-Day,PayPal,Processing,1
+5079392,18884,"Alison Johnson",Portsmouth,England,82714,UK,21,Male,Medium,Regular,10/9/2023,2023,October,3,497.1,1491.31,Clothing,Adidas,Shoes,Excellent,Standard,"Debit Card",Processing,4
+8096103,18895,"Barry Welch",Portsmouth,England,25570,UK,19,Female,Medium,Regular,8/30/2023,2023,August,5,345.35,1726.74,Grocery,Coca-Cola,"Soft Drink",Average,Express,"Debit Card",Shipped,2
+1375935,18899,"Dr. Victoria Ho",Portsmouth,England,37130,UK,24,Male,Medium,Regular,6/9/2023,2023,June,4,43.94,175.77,"Home Decor","Home Depot",Decorations,Bad,Express,"Debit Card",Processing,1
+5669002,18908,"Timothy Walton",Portsmouth,England,63034,UK,21,Female,Medium,Regular,10/29/2023,2023,,6,434.44,2606.65,Grocery,Pepsi,Water,Excellent,Same-Day,"Credit Card",Pending,4
+1983549,18932,"Karina Wade",Portsmouth,England,83604,UK,40,Female,High,Regular,9/30/2023,2023,September,7,123.87,867.09,Clothing,Nike,T-shirt,Excellent,Same-Day,"Debit Card",Pending,4
+3569364,18935,"Tamara Daniel",Portsmouth,England,22098,UK,24,Female,Medium,Regular,7/20/2023,2023,July,4,349.64,1398.57,Grocery,Nestle,Snacks,Average,Same-Day,"Credit Card",Delivered,2
+2046035,18941,"Melissa Castaneda",Portsmouth,England,24080,UK,19,Female,Medium,Regular,7/18/2023,2023,July,2,189.07,378.13,Grocery,Nestle,Snacks,Average,Same-Day,"Debit Card",Shipped,2
+6819393,18952,"Katie White",Portsmouth,England,85482,UK,24,Female,Medium,Regular,10/16/2023,2023,October,8,321.08,2568.68,Grocery,Coca-Cola,"Soft Drink",Average,Express,PayPal,Delivered,2
+1931532,18955,"Timothy Smith",Portsmouth,England,93859,UK,21,Male,Medium,Regular,8/12/2023,2023,August,9,493.16,4438.45,Grocery,Nestle,Snacks,Average,Same-Day,PayPal,Shipped,2
+8900242,18970,"Claire Bird",Portsmouth,England,95863,UK,21,Female,Medium,Regular,7/8/2023,2023,July,4,195.67,782.66,Electronics,Apple,Laptop,Good,Standard,"Credit Card",Processing,3
+1669375,18971,"William Moss",Portsmouth,England,1866,UK,21,Male,Medium,Regular,2/14/2024,2024,February,8,10.02,80.16,Clothing,Nike,Shorts,Average,Express,"Debit Card",Shipped,2
+8603798,18983,"Melissa Oneill MD",Portsmouth,England,78475,UK,35,Female,High,Regular,9/13/2023,2023,September,5,44.89,224.47,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Same-Day,"Debit Card",Processing,1
+9686428,19008,"Daniel King",Portsmouth,England,48589,UK,24,Female,Medium,Regular,10/3/2023,2023,October,5,387.9,1939.52,Grocery,Nestle,Coffee,Bad,Express,Cash,Pending,1
+5389680,19012,"Alexander Jenkins",Portsmouth,England,47151,UK,19,Female,Medium,Regular,7/3/2023,2023,July,6,56.01,336.08,Clothing,Nike,Shoes,Excellent,Same-Day,"Credit Card",Delivered,4
+8210154,19015,"Jessica Ferguson",Portsmouth,England,55209,UK,19,Male,Medium,Regular,3/5/2023,2023,March,5,341.16,1705.81,Grocery,Coca-Cola,Water,Average,Standard,"Debit Card",Delivered,2
+6369122,19031,"Lorraine Hansen",Portsmouth,England,94997,UK,24,Male,Medium,Regular,5/28/2023,2023,May,10,432.94,4329.37,Books,"Penguin Books",Children's,Excellent,Express,PayPal,Pending,5
+8906105,19038,"Mike Mann",Portsmouth,England,61854,UK,21,Male,Medium,Regular,2/2/2024,2024,February,9,119.75,1077.72,"Home Decor","Home Depot",Tools,Excellent,Express,"Credit Card",Delivered,5
+3376048,19044,"Darren Fernandez",Portsmouth,England,39007,UK,24,Male,Medium,Regular,,2023,April,2,394.55,789.11,"Home Decor","Bed Bath & Beyond",Bathroom,Average,Express,Cash,Pending,2
+9281841,19058,"Eddie Sharp",Portsmouth,England,84680,UK,19,Female,Medium,Regular,5/23/2023,2023,May,9,69.93,629.37,Grocery,Coca-Cola,Juice,Excellent,Express,"Credit Card",Delivered,5
+1826809,19062,"Nicholas Erickson",Portsmouth,England,55598,UK,21,Female,High,Regular,12/16/2023,2023,December,4,424.6,1698.41,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Standard,Cash,Shipped,2
+3673852,19083,"Daniel Diaz",Portsmouth,England,12688,UK,24,Male,Medium,Regular,3/16/2023,2023,March,10,50.45,504.51,"Home Decor","Bed Bath & Beyond",Kitchen,Bad,Standard,Cash,Pending,1
+9945796,19085,"Michael Rodriguez",Portsmouth,England,65202,UK,21,Female,Medium,Regular,4/22/2023,2023,April,4,270.03,1080.11,Grocery,Pepsi,"Soft Drink",Average,Express,"Credit Card",Shipped,2
+4195308,19086,"Jacob Smith",Portsmouth,England,69188,UK,21,Female,Medium,Regular,11/21/2023,2023,November,5,164.41,822.03,"Home Decor","Bed Bath & Beyond",Kitchen,Good,Express,Cash,Shipped,3
+1142251,19090,"Kevin Alvarez",Portsmouth,England,80341,UK,24,Male,Medium,Regular,5/24/2023,2023,May,9,188.97,1700.76,Books,"Random House",Fiction,Excellent,Express,PayPal,Pending,4
+4802781,19093,"Gina Ho",Portsmouth,England,63755,UK,24,Female,Medium,Regular,4/30/2023,2023,April,10,200.44,2004.43,Grocery,Coca-Cola,Juice,Bad,Standard,"Credit Card",Pending,1
+6757463,19096,"Daniel Howard",Portsmouth,England,3260,UK,21,Male,High,Regular,1/2/2024,2024,January,1,187.97,187.97,Electronics,Apple,Laptop,Excellent,Express,"Debit Card",Delivered,4
+9056953,19114,"Emily Pineda",Portsmouth,England,67435,UK,21,Male,High,Regular,8/31/2023,2023,August,9,491.97,4427.73,"Home Decor","Home Depot",Furniture,Good,Express,"Debit Card",Delivered,4
+3769657,19129,"Julia Mitchell",Portsmouth,England,27522,UK,21,Female,Medium,Regular,7/2/2023,2023,July,10,167.32,1673.16,"Home Decor",IKEA,Lighting,Excellent,Express,"Debit Card",Processing,4
+9396939,19133,"Troy Hansen",Portsmouth,England,85251,UK,21,Male,Medium,Regular,12/4/2023,2023,December,7,88.43,619.01,Electronics,Sony,Headphones,Excellent,Same-Day,Cash,Pending,4
+8493213,19136,"Jonathan Eaton",Portsmouth,England,59280,UK,64,Female,Low,Regular,7/20/2023,2023,July,4,90.98,363.93,"Home Decor","Home Depot",Tools,Average,Standard,"Credit Card",Shipped,2
+5913772,19137,"John Russell",Portsmouth,England,60648,UK,21,Male,Medium,Regular,7/23/2023,2023,July,1,254.94,254.94,Clothing,Adidas,Shoes,Good,Same-Day,PayPal,Shipped,3
+9851924,19154,"Lisa Smith",Portsmouth,England,50492,UK,24,Male,Medium,Regular,9/23/2023,2023,September,6,123.72,742.34,Grocery,Pepsi,Water,Excellent,Express,"Credit Card",Delivered,4
+5475811,19159,"Jessica Moore",Portsmouth,England,28986,UK,19,Female,Medium,Regular,9/26/2023,2023,September,7,261.33,1829.33,Electronics,Sony,Smartphone,Bad,Standard,Cash,Delivered,1
+5263959,19163,"Blake Sanders",Portsmouth,England,80810,UK,21,Male,Medium,Regular,1/23/2024,2024,January,1,138.49,138.49,Clothing,Adidas,Jacket,Average,Same-Day,PayPal,Delivered,2
+3241742,19165,"Michelle Edwards",Portsmouth,England,74496,UK,21,Male,High,Regular,2/20/2024,2024,February,10,374.09,3740.86,Electronics,Sony,Television,Bad,Express,Cash,Shipped,1
+1184641,19186,"Lynn Dean",Portsmouth,England,19765,UK,21,Female,Medium,Regular,1/24/2024,2024,January,2,218.85,437.7,Grocery,Pepsi,Water,Excellent,Standard,PayPal,Shipped,5
+3039244,19192,"Joshua Lopez",Portsmouth,England,47425,UK,21,Male,Medium,Regular,2/4/2024,2024,February,2,441.34,882.69,Grocery,Pepsi,Water,Excellent,Same-Day,Cash,Processing,5
+2287074,19202,"Catherine Moran",Portsmouth,England,68213,UK,48,Male,Medium,Regular,2/26/2024,2024,February,1,256.82,256.82,"Home Decor",IKEA,Furniture,Bad,Express,PayPal,Delivered,1
+8053353,19228,"Elizabeth Barton",Portsmouth,England,99573,UK,19,Male,Medium,Regular,7/10/2023,2023,July,10,255.31,2553.06,Books,"Penguin Books",Fiction,Excellent,Standard,"Debit Card",Delivered,5
+4859430,19232,"William Carson",Portsmouth,England,51050,UK,24,Female,Medium,Regular,11/27/2023,2023,November,8,286.78,2294.25,"Home Decor","Bed Bath & Beyond",Bedding,Average,Same-Day,"Debit Card",Shipped,2
+5221521,19240,"Dwayne Rodriguez",Portsmouth,England,3831,UK,24,Female,Medium,Regular,11/6/2023,2023,November,5,482.08,2410.41,Clothing,Nike,T-shirt,Average,Standard,"Credit Card",Shipped,2
+7589684,19266,"Justin Valdez",Portsmouth,England,85294,UK,21,Male,High,Regular,7/5/2023,2023,July,3,145.57,436.7,Grocery,Pepsi,Water,Bad,Express,Cash,Processing,1
+7677579,19284,"Ryan Perry",Portsmouth,England,45536,UK,21,Male,High,Regular,1/27/2024,2024,January,4,408.45,1633.78,Clothing,Adidas,T-shirt,Excellent,Express,Cash,Shipped,5
+2525589,19299,"Donald Flynn",Portsmouth,England,27675,UK,24,Female,Medium,Regular,7/3/2023,2023,July,2,470.36,940.71,Electronics,Apple,Smartphone,Good,Standard,"Debit Card",Shipped,4
+9051490,19303,"Rachel Hobbs",Portsmouth,England,30346,UK,36,Male,Low,Regular,3/15/2023,2023,March,2,230.88,461.75,"Home Decor","Home Depot",Furniture,Bad,Standard,PayPal,Processing,1
+9351154,19319,"Melissa Taylor",Portsmouth,England,23437,UK,21,Male,Medium,Regular,2/3/2024,2024,February,6,346.38,2078.31,Grocery,Nestle,Coffee,Good,Express,"Credit Card",Processing,3
+6144509,19321,"Jonathan Johnson",Portsmouth,England,85374,UK,21,Male,Medium,Regular,8/3/2023,2023,August,9,461.61,4154.53,Clothing,Nike,Shoes,Average,Standard,"Debit Card",Pending,2
+3056555,19337,"Elizabeth Wilson",Portsmouth,England,28078,UK,19,Female,Medium,Regular,9/2/2023,2023,September,6,416.31,2497.88,Clothing,Adidas,Jacket,Excellent,Standard,PayPal,Pending,4
+4809422,19347,"John Santos",Portsmouth,England,20816,UK,25,Female,High,Regular,5/23/2023,2023,May,8,453.02,3624.19,Books,"Random House",Fiction,Average,Express,"Debit Card",Pending,2
+2377581,19361,"Thomas Williams",Portsmouth,England,43227,UK,19,Female,Medium,Regular,11/3/2023,2023,November,1,28.88,28.88,Grocery,Pepsi,Juice,Bad,Express,"Credit Card",Delivered,1
+9837370,19362,"Isaac Whitney",Portsmouth,England,38872,UK,21,Female,Medium,Regular,4/25/2023,2023,April,2,444.86,889.71,Electronics,Samsung,Television,Bad,Express,PayPal,Shipped,1
+8877180,19364,"Matthew Gonzalez MD",Portsmouth,England,51013,UK,21,Male,High,Regular,10/16/2023,2023,October,5,462.25,2311.27,Clothing,Adidas,Shoes,Excellent,Same-Day,PayPal,Pending,4
+9011133,19369,"Heather Russo",Portsmouth,England,9604,UK,21,Male,High,Regular,12/2/2023,2023,December,3,138.95,416.85,Books,"Penguin Books",Non-Fiction,Average,Same-Day,"Credit Card",Delivered,2
+2728744,19376,"Kelly Nguyen",Portsmouth,England,15232,UK,24,Male,Medium,Regular,5/27/2023,2023,May,7,382.72,2679.01,Electronics,Apple,Tablet,Good,Standard,"Debit Card",Processing,4
+8305436,19379,"Jeffery Noble",Portsmouth,England,37270,UK,21,Male,Medium,Regular,12/6/2023,2023,December,3,450.88,1352.65,Clothing,Nike,Shorts,Bad,Same-Day,PayPal,Processing,1
+8027725,19385,"Carol Robertson",Portsmouth,England,4581,UK,21,Male,High,Regular,8/27/2023,2023,August,2,416.05,832.1,Grocery,Coca-Cola,Juice,Bad,Same-Day,"Debit Card",Shipped,1
+1288329,19391,"Richard Riley",Portsmouth,England,37796,UK,21,Male,High,Regular,3/23/2023,2023,March,4,342.46,1369.84,"Home Decor",IKEA,Furniture,Average,Standard,"Credit Card",Shipped,2
+8646933,19393,"Nancy Hudson",Portsmouth,England,10812,UK,24,Male,Medium,Regular,8/24/2023,2023,August,7,478.48,3349.35,Electronics,Sony,Television,Bad,Same-Day,"Debit Card",Delivered,1
+8006646,19418,"Mary Gonzales",Portsmouth,England,53503,UK,24,Female,Medium,Regular,4/23/2023,2023,April,3,241.12,723.35,"Home Decor","Home Depot",Furniture,Excellent,Express,Cash,Shipped,5
+2229357,19423,"Samantha Lopez",Portsmouth,England,32640,UK,19,Male,Medium,Regular,9/15/2023,2023,September,1,184.54,184.54,Books,"Random House",Fiction,Average,Same-Day,PayPal,Delivered,2
+6593790,19424,"Rebecca Pham",Portsmouth,England,47322,UK,19,Male,Medium,Regular,8/2/2023,2023,August,4,398.14,1592.56,Books,"Penguin Books",Non-Fiction,Bad,Express,"Credit Card",Shipped,1
+4733542,19426,"Andrew Boyd",Portsmouth,England,51996,UK,21,Male,High,Regular,8/22/2023,2023,August,7,81.68,571.75,Grocery,Pepsi,Juice,Bad,Express,"Debit Card",Shipped,1
+4975061,19437,"Melissa Harrison",Portsmouth,England,36013,UK,24,Female,Medium,Regular,5/12/2023,2023,May,6,166.21,997.24,Clothing,Adidas,T-shirt,Bad,Standard,Cash,Pending,1
+1412559,19438,"David Gray",Portsmouth,England,59214,UK,21,Male,Medium,Regular,5/7/2023,2023,May,10,45.69,456.93,Grocery,Pepsi,"Soft Drink",Average,Express,Cash,Shipped,2
+2602047,19445,"Edgar York",Portsmouth,England,96925,UK,24,Female,Medium,Regular,11/2/2023,2023,November,3,340.59,1021.77,Clothing,Zara,Dress,Average,Express,Cash,Pending,2
+4626421,19449,"Jessica Martinez",Portsmouth,England,46220,UK,21,Male,Medium,Regular,7/10/2023,2023,July,4,19.12,76.49,"Home Decor","Bed Bath & Beyond",Kitchen,Average,Express,Cash,Processing,2
+9051073,19456,"Barbara Kemp",Portsmouth,England,9784,UK,19,Female,Medium,Regular,12/13/2023,2023,December,1,44.6,44.6,"Home Decor",IKEA,Decorations,Bad,Express,Cash,Shipped,1
+2435652,19457,"Daniel Cooley",Portsmouth,England,32153,UK,24,Female,Medium,Regular,1/16/2024,2024,January,6,309.06,1854.36,Books,HarperCollins,Thriller,Excellent,Express,Cash,Processing,5
+3940440,19462,"Martha Ruiz",Portsmouth,England,41698,UK,21,Female,Medium,Regular,8/15/2023,2023,August,8,155.34,1242.72,Grocery,Nestle,Coffee,Excellent,Standard,"Debit Card",Pending,4
+3757904,19463,"Matthew Benjamin",Portsmouth,England,43276,UK,19,Male,Medium,Regular,3/15/2023,2023,March,6,455.77,2734.6,Grocery,Pepsi,Water,Excellent,Express,PayPal,Delivered,5
+8572106,19470,"Amy Carpenter",Portsmouth,England,55574,UK,21,Male,Medium,Regular,7/28/2023,2023,July,3,357.46,1072.38,Clothing,Nike,Shorts,Good,Standard,Cash,Processing,4
+6403418,19477,"Adrienne Jones MD",Portsmouth,England,75290,UK,19,Male,Medium,Regular,3/15/2023,2023,March,6,198.26,1189.55,Grocery,Nestle,Snacks,Excellent,Same-Day,"Credit Card",Pending,4
+9023195,19488,"Olivia Nguyen",Portsmouth,England,21179,UK,19,Male,Medium,Regular,7/17/2023,2023,July,8,479.27,3834.19,Electronics,Apple,Smartphone,Excellent,Express,"Credit Card",Delivered,4
